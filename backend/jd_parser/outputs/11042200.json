@@ -1,0 +1,28 @@
+{
+  "job_id": "11042200",
+  "company": "Acecenture LLP",
+  "job_title": "CS - Cloud Platform Architect - Austin",
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "postal_code": "78727"
+  },
+  "jobdiva_number": "18-13686",
+  "positions": 1,
+  "bill_rate": {
+    "min": null,
+    "max": null,
+    "period": "h"
+  },
+  "pay_rate": {
+    "min": null,
+    "max": null,
+    "period": "h"
+  },
+  "position_type": "Heads-Up",
+  "onsite_flexibility": null,
+  "remote_percentage": null,
+  "description": "Description/Comment:RM LEVEL 7 OTHER The person in this role primarily supports sales activities from a technical perspective as well as deliver on technology projects. This person will design & deliver client solutions for a particular platform and should possess specialization & expertise in interfaces, components and design patterns used to develop cloud native platforms. Lead the platform implementation, offer both conceptual & practical solutions. Have a deep background in Java. Contribute to assets/offerings & thought leadership. Experience in messaging and integration technologies and components. Knowledge of event driven architecture, Messaging technologies. (e.g. JMS, RabbitMQ, SQS, AMQP etc). Have at least 10 years of experience in design and development of distributed software applications and cloud-native platforms. Primary Skills: Java, Spring, Cloud, Microservices, Rest API, AWS, Azure, Spring, SaaS, PaaS, Cloud Foundry, Kubernetes, API Gateway, API Engineering, NoSQL, JMS, Hadoop. Must demonstrate expertise in the following areas: 1) Cloud-Native Application Design and Architecture (Must be strong in this area): Actual experience in building cloud applications, Software as a Service (SaaS), Platform as a Service (PaaS, e.g. OpenShift, CloudFoundry) using at least one of the following IaaS platforms: AWS, MS Azure, Google Cloud. Knowledge of and experience in design of microservice-based solutions. Experience in designing load-balanced, auto-scalable, highly available, and secure architecture in cloud environment. API Managers/Gateways experience is a big plus. 2) Data Engineering & Analytics: Big Data technologies experience (Apache Spark, Hive/HDFS, NiFi). Machine Learning and/or Data Analytics platforms (Splunk, Pivotal Analytics, Kognito Analytics) 3) Development and Operations Engineering desired: Continuous Integration and Continuous Deployment for large and small teams... Docker experience is a plus. 4) Other skills required to support sales activities: Good communicator and collaborator with customers and stakeholders -- Demonstrable experience in explaining problem space to the customers and working with them in building technical solution architecture. Build presentations and illustrations explaining complex concepts to the stakeholders. Selling Ideas and creative solutions. Experience with costing solutions or budgeting. Demonstrable leadership experience. Additional Job Details:Travel may be required up to 50% of the time and we prefer candidates interested in converting to an employee after 6 – 12 months. Residency: Green Card / US / HB1. For H1B candidates, he/she must meet “Client Hireable” requirements. This includes: * The candidate's I-140 has been approved * The candidate's I-485 has been pending with USCIS for at least 180 days * Candidate confirms he/she is interested in converting to an employee after 6 - 12 months. Once hired Client will cover the cost to file I-485 extensions only.",
+  "recruiter_remarks": ""
+}

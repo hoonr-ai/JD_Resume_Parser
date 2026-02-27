@@ -1,0 +1,302 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  18636563337343_94_3
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  alekhyad.workday@gmail.com
+  FULL_NAME  Alekhya Didige
+  GITHUB  NULL
+  LINKEDIN  NULL
+  LOCATION  Little Elm, Texas 75068 US
+  PHONE_E164  +19402900628
+  PHONE_RAW  +19402900628
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Techno Functional Workday Consultant with 4+ years of experience in HCM, Payroll, Compensation,
+  Integrations, and Benefits, with expertise in Workday Studio, Core Connectors, EIB, and Advanced Report
+  Writing.
+  Expertise in Workday Extend, Workday Orchestrations, and Custom Object Development, delivering
+  tailored solutions to enhance HR, Payroll, and Finance processes.
+  Proficient in Python and SQL for data manipulation, integration validation, and creating custom automation
+  solutions for HR and payroll workflows.
+  Functional experience in Workday HCM, including Employee Lifecycle Management, Compensation
+  Planning, and Benefits Administration.
+  Managed employee lifecycle processes, including onboarding, offboarding, and employee data management
+  within the Workday HRM system.
+  Experienced in Workday inbound/outbound integrations, Core Connectors, and Document Transformations.
+  Developed Workday Extend applications and Workday Orchestrations to automate complex workflows,
+  reducing manual interventions by 30%.
+  Proficient in developing and managing inbound/outbound integrations using Studio, Document
+  Transformation, and REST APIs for seamless data synchronization with third-party systems such as ADP,
+  Kronos, and Fidelity.
+  Designed and implemented custom Workday HRIS reports and dashboards to track key HR metrics such as
+  turnover rate, employee demographics, and performance management.
+  Proficient in the transformation of XML into XSLT and XML into JSON for presenting data for different web
+  services.
+  Design and develop BIRT Reports as per client s requirement and work on fixing bugs.
+  Experienced in creating reusable templates, integration documentation, and migration plans for efficient system
+  transitions and knowledge transfer.
+  Adept at troubleshooting complex integration issues, performing root cause analysis, and implementing
+  scalable solutions that enhance system performance.
+  Collaborated with cross-functional teams using Agile methodologies, ensuring timely delivery of solutions and
+  fostering efficient communication between technical and business stakeholders.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Requests
+  ITEM  Data Manipulation
+  ITEM  Development
+  ITEM  ROOT
+  ITEM  Sql
+  ITEM  Access
+  ITEM  Data Transfer
+  ITEM  Optimization
+  ITEM  Collaboration
+  ITEM  Integrity
+  ITEM  Web Services
+  ITEM  XSLT
+  ITEM  Enterprise
+  ITEM  Cloud
+  ITEM  Scripting Languages
+  ITEM  Python
+  ITEM  WEB
+  ITEM  REST APIs
+  ITEM  ATOLL
+  ITEM  Json
+  ITEM  HIPAA
+  ITEM  Java
+  ITEM  Transformation
+  ITEM  Configuration
+  ITEM  File
+  ITEM  Xml
+  ITEM  Software
+  ITEM  Testing
+  ITEM  Performance
+  ITEM  Design
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  Client: Mercy Health Jan 2024 – Present
+  Role: Software Consultant -Workday
+  Responsibilities:
+  Configured and customized Workday HCM modules, including Compensation, Benefits, Time Tracking, and
+  Absence Management, to align with organizational policies.
+  Implemented Workday Orchestrations to automate payroll processing and benefits enrollment, improving
+  accuracy and efficiency.
+  Designed and configured Workday Payroll integrations with ADP, ensuring seamless multi-state payroll
+  operations.
+  Configured Workday Compensation structures, including bonus plans, merit increases, and stock options,
+  improving employee satisfaction.
+  Built and tested robust payroll integrations, including ADP Pay force and Fidelity investment data transfer,
+  ensuring accurate payroll processing across multiple states.
+  Developed and implemented security configurations, ensuring secure access controls and compliance with
+  SOX and GDPR.
+  Created Supervisory Organization, Re-Organization, Matrix Organization, Subordinate Organization,
+  Locations, Positions, Region, Cost centers, Staffing models, Jobs, Position and Compensation.
+  Work closely with internal and external teams to build data integration solutions for ERP systems. Used
+  functions such as ETV/XTT to do XSLT file transformations for integrations on workday cloud.
+  Developed Payroll ADP Payforce Integration, ADP tax Monthly, ADP tax Quarterly, and ADP Periodic
+  using Connectors, which are pre-delivered by Workday.
+  Generated and validated Workday report, created analysis report and dashboard for Management review.
+  Worked on Compensation eligibility rules creation, compensation plan, and compensation package.
+  Worked on validating the compensation grades and profiles with the eligibility rules for the hires in different
+  geography.
+
+  Client: American Financial Group Nov 2017 – Feb 2022
+  Role: Technical Consultant -Workday
+  Responsibilities:
+  Collaborate closely with clients to understand their unique business processes and requirements, ensuring
+  alignment with Workday capabilities and best practices.
+  Configure business processes, security roles, and compensation eligibility rules to streamline HR operations
+  across regions.
+  Implemented Workday Extend solutions to automate HR service requests and payroll adjustments
+  Design and configure advanced compensation structures and benefits packages within Workday, tailored to
+  meet specific organizational needs and compliance requirements.
+  Built custom reports using Report Writer and BIRT for payroll reconciliation, headcount analysis, and
+  compliance reporting.
+  Created XML and XSLT transformations for document generation and data manipulation, ensuring
+  compatibility with vendor systems.
+  Designed and implemented inbound integrations for onboarding and benefits enrollment, utilizing Workday
+  APIs and external web services.
+  Conducted root cause analysis for complex integration failures and implemented solutions that reduced error
+  rates by 25%.
+  Developed and deployed end-to-end integrations using Workday Studio, EIBs, and Core Connectors for
+  Benefits, Payroll, and Compensation processes.
+  Collaborated with business stakeholders to identify system requirements and align solutions with business
+  objectives.
+  Collaborate with internal and external stakeholders to develop and execute comprehensive data governance
+  strategies within Workday, ensuring data accuracy, integrity, and security.
+  Analyse and interpret data from Workday reports and analytics to provide actionable insights and
+  recommendations to stakeholders and senior management.
+  Conduct performance tuning and optimization of Workday configurations to enhance system responsiveness,
+  efficiency, and scalability.
+  Create and maintain comprehensive project documentation, including design documents, technical
+  specifications, test plans, and user guides, to support effective project management and knowledge transfer.
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  EMPTY
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  Masters in Computer Science -Southern Arkansas University Aug 2023 - Dec 2024
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  NULL
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  Alekhya Didige Email: Alekhyad.workday@gmail.com
+  Workday Technical Functional Analyst Phone: +1 940-290-0628
+
+  Professional Summary:
+  Techno Functional Workday Consultant with 4+ years of experience in HCM, Payroll, Compensation,
+  Integrations, and Benefits, with expertise in Workday Studio, Core Connectors, EIB, and Advanced Report
+  Writing.
+  Expertise in Workday Extend, Workday Orchestrations, and Custom Object Development, delivering
+  tailored solutions to enhance HR, Payroll, and Finance processes.
+  Proficient in Python and SQL for data manipulation, integration validation, and creating custom automation
+  solutions for HR and payroll workflows.
+  Functional experience in Workday HCM, including Employee Lifecycle Management, Compensation
+  Planning, and Benefits Administration.
+  Managed employee lifecycle processes, including onboarding, offboarding, and employee data management
+  within the Workday HRM system.
+  Experienced in Workday inbound/outbound integrations, Core Connectors, and Document Transformations.
+  Developed Workday Extend applications and Workday Orchestrations to automate complex workflows,
+  reducing manual interventions by 30%.
+  Proficient in developing and managing inbound/outbound integrations using Studio, Document
+  Transformation, and REST APIs for seamless data synchronization with third-party systems such as ADP,
+  Kronos, and Fidelity.
+  Designed and implemented custom Workday HRIS reports and dashboards to track key HR metrics such as
+  turnover rate, employee demographics, and performance management.
+  Proficient in the transformation of XML into XSLT and XML into JSON for presenting data for different web
+  services.
+  Design and develop BIRT Reports as per client s requirement and work on fixing bugs.
+  Experienced in creating reusable templates, integration documentation, and migration plans for efficient system
+  transitions and knowledge transfer.
+  Adept at troubleshooting complex integration issues, performing root cause analysis, and implementing
+  scalable solutions that enhance system performance.
+  Collaborated with cross-functional teams using Agile methodologies, ensuring timely delivery of solutions and
+  fostering efficient communication between technical and business stakeholders.
+  Technical Skills:
+  Workday Modules HCM, Payroll, Benefits, Compensation, Time Tracking, Absence
+  Management, Recruiting, Talent Management, Workday Extend, Business
+  Process Configuration, Supervisory Organizations, Eligibility Rules,
+  Compliance Audits
+  Programming and
+  scripting Languages
+  XSLT 2.0, XSLT 3.0, XML, Java, Python, SQL
+
+  Integration Tools Workday Studio, Enterprise Interface Builder (EIB), Core Connectors,
+  Document Transformation
+  Data Management Data Migration, Data Transformation, Data Accuracy Assurance
+  Security and
+  Compliance
+  Workday Security Roles and Permissions Configuration, HR Compliance,
+  System Audits, GDPR, SOX, HIPAA Compliance, Role-Based Access Controls
+  Project
+  Management
+  Agile Methodologies, Project Planning and Execution, Cross-functional Team
+  Collaboration
+  Testing and Quality
+  Assurance
+
+  Conducting unit testing, system testing, and user acceptance testing (UAT for
+  Workday implementations
+
+  Education:
+  Masters in Computer Science -Southern Arkansas University Aug 2023 - Dec 2024
+  Professional Experience:
+  Client: Mercy Health Jan 2024 – Present
+  Role: Software Consultant -Workday
+  Responsibilities:
+  Configured and customized Workday HCM modules, including Compensation, Benefits, Time Tracking, and
+  Absence Management, to align with organizational policies.
+  Implemented Workday Orchestrations to automate payroll processing and benefits enrollment, improving
+  accuracy and efficiency.
+  Designed and configured Workday Payroll integrations with ADP, ensuring seamless multi-state payroll
+  operations.
+  Configured Workday Compensation structures, including bonus plans, merit increases, and stock options,
+  improving employee satisfaction.
+  Built and tested robust payroll integrations, including ADP Pay force and Fidelity investment data transfer,
+  ensuring accurate payroll processing across multiple states.
+  Developed and implemented security configurations, ensuring secure access controls and compliance with
+  SOX and GDPR.
+  Created Supervisory Organization, Re-Organization, Matrix Organization, Subordinate Organization,
+  Locations, Positions, Region, Cost centers, Staffing models, Jobs, Position and Compensation.
+  Work closely with internal and external teams to build data integration solutions for ERP systems. Used
+  functions such as ETV/XTT to do XSLT file transformations for integrations on workday cloud.
+  Developed Payroll ADP Payforce Integration, ADP tax Monthly, ADP tax Quarterly, and ADP Periodic
+  using Connectors, which are pre-delivered by Workday.
+  Generated and validated Workday report, created analysis report and dashboard for Management review.
+  Worked on Compensation eligibility rules creation, compensation plan, and compensation package.
+  Worked on validating the compensation grades and profiles with the eligibility rules for the hires in different
+  geography.
+
+
+
+
+
+  Client: American Financial Group Nov 2017 – Feb 2022
+  Role: Technical Consultant -Workday
+  Responsibilities:
+  Collaborate closely with clients to understand their unique business processes and requirements, ensuring
+  alignment with Workday capabilities and best practices.
+  Configure business processes, security roles, and compensation eligibility rules to streamline HR operations
+  across regions.
+  Implemented Workday Extend solutions to automate HR service requests and payroll adjustments
+  Design and configure advanced compensation structures and benefits packages within Workday, tailored to
+  meet specific organizational needs and compliance requirements.
+  Built custom reports using Report Writer and BIRT for payroll reconciliation, headcount analysis, and
+  compliance reporting.
+  Created XML and XSLT transformations for document generation and data manipulation, ensuring
+  compatibility with vendor systems.
+  Designed and implemented inbound integrations for onboarding and benefits enrollment, utilizing Workday
+  APIs and external web services.
+  Conducted root cause analysis for complex integration failures and implemented solutions that reduced error
+  rates by 25%.
+  Developed and deployed end-to-end integrations using Workday Studio, EIBs, and Core Connectors for
+  Benefits, Payroll, and Compensation processes.
+  Collaborated with business stakeholders to identify system requirements and align solutions with business
+  objectives.
+  Collaborate with internal and external stakeholders to develop and execute comprehensive data governance
+  strategies within Workday, ensuring data accuracy, integrity, and security.
+  Analyse and interpret data from Workday reports and analytics to provide actionable insights and
+  recommendations to stakeholders and senior management.
+  Conduct performance tuning and optimization of Workday configurations to enhance system responsiveness,
+  efficiency, and scalability.
+  Create and maintain comprehensive project documentation, including design documents, technical
+  specifications, test plans, and user guides, to support effective project management and knowledge transfer.
+END_SECTION  RAW_EXTRACTION

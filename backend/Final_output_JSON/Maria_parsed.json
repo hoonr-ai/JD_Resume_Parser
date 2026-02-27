@@ -1,0 +1,85 @@
+{
+  "name": "Maria Devitt",
+  "location": "Milford, NJ 08848",
+  "phone": "+1 215 237 0564",
+  "email": "mariav.rollins7@gmail.com",
+  "summary": "Clinical Study Lead with 5+ years of experience in regulated pharmaceutical environments, skilled in cross-functional\nteam coordination, timeline management, risk management, and process improvement with expertise in developing and\nQCing clinical data (ADaM datasets and TFLs in compliance with CDISC standards and study protocols).",
+  "skills": [
+    "TFLs",
+    "R",
+    "Data Analysis",
+    "Data Science",
+    "ADaM",
+    "Jira",
+    "CDISC",
+    "SOPs",
+    "SAS"
+  ],
+  "experience": [
+    {
+      "title": "Lead cross-functional meetings (Data Management, Stats, Medical Writing, Safety, Regulatory) to discuss risks and",
+      "company": "Study Lead Statistical Programmer Remote, USA New Jersey",
+      "from": "Jun 2023",
+      "to": "Present",
+      "bullets": [
+        "Lead cross-functional meetings (Data Management, Stats, Medical Writing, Safety, Regulatory) to discuss risks and",
+        "align deliverables for insurance claims, registry, and post-market trial data integration.",
+        "Maintained and optimized integrated timelines across programs using Jira and internal planning tools, balancing",
+        "team capacity, priorities, and dependencies to ensure on-time delivery.",
+        "Drive day-to-day execution of strategic initiatives, translating high-level objectives into actionable plans and measurable",
+        "results across cross-functional teams.",
+        "Proactively identified and mitigated program risks, navigating ambiguity to maintain momentum and adapt plans as",
+        "requirements evolved.",
+        "Contribute to internal programming forums, capability initiatives, and process improvements, supporting the resolution",
+        "of complex programming and data issues.",
+        "Produce accurate, reproducible SAS code by authoring OPS and reviewing key study documents (e.g., SAP,",
+        "randomization strategy) to support both clinical and real-world data analysis.",
+        "QC SAS programming code and review all Dry Run deliverables and PASR reports to ensure compliance with",
+        "stakeholders needs."
+      ]
+    },
+    {
+      "title": "Led a structured 5S operational excellence initiative within a manufacturing environment, improving workflow",
+      "company": "Manufacturing Specialist Conshohocken, PA",
+      "from": "Apr 2022",
+      "to": "Jun 2023",
+      "bullets": [
+        "Led a structured 5S operational excellence initiative within a manufacturing environment, improving workflow",
+        "efficiency, standardization, and cross-functional engagement.",
+        "Engaged with cross functional teams, using operational knowledge and project management skills prioritizing",
+        "improvements that simplify both technical and business systems.",
+        "Authored, revised, and managed manufacturing documents such as SOPs and Batch Records, keeping a strong attention",
+        "to detail.",
+        "Initiated and conducted deviation investigations leading to the creation of CAPAs by leading data gathering, and",
+        "presentation in a timely manner for the business needs.",
+        "Supported operational decision-making by balancing technical requirements, business needs, and resource",
+        "considerations."
+      ]
+    },
+    {
+      "title": "Trained less experienced team members while emphasizing safety and compliance throughout the process.",
+      "company": "Biopharm Manufacturing Associate II and I Conshohocken, PA",
+      "from": "Feb 2020",
+      "to": "Apr 2022",
+      "bullets": [
+        "Trained less experienced team members while emphasizing safety and compliance throughout the process.",
+        "Efficiently performed production operations by following written SOP s and understanding the safety and quality",
+        "aspects of the procedures.",
+        "Aided in cross-functional activities, creating and executing engineering and validation protocols."
+      ]
+    }
+  ],
+  "education": [
+    "Drexel University Sep 2021 - Jun 2023",
+    "Masters, Biological Science, Biostatistics",
+    "Coursework: Intro to Statistical Computing (SAS), Biostatistics (R), Survival Data Analysis (SAS), Data Science",
+    "using R (R), Intermediate SAS (SAS)",
+    "Brigham Young University Sep 2014 - Dec 2019",
+    "Bachelor of Science, Biology"
+  ],
+  "certifications": [],
+  "projects": [],
+  "_source_id": "",
+  "_source_file": "Maria.json",
+  "_format_detected": "standard"
+}

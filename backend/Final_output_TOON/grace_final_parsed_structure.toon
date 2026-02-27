@@ -1,0 +1,1014 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  19802516874345_94_3
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  grace.rahym@gmail.com
+  FULL_NAME  Grace Rahym
+  GITHUB  NULL
+  LINKEDIN  NULL
+  LOCATION  New Brunswick, New Jersey 08989 US
+  PHONE_E164  NULL
+  PHONE_RAW  +19566372911
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Overall 12+ years of strong software experience as a Java Developer and extensively experienced in Software Analysis, Design, Development, Implementation and Testing of Object-Oriented Applications and Web based Enterprise Applications using java/J2EE.
+  Experienced in Design and Development of multi-tier enterprise applications using Java, J2EE, Servlets, JSP, JSF, Hibernate, JDBC, API Development, Java Beans and Web services, SpringBoot & MicroService Architecture and Azure cloud migrations.
+  Experienced in Java Architecture Design and Development, Database design, Code Review, Performance optimization, Modularization of application and its integration.
+  Configured Azure App Service instead of Application server which will reduce the Cost.
+  Applied Scala s functional programming paradigm: higher-order functions, immutability, and pattern matching.
+  Designed and implemented a type-safe domain-specific language (DSL) in Scala for complex business rule validation.
+  Validated and enhance code quality by using AI(copilots) suggestions while maintaining best practices and coding standards.
+  Designed API security and JWT-based authentication ensuring compliance with enterprise standards.
+  Designed and developed backend services using Scala with advanced functional programming paradigms (monads, type classes, category theory).
+  Leveraged Typelevel ecosystem (Cats, Shapeless, FS2) to implement highly concurrent and type-safe applications.
+  Migrated legacy object-oriented Scala code to functional programming patterns, improving maintainability and reducing defects.
+  Integrate AI copilots into IDE workflows to assist with debugging, code completion, and refactoring.
+  Used AI copilots to generate boilerplate code, unit tests, or repetitive functions, improving developer productivity.
+  Served as AppDynamics Subject Matter Expert (SME), leading observability initiatives across enterprise cloud platforms including Azure and hybrid SAP environments.
+  Improved application performance by using Scala Futures and Promises for asynchronous programming.
+  Experienced in using software development methodologies (Agile, Scrum), Continuous integration and Test-Driven Development.
+  Implement message-driven architecture using tools like Apache Kafka, RabbitMQ, or ActiveMQ.
+  Design, develop, and deploy scalable, maintainable, and testable microservices using Java and Scala.
+  Design the application as loosely coupled microservices for scalability and maintainability.
+  Deployed, scaled, and optimized backend applications on AWS (EC2, Lambda, S3, RDS, DynamoDB, API Gateway).
+  Automated deployment pipelines using Docker and CI/CD workflows, reducing release cycle time
+  Implement robust and secure server-side logic using Java and Scala to support application functionalities.
+  Experienced with development IDEs such as Eclipse, IntelliJ and Spring tool suite, Visual studio code.
+  Experience with standard internet protocols such as HTTP, SMTP, HTTPS, FTP.
+  Experience in Agile development methodologies and Version Control tools like SVN, CVS, Accurev, Clear Case and GIT.
+
+  Implemented proactive alerting and health checks across 30+ metrics including job performance, DB utilization, memory spikes, and user activity.
+  Configured end-to-end SAP monitoring for Application, HANA, AWS, and Infrastructure layers using tools like SAP Solution Manager, AWS CloudWatch, and custom dashboards.
+  Knowledgeable in implementing and managing cloud-native applications using GCP Cloud services, such as GCP Compute Engine, GCP Cloud Functions, GCP Cloud Storage, and GCP API Gateway / Cloud Endpoints , and experienced in designing and developing cloud-native architectures.
+  Proficient in implementing Object Oriented Programming (OOPS) using JAVA/J2EE technologies like Core Java (OOPS, Collections, Threads), JSP, JDBC, Struts, Spring, Hibernate, Restful API & web services, Spring Boot & Micro services.
+  Strong Java Developer with robust expertise in Spring MVC, Spring Batch, Spring Security, and Hibernate/JPA.
+  Designed and implemented scalable microservices architecture supporting millions of transactions.
+  Conducted architectural reviews, contributed to design decisions and performance optimizations.
+  Improved multithreading and async event-driven design.
+  Lead analysis of existing systems and plan end-to-end migration strategies to cloud-native architectures.
+  Developed and maintained batch processing jobs using Spring Batch for high-volume data workflows
+  Utilized JPA/Hibernate for ORM mapping and fine-tuned performance with custom queries and caching strategies
+  Write automation scripts for ETL, log analysis, and data processing and Build data pipelines and reporting solutions using Pandas, NumPy.
+  Develop ML/AI models (if required) using TensorFlow / Scikit-learn and Create lightweight APIs/services using Flask or FastAPI.
+  Integrate Python tools/scripts with existing Java applications and Support DevOps automation with Python scripts (infrastructure, CI/CD).
+  Write test automation frameworks and monitoring tools in Python.
+  Experience with JavaScript and JavaScript frame works JQuery, JQuery UI, AngularJS.
+  Provided 24x7 on call support in production environment on rotation basis.
+  Designed and developed enterprise-scale applications using Java, J2EE, Spring Boot, Microservices, and REST APIs.
+  Led development teams to deliver high-quality software solutions on schedule and within budget.
+  Hands-on expertise in Adobe Experience Manager (AEM) including component development, template creation, content workflows, digital asset management (DAM), and integration with e-commerce platforms.
+  Applied AEM best practices for performance optimization, scalability, and maintainability.
+  Developed front-end solutions using JavaScript, jQuery, Bootstrap, React, and HTML5 to deliver responsive, user-friendly interfaces.
+  Built and deployed applications on cloud platforms (AWS, Azure, GCP) leveraging cloud-native services for scalability and performance.
+  Implemented CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI/CD for automated builds, testing, and deployments.
+  Applied DevOps practices with Infrastructure as Code (Terraform, Ansible) to improve deployment efficiency.
+  Designed and deployed containerized applications using Docker and Kubernetes, enabling distributed and fault-tolerant systems.
+  Collaborated with cross-functional teams (architects, DBAs, security, QA) to ensure compliance, reliability, and alignment with enterprise standards.
+  Hands-on experience with JSF and RichFaces
+  Experienced in using web/application servers such as Apache Tomcat, IBM WebSphere, IBM WebLogic.
+  Experience with XML and related standards and technologies like SOA, Web Services and API integration experience, SOAP, WSDL, XML, JAXB, JAX-WS, PowerBI reports.
+  Integrated AWS-based SAP infrastructure monitoring (EC2, EBS, RDS, network) with real-time alerting for latency, CPU utilization, and storage thresholds.
+  Enabled infrastructure-level observability using SAP Host Agent, Diagnostics Agent, and third-party tools for OS, memory, disk, and network insights.
+  Tuned and resolved performance bottlenecks on OpenShift and cloud-hosted SAP systems, collaborating with platform and cloud teams.
+  Resolved critical production issues by performing root cause analysis and delivering permanent fixes.
+  Created custom monitoring dashboards for SAP Basis and Support teams to visualize real -time and historical trends across all critical systems.
+  Supported incident response and RCA (Root Cause Analysis) through structured log review (ST22, SM21, SLG1) and error-tracking schema (ERR_ID, ERR_JSON).
+  Integrated AppDynamics APM with SAP/non-SAP applications to monitor end-to-end transaction performance.
+  Deployed AppDynamics agents (Machine Agent, Java Agent, Database Agent) across cloud/on-prem workloads to capture deep-dive performance telemetry.
+  Analyzed performance anomalies using AppDynamics Flow Maps and Snapshots, aiding in rapid root cause identification for production incidents.
+  Proficient in Core Java with strong understanding of data structures, algorithms, Collections, Concurrency, Multithreading, Event handling and performance tuning.
+  Experienced in integrating enterprise applications using JMS, SOAP and RESTful Web services
+  Set up Jenkins server and build jobs to provide continuous automated builds based on polling the Git source control system.
+  Experience in developing web applications using Spring MVC frame work and Object-Relational Mapping (ORM) technologies such as JPA, Hibernate and Eclipse.
+
+  Proficient in implementation of frameworks like spring, JSF, AJAX frameworks and ORM frameworks like Hibernate.
+  Integrated backend services with cloud-native databases i.e Cloud SQL, MongoDB, and AlloyDB
+  Engineered and optimized complex SQL queries for DB2 databases, reducing query execution time.
+  Deployed scalable Java applications on Apache Tomcat, ensuring stable server performance in production environments.
+  Worked extensively with Linux-based environments, performing server setups and log analysis for issue resolution.
+  Collaborated with database administrators to design and implement optimized DB2 schemas for business applications.
+  Develop server-side logic using PHP to handle requests, process data, and generate dynamic web pages. Implement features that enhance the user experience on the server side.
+  Experience with JavaScript and JavaScript frame works JQuery, JQuery UI, AngularJS.
+  Provided 24x7 on call support in production environment on rotation basis.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Storage
+  ITEM  Shell
+  ITEM  Selenium
+  ITEM  Docker
+  ITEM  Streaming
+  ITEM  Content Management
+  ITEM  Linux
+  ITEM  Oracle
+  ITEM  Git
+  ITEM  scikit-learn
+  ITEM  XSLT
+  ITEM  Orm
+  ITEM  Data Structures
+  ITEM  Xiaohongshu
+  ITEM  Dependency Injection
+  ITEM  Collections
+  ITEM  GAP
+  ITEM  Css
+  ITEM  SAP HANA
+  ITEM  Akka
+  ITEM  Data Processing
+  ITEM  Code Review
+  ITEM  Modeling
+  ITEM  File
+  ITEM  Xml
+  ITEM  Big Data
+  ITEM  make
+  ITEM  Ftp
+  ITEM  Infrastructure As Code
+  ITEM  Data Conversion
+  ITEM  Operating Systems
+  ITEM  Development
+  ITEM  ROOT
+  ITEM  Server
+  ITEM  Html
+  ITEM  Object Oriented Programming
+  ITEM  Ssl
+  ITEM  Terraform
+  ITEM  Aws
+  ITEM  Spring
+  ITEM  Shell Scripting
+  ITEM  OpenVMS
+  ITEM  MongoDB
+  ITEM  React
+  ITEM  Oracle Fusion Cloud
+  ITEM  AngularJS
+  ITEM  Python
+  ITEM  Ai
+  ITEM  Statistics
+  ITEM  Json
+  ITEM  Apache
+  ITEM  Solaris
+  ITEM  Apache Cassandra
+  ITEM  Code Quality
+  ITEM  Debugging
+  ITEM  Ibm
+  ITEM  Transformation
+  ITEM  Configuration
+  ITEM  Java Class Library
+  ITEM  Functional Programming
+  ITEM  Frameworks
+  ITEM  Framework
+  ITEM  Google Cloud Platform
+  ITEM  Database
+  ITEM  Monitoring
+  ITEM  Php
+  ITEM  Jenkins
+  ITEM  Requests
+  ITEM  Persist
+  ITEM  ImpressCMS
+  ITEM  Unix
+  ITEM  AppDynamics
+  ITEM  Optimization
+  ITEM  Tool
+  ITEM  Postgresql
+  ITEM  Hybris
+  ITEM  Runtime
+  ITEM  Amazon DynamoDB
+  ITEM  WEB
+  ITEM  Slack
+  ITEM  Rendering
+  ITEM  Architecture
+  ITEM  Concurrent
+  ITEM  Javascript
+  ITEM  Microsoft Azure
+  ITEM  Windows
+  ITEM  Continuous Integration
+  ITEM  Http
+  ITEM  Api
+  ITEM  jQuery UI
+  ITEM  Utilities
+  ITEM  Jira
+  ITEM  Api Documentation
+  ITEM  Grafana
+  ITEM  SPARK
+  ITEM  Sql
+  ITEM  Access
+  ITEM  Devsecops
+  ITEM  Authentication
+  ITEM  Ansible
+  ITEM  Performance Optimization
+  ITEM  PL/SQL
+  ITEM  Gui
+  ITEM  Svn
+  ITEM  SOAP APIs
+  ITEM  SOPs
+  ITEM  Web Services
+  ITEM  Version Control
+  ITEM  Enterprise
+  ITEM  Cloud
+  ITEM  Concurrency
+  ITEM  Historical
+  ITEM  Scripting Languages
+  ITEM  Software Engineering
+  ITEM  Microservices
+  ITEM  Tensorflow
+  ITEM  REST APIs
+  ITEM  User Interface
+  ITEM  Jdk
+  ITEM  Grace
+  ITEM  Threading
+  ITEM  Java
+  ITEM  Library
+  ITEM  Uml
+  ITEM  Software
+  ITEM  ML
+  ITEM  Scala
+  ITEM  Programming Languages
+  ITEM  Mapping
+  ITEM  Data Storage
+  ITEM  Testing
+  ITEM  Performance
+  ITEM  Kubernetes
+  ITEM  Maven
+  ITEM  Software Development
+  ITEM  .NET
+  ITEM  Design
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  Responsibilities:
+  Involved in all phases of Software Development Life Cycle (SDLC) like Analysis, Designing, Developing, Testing, and Finalizing.
+  Architected and implemented Java microservices using Spring Boot on Azure App Services, enabling scalable and resilient cloud-native applications.
+  Integrated Azure Functions to handle serverless business logic, reducing latency and operational overhead.
+  Designed APIs with Spring REST and deployed securely using JWT authentication and Spring Security on Azure.
+  Provided technical leadership across multiple Java-based projects, ensuring alignment with architectural standards, business goals, and delivery timelines.
+  Defined and enforced coding standards, best practices, and software engineering processes to improve code quality and maintainability.
+  Conducted regular code reviews, design reviews, and performance audits to mentor team members and ensure adherence to enterprise standards.
+  Mentored and guided team members on coding standards, design patterns, and best practices to foster a culture of knowledge sharing and technical excellence.
+  Optimized application performance by monitoring Java-based workloads through AppDynamics integrated with Azure Monitor.
+  Provided architectural guidance for integrating AI driven solutions into existing workflows and applications to enhance functionality and efficiency.
+  Enabled CI/CD pipelines using Azure DevOps for seamless Java application builds, deployments, and infrastructure provisioning.
+  Validated and enhance code quality by using AI(copilots) suggestions while maintaining best practices and coding standards.
+  Implemented domain-driven design (DDD) using Scala and functional programming, ensuring modular, reusable, and maintainable code.
+  Used Cats Effect and FS2 for building reactive, non-blocking, and fault-tolerant streaming applications.
+  Applied Shapeless for generic programming, reducing boilerplate and improving compile-time safety.
+  Designed custom type classes and implicits to enforce domain-specific constraints at compile time.
+  Explored AI-driven insights for code optimization, performance improvements, and architecture suggestions.
+  Encouraged team adoption of AI tools to automate mundane tasks while focusing on high-value design and problem-solving.
+  Evaluated AI outputs critically to ensure accuracy, security, and maintainability in production code.
+  Stay updated on emerging AI tools to continually improve development efficiency and team productivity.
+  Integrate AI copilots into IDE workflows to assist with debugging, code completion, and refactoring.
+  Used AI copilots to generate boilerplate code, unit tests, or repetitive functions, improving developer productivity.
+  Implemented Micro Services based cloud Architecture on Azure platform for deployment.
+  Designing and overseeing as an Application Architect the implementation of Java-based applications and systems.
+  Defined technical strategies and solution for implementing business requirements into B360 application.
+  Analyzed the technical requirements and created various models required for the project.
+  Involved in the process of Design, Coding and testing of a SpringBoot application.
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Ensured smooth interoperability with legacy systems and third-party software.
+  Ensured that applications meet non-functional requirements such as scalability, security, and performance.
+  Developed and maintained enterprise-level web applications using JSF with RichFaces component libraries
+  Applied JSF Life Cycle knowledge to optimize rendering, data conversion, and validation performance
+  Implemented AJAX behavior with JSF components for enhanced interactivity and reduced page reloads
+  Implemented secure coding practices and code review to protect applications from vulnerabilities.
+  Provided technical guidance to development teams to ensure alignment with the architecture as an Application Architect.
+  Followed standards in writing code using Java 8/11, Spring restful web services, API Development, Spring, Spring data-JPA.
+  Write automation scripts for ETL, log analysis, and data processing and Build data pipelines and reporting solutions using Pandas, NumPy.
+  Develop ML/AI models (if required) using TensorFlow / Scikit-learn and Create lightweight APIs/services using Flask or FastAPI.
+  Integrate Python tools/scripts with existing Java applications and Support DevOps automation with Python scripts (infrastructure, CI/CD).
+  Write test automation frameworks and monitoring tools in Python.
+  Experience with JavaScript and JavaScript frame works JQuery, JQuery UI, AngularJS.
+  Provided 24x7 on call support in production environment on rotation basis.
+  Handled application security using Spring Security for Rest API services by creating JWT token.
+  Used Micro services architecture with Spring Boot based services interacting with API s.
+  Applied Spring boot Actuator to monitor & manage application.
+  Designed and developed the REST API s using Spring Boot.
+  Optimized Spark jobs in Databricks by tuning configurations and implementing partitioning strategies, reducing computation costs.
+  Automated data quality checks in Databricks, ensuring consistency and reliability of the data pipeline.
+  Reviewing reports from dashboard and Observe if there are any spikes then identify RCA - Root Cause Analysis.
+  Implemented MongoDB aggregation pipelines for complex query processing in a cloud environment.
+  Implemented data pipelines in Apache Spark with Scala, processing and analyzing large datasets efficiently.
+  Debugged and resolved data compatibility issues with Parquet files across different processing platforms.
+  Integrated Scala-based data processing scripts with Spark jobs to manage and analyze streaming data.
+  Worked on Databricks for big data processing and analytics.
+  Handled structured and unstructured data with tools like Spark.
+  Built domain-specific languages (DSLs) in Scala to simplify business rule configuration, improving maintainability and reducing runtime errors.
+  Used Scala s type system to enforce compile-time guarantees, preventing common bugs and ensuring correctness.
+  Architected serverless solutions on AWS Lambda for event-driven workloads.
+  Managed data storage and access layers with RDS, DynamoDB, and S3 for highly available backend services.
+  Integrated API Gateway + Lambda + DynamoDB for lightweight, scalable APIs.
+  Implemented IAM roles, VPC, and security policies ensuring compliance and system security.
+  Used GCP and BigQuery for large-scale data storage and analytics, supporting BI and reporting needs
+  Managed IAM roles, service accounts, and VPC configuration for secure cloud access and resource isolationsf
+  Automated infrastructure provisioning using Terraform (if applicable, you can include this if you ve started learning/using it)
+  Using Pub/Sub can distribute events in real-time, such as game scores, financial data, or audience participation.
+  Improved code quality using approaches such as unit testing tools and end to end testing for the fixes.
+
+  Environment: Java8, J2EE, Azure, SpringBoot, MicroServices, RESTFul Web Services,XML, XSLT, HTML, JSTL, Angular JS, AJAX, Aws,Using Pub/Sub ,GCP, JSF, Databricks, MongoDB, Scala ,Tomcat , CrowdTwist API, Oracle 11g, Maven, RabbitMQ, JPA, GIT, Websphere, clearcse.
+
+  Responsibilities:
+  Involved in all phases of Software Development Life Cycle (SDLC) like Analysis, Designing, Developing, Testing, and Finalizing.
+  Implemented Micro Services based cloud Architecture on Azure platform for deployment.
+  Designing and overseeing as an Application Architect the implementation of Java-based applications and systems.
+  Led the design and deployment of Spring Boot-based microservices on Azure Kubernetes Service (AKS), achieving high availability and container orchestration.
+  Configured Azure App Services to host critical Java APIs, ensuring fault tolerance and cost efficiency.
+  Implemented Azure Blob Storage and Azure SQL integration within Java applications to manage data storage and transactional processing.
+  Automated infrastructure provisioning using Terraform scripts within Azure DevOps pipelines for repeatable deployments.
+  AEM Component Development: Designed and implemented reusable, scalable, and maintainable AEM components using HTL (Sightly), Sling Models, OSGi services, and Java.
+  Template Creation & Editable Templates: Built static and editable templates with policies, ensuring flexibility for business users and adherence to branding guidelines.
+  AEM Workflows & DAM: Configured and automated content management workflows, approvals, and digital asset management (DAM) for efficient content publishing.
+  AEM Integration: Integrated AEM with e-commerce platforms (Magento, SAP Hybris) and third-party systems (REST, SOAP APIs) for seamless digital experiences.
+  Dispatcher & Caching: Optimized site performance and security using AEM Dispatcher configurations, caching strategies, and CDN integration.
+  Content Fragment Models & Experience Fragments: Implemented headless CMS capabilities with Content Fragments and Experience Fragments for omnichannel delivery.
+  AEM Best Practices: Applied coding standards, performance tuning, and scalability patterns to support high-traffic enterprise websites.
+
+  AEM Upgrades & Migration: Hands-on experience in upgrading AEM versions, migrating legacy content, and modernizing templates/components.
+  Personalization & Targeting: Implemented personalized experiences using Adobe Target integration and ContextHub.
+  CI/CD for AEM: Automated AEM build and deployment pipelines with Maven, Jenkins, and Git, ensuring continuous delivery.
+  Led multiple cross-functional teams in delivering complex Java-based enterprise applications, ensuring timely and high-quality releases.
+  Defined technical vision, architectural standards, and development guidelines across projects to maintain consistency and scalability.
+  Mentored junior and mid-level developers on coding best practices, design patterns, system design, and performance optimization.
+  Developed scalable REST APIs for internal and external systems with Java 11, secured via OAuth2 on the Azure platform.
+  Defined and enforced coding, testing, and deployment standards across multiple teams to drive consistency and maintainability.
+  Mentored senior and junior developers on advanced Java concepts, design patterns, microservices architecture, and cloud-native development.
+  Defined technical strategies and solution for implementing business requirements into B360 application.
+  Analyzed the technical requirements and created various models required for the project.
+  Involved in the process of Design, Coding and testing of a SpringBoot application.
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Ensured smooth interoperability with legacy systems and third-party software.
+  Ensured that applications meet non-functional requirements such as scalability, security, and performance.
+  Implemented secure coding practices and code review to protect applications from vulnerabilities.
+  Provided technical guidance to development teams to ensure alignment with the architecture as an Application Architect.
+  Followed standards in writing code using Java 8/11, Spring restful web services, API Development, Spring, Spring data-JPA.
+
+  Handled application security using Spring Security for Rest API services by creating JWT token.
+  Used Micro services architecture with Spring Boot based services interacting with API s.
+  Applied Spring boot Actuator to monitor & manage application.
+  Designed and developed the REST API s using Spring Boot.
+  Optimized Spark jobs in Databricks by tuning configurations and implementing partitioning strategies, reducing computation costs.
+  Automated data quality checks in Databricks, ensuring consistency and reliability of the data pipeline.
+  Reviewing reports from dashboard and Observe if there are any spikes then identify RCA - Root Cause Analysis.
+  Proficient in writing idiomatic Scala code, utilizing functional programming (FP) principles such as immutability, pattern matching, and higher-order functions.
+  Developed ETL pipelines in Databricks to process and transform multi-terabyte datasets efficiently.
+  Designed modular and reusable components using Scala s mixin-based composition.
+  Implemented MongoDB aggregation pipelines for complex query processing in a cloud environment.
+  Implemented data pipelines in Apache Spark with Scala, processing and analyzing large datasets efficiently.
+  Debugged and resolved data compatibility issues with Parquet files across different processing platforms.
+  Designed a schema evolution strategy for Parquet files to handle changes in data structures seamlessly.
+  Integrated Scala-based data processing scripts with Spark jobs to manage and analyze streaming data.
+  Worked on Databricks for big data processing and analytics.
+  Handled structured and unstructured data with tools like Spark.
+  Built domain-specific languages (DSLs) in Scala to simplify business rule configuration, improving maintainability and reducing runtime errors.
+  Used Scala s type system to enforce compile-time guarantees, preventing common bugs and ensuring correctness.
+  Changing the GCP infrastructure with Google Kubernetes Engine (GKE) and automate repetitive tasks using Cloud Functions and other serverless options.
+  Configure Cloud Armor and Identity-Aware Proxy (IAP) for protecting applications.
+  integration and deployment across development, testing, and production environments.
+  Used Agile software development with Scrum methodology.
+  Orchestrated containerized applications using Red Hat OpenShift on AWS, enhancing application resilience and enabling smooth scaling to handle high-demand scenarios.
+  Worked on rectifying the memory leakage issues like memory exhaustion and garbage collection issues of server side application.
+  Used Jira for Iteration Planning, Bug Tracking, and scheduled all or parts of requirements from the release backlog.
+  he CrowdTwist API primarily uses JSON for data transformation and this APIs allow application to easily move data into and out of our platform, which makes integrations easier and meaningful.
+  The CrowdTwist API documentation provides details on available endpoints and consume the functionalities.
+  Converted mock-ups into hand-written HTML, XHTML, JavaScript, JQuery, XML and JSON.
+  Finding the issues for both 4xx/5xx as well as Front End errors.
+  Providing fixes for Cart Validation issues once done with proper analysis is completed.
+  Also supporting on release days proactively and report the issue if Observe as part of production deployment.
+  Message Oriented Middleware implementation using JMS and Kafka.
+  Deployment and Troubleshooting of JAR, WAR and EAR applications in clustered environment with WebSphere.
+  RabbitMQ used to allowing them to communicate asynchronously by sending and receiving messages.
+  Send MQ messages without waiting for an immediate response, promoting loose coupling.
+  Using Pub/Sub can distribute events in real-time, such as game scores, financial data, or audience participation.
+  Improved code quality using approaches such as unit testing tools and end to end testing for the fixes.
+
+  Environment: Java8, J2EE, Azure, SpringBoot, MicroServices, RESTFul Web Services,XML, XSLT, HTML, JSTL, Angular JS, AJAX, Using Pub/Sub ,GCP, Databricks, MongoDB, Scala ,Tomcat , CrowdTwist API, Oracle 11g, Maven, RabbitMQ, JPA, GIT, Websphere, clearcse,
+
+  Responsibilities:
+  Involved in design phase, reviewed Target Architecture which was provided by Cloud Architect.
+  Reviewed assessment documents prior to start the development and raised a design bugs with Arch team.
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Migrated legacy Java applications to Azure App Services, optimizing cost and simplifying maintenance.
+  Upgraded application architecture for Azure cloud readiness, leveraging Spring Boot, App Gateway, and Azure Load Balancer.
+  Integrated Azure DevOps for CI/CD, enabling continuous delivery of Java microservices and reducing deployment time.
+  Applied Azure governance policies and security best practices to ensure compliance for all Java deployments.
+  Used Azure Key Vault for managing sensitive configurations and API credentials in Java-based applications.
+  Configured Azure App Service instead of Application server which will reduce the Cost.
+  Built real-time pipeline for streaming data using Kafka.
+  Upgraded the spring framework version and relevant changes as part of Cloud migration.
+  Defined development tasks, User Story creations for tasks, assigns stories to developers and monitors and reports status of development tasks.
+  Improved code quality using approaches such as unit testing tools and end to end testing.
+  Analyzed technical needs and develop coding with design objectives.
+  Experienced in Peer testing, code review, and impact analysis of the modules developed by the other team members.
+  Work on integrating Java applications with Oracle Fusion Middleware components such as Oracle SOA Suite, Oracle WebLogic Server, Oracle ADF (Application Development Framework), and other relevant technologies.
+  Worked extensively on Java Design Patterns like Singleton, Factory, DAO, MVC etc.
+  Utilizing cloud services like AAS computing to implement Java-based architectures.
+  Writing effective APIs and integrating with other systems or services.
+  Hands on experience with Azure cloud technologies and API integration.
+  Operating in a DevOps environment using Continuous Integration/Continuous Delivery (CI/CD) principles.
+  Experience using Spring MVC, Spring DAO, Spring Data, Spring IOC, Spring Annotations, Spring AOP, Spring Transactions and Spring Security.
+  Using PowerBI tool to generate the custom reports.
+  Involved on overall Software Development Life Cycle (SDLC) including requirements gathering, prototyping, designing, implementing, testing, maintenance, and full documentation.
+  Design Patterns like Facade, Singleton and Factory Pattern were used.
+  Environment: Java/J2EE, Spring Framework, XML, XSLT, HTML, JSTL, JavaScript, AJAX, Tomcat , Oracle 11g, Spring framework, Spring DAO, Spring Integration, RESTful Web Services, jUnit, Maven, Azure App services, PowerBI , Jasper Reports.
+
+  Responsibilities:
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Contributed to all stages of software development lifecycle.
+  Worked within agile development teams to translate customer needs into user stories and delivering working capabilities at the conclusion of each sprint.
+  Monitored SAP jobs and background processing (via SM37, SM21) and integrated with external job schedulers like Control-M for seamless visibility.
+  Configured Infrastructure Monitoring (CPU, memory, disk, OS-level services) using SAP Host Agent, OS scripts, and 3rd-party tools.
+  Participated in the cloud migration of SAP landscapes; ensured monitoring parity post-migration with AWS-native and hybrid tooling.
+  Integrated AppDynamics with third-party tools like ServiceNow, Slack, and PagerDuty for incident automation and improved DevOps workflows.
+  Collaborated with security and compliance teams to track user activity, audit logs, and system changes using SUIM, STAD, and ST03N.
+  Led the transition of monitoring scope from OpenShift-hosted SAP services to cloud-native equivalents, identifying performance gaps and remediation plans.
+  Provided support for Root Cause Analysis (RCA) of system performance issues using tools like SAP Focused Run, memory dumps, and transaction traces.
+  Maintained monitoring and alerting documentation, including SOPs, runbooks, and escalation matrices for the L1/L2 support teams.
+  Implemented and managed AppDynamics APM monitoring for microservices hosted on Azure Kubernetes Service (AKS) and Azure App Services.
+  Integrated AppDynamics with Azure Monitor and Azure Log Analytics for enhanced observability and correlation across infrastructure and application layers.
+  Configured custom dashboards, health rules, and alerts in AppDynamics for Azure-based applications, including Java/Spring Boot and .NET Core services.
+  Deployed AppDynamics Azure Site Extension for seamless instrumentation of PaaS-hosted applications.
+  Automated agent deployment and configuration using Azure DevOps pipelines and ARM templates.
+  Enabled full-stack visibility by instrumenting Azure Functions, Azure SQL, Blob Storage, and Event Grid using AppDynamics extensions and custom metrics.
+  Collaborated with SRE and DevOps teams to identify performance bottlenecks a/nd optimize cloud resource utilization using AppDynamics insights.
+  Integrated AppDynamics Business iQ with Azure-based applications to track business transactions and user journeys in real-time.
+  Configured synthetic monitoring and EUM (End -User Monitoring) for applications hosted on Azure Front Door and Application Gateway.
+  Created custom AppDynamics analytics dashboards to correlate Azure infrastructure events with application performance metrics.
+  Inovlved as AppDynamics SME for enterprise-scale observability initiatives across Azure cloud infrastructure and hybrid environments.
+  Designed and implemented end-to-end monitoring strategies using AppDynamics for applications hosted on Azure App Services, AKS, and VMs.
+  Led the AppDynamics integration with SAP HANA, configuring agents to monitor SAP databases, application servers, and infrastructure KPIs.
+  Configured SAP monitoring dashboards in AppDynamics to track availability, performance, exceptions, and system health for HANA clusters.
+  Developed custom health rules and alert policies for SAP HANA and Azure-based applications to proactively detect issues.
+  Integrated AppDynamics with Azure Monitor, Log Analytics, and Splunk to provide unified visibility across infrastructure and applications.
+  Collaborated with cloud architects and application teams to drive observability best practices and ensure alignment with business KPIs.
+  Delivered automation scripts (Python/Shell) for AppDynamics agent deployment, configuration, and synthetic monitoring setup in CI/CD pipelines (Azure DevOps).
+  Enabled EUM (End-User Monitoring) for SAP web apps and customer-facing Azure-hosted portals to track real-user journeys and browser performance.
+  Provided SME-level guidance to cross-functional teams for performance tuning, root cause analysis, and ongoing optimization using AppDynamics insights.
+  Conducted monthly health checks and performance reports for SAP environments, aligning with SLA commitments and capacity planning needs.
+  Collaborated with security and compliance teams to track user activity, audit logs, and system changes using SUIM, STAD, and ST03N.
+  Responsible for debugging, upgrading and correcting errors in Java programs.
+  Review and integrate technical and application architecture requirements.
+  Participated in the full agile application development life cycle for new development design, construction and testing of Java applications, Web Services (SOAP and REST), and reusable components to support overall project.
+  Supported continuous improvement, investigating alternatives and technologies, and resolved any technical issues arising.
+  Resolved security related issues in the design of roles needed for the assignment of the queries and code changes with fixes to the end users.
+  Involved to write several Technical Specification document.
+  Experienced in Peer testing, code review, and impact analysis of the modules developed by the other team members.
+  Worked extensively on Java Design Patterns like Singleton, Factory, DAO, MVC etc.
+  Worked on UI development by using Javascript, jQuery and Ajax.
+
+  Responsibilities:
+  Worked on data services platform by analyzing business requirements, technical designing, implementation and documentation using Agile Methodologies.
+  Involved in developing applications with REST web services and experienced with securing the rest web services.
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Created and Consumed Restful Web Services using Spring boot.
+  New library development with micro services architecture using Rest APIs, spring boot.
+  Enhancement of the existing functionality to persist the messages to Cassandra DB in Kafka.
+  Implemented SOA architecture with web services using SoapUI, WSDL and RESTful.
+  Designed GUI using JQuery, CSS to improve visual effect on the dynamic front-end.
+  Developed Web Services clients to consume those Web Services as well other enterprise wide Web Services.
+  Using UML, Java/J2EE, Web technologies that include JSP, Servlets, Struts, JMS, JDBC, HTML, XML, Java Script and Hibernate.
+  Strong experience in working with Core Java concepts like OOPS, Multi-threading, Exception handling, Generics, Collections, Networking etc.
+  Implemented the web layer using Spring, JQuery
+  Exposed the Web Services to the client applications by sharing the WSDL s.
+  Method references are used provided in Java8 to make use of methods already named.
+  Used core java for multithreading and exception handling
+  Worked on Junit testing using Mockito framework.
+  Unit tested all the classes using JUNIT at various class level and methods level.
+  Used Core Java Collections, Exception Handling, multithreading and generics.
+  Involved in development of service layer and DAO layer using Spring framework and Hibernate
+  Being a part of production team provided 24x7 supports for all the environments.
+
+  Environments:JAVA8, J2EEApplication server, Spring, Hibernate, WebServices, HTML, CSS, SQL Server, Angular8, Oracle 11g, Apache Tomcat 8.524, VMware.
+
+  Responsibilities:
+  Worked on development/enhancements of CATO Intake form flow using Java/J2EE/Restful Webservices/Angular Js Technologies.
+  Implemented new functionalities as part of the enhancements which helped to business users to automate the manual efforts.
+  Experience with application optimizations such as performance and memory optimizations, debugging memory leaks, caching, scaling.
+  Experienced in Java based Architecture Design and Development, Database design, Code Review, Performance optimization, Modularization of application and its integration.
+  Worked on the Work Requests where we modify/update/cancel the forms data from the backend using Database queries.
+  Used DevSecOps tools to build, deploy and scans.
+  Supporting for Releases and Change Controls on weekly basis to perform the validations for my changes on Production Env.
+  Interacted with Business Users, System Analysts to design System Architecture to obtain information on project limitations and capabilities, performance requirements and interfaces.
+  Good working knowledge of continuous integration and delivery (CI/CD) and toolsets that provides this ability.
+  Wrote scripts (start, stop & ping) for web application server administration.
+  Configured SSL Certificates for Wildfly and Apache servers.
+  Environment: Java8, JDK1.5, J2EE, Core Java, Spring, Hibernate, HTML, CSS, JavaScript, Angular,Jboss Wildfly App Server, VMware, CAMUNDA , XML, JIRA, Oracle10g, Oracle 11g, Ant1.5.1, Linux, FTP.
+
+  Responsibilities:
+  Responsible for the implementation of application system with Core Java and spring framework.
+  Created and injected spring services, spring controllers and DAOs to achieve dependency injection.
+  Improved code quality using approaches such as unit testing tools and end to end testing.
+  Successfully completed the application migration from Struts framework to Spring Framework.
+  Involved in different ERs(Enterprise Release) for development and enhancement.
+  Implemented reusable components as part of the application migration.
+  Handled and Supported for Regression Team for couple of releases.
+  Use Akka (Scala) or Reactor (Java) for reactive, high-throughput systems.
+  Write functional and immutable code using Scala.
+  Implemented Effective data modeling in MongoDB focuses on schema design tailored to the
+  application s read and write patterns.
+  Leverage Scala libraries like Cats and ZIO to build robust services with better concurrency and composability.
+  Optimize for query patterns using MongoDB, not just data representation.
+  Involved in the debugging the code and provided the fix in minimal time.
+  Implemented on Java Design Patterns like Singleton, Factory, DAO, MVC etc.
+  Experienced in Peer testing, code review, and impact analysis of the modules developed by the other team members.
+  Defines development tasks, User Story creations for tasks, assigns stories to developers and monitors and reports status of development tasks.
+  Designed and Implemented REST web Services for the application
+  Automated and scheduled backups on all UNIX Machines using shell scripts.
+  Performance tuning was done with respect to system, connection pools Execute threads and JVM heap size.
+  Installed, configured and integrated Web servers (plug-in file), SiteMinder agents and LDAP user directory with WAS.
+  Installation and configuration of BPM v7.5
+  Developed multiple POCs to create a user interface in Angular JS.
+  Configured and Enabled the Global Security System for WAS Administration for Console users and Console Groups using Active Directory Server as a LDAP User Registry.
+  Develop domain monitoring java class using JMX to collect JDBC, JVM, and Execute Queue statistics for Managed Servers.
+  Document and establish standard processes to ensure repeatability for J2EE administrators.
+  Provided Migration configuration for transactions, security, services, JMS servers and services while transitioning from development to production environment.
+  Installed Oracle 8i/9i/10g client software on the application server and configuring the connectivity using JDBC drivers for the database.
+  Deployment and Troubleshooting of JAR, WAR and EAR applications in clustered environment with WebSphere.
+  Implemented reports functionality using PowerBI tool for various requirements.
+  Created Tomcat instances and modified each and removed shared component.
+  Performed extensive trouble shooting experience including stack trace analysis and JVM tuning experience by changing to heap sizes according to the requirement.
+  Monitored free space, disk usage, locating files, checking & clearing log files, administration & monitoring of file systems, network & virtual memory statistics.
+  Environment: Java, J2EE, HTML, CSS, JavaScript, jQuery, AngularJS, WebSphere Server 8.x, Jenkins, WSRR, IIB, SUN Solaris 8.0/10.0, Linux, Oracle 10g, JDK 1.4/1.5,1.6, Servlets, EJB 2.0, Apache, PowerBI & Jasper Reports.
+
+  Responsibilities:
+  Perform complete application life cycle function (SDLC) from conception to final release to users including design & analysis, Implementation, Testing, Deployment & Maintenance.
+  Analysis and review of requirements specification document for clarifications from programming perspective.
+  Developed code in Java, J2EE, Webwork and Hibernate using Pair programming and TDD.
+  Used Spring JDBC to execute database queries. Created row mappers and query classes for DB operations.
+  Used JDBC calls in the Enterprise Java Beans to access Oracle Database.
+  Created and managed application database connections and application database.
+  Implemented the project by using MVC framework.
+  Used JSP for presentation layer, entity beans as the model to represent the persistent data and interacted with Oracle database as per MVC Architecture.
+  Developed application on Spring framework by utilizing its features like Spring Dependency injection, Spring Security, Spring Web flow with Spring MVC.
+  Integrated application with Spring Security for form based authentication and authorization.
+  Developed business logic layer using Spring Framework and integrated Hibernate.
+  Involved in Spring IOC and Spring AOP framework implementation.
+  Implemented java multithreading to access interfaces.
+  Developed custom application API s based on workflows derived from design.
+  Design Implementation of GUI using HTML, JSP and Java Script for front-end validations.
+  Designed and implemented the User Interface using JavaScript, HTML, XHTML, XML, CSS, JSP, and AJAX.
+  Worked with JSON as well as XML to consume and produce Http Requests and Responses.
+  Designed Java Servlets and Objects using J2EE standards.
+  Involved in resolving Production Issues, Analysis, Troubleshooting and Problem Resolution and performance Management.
+  Environment: Oracle DB, Eclipse IDE, XHTML, AJAX, XSLT, J2EE, JSP s, HTML, CSS, Bootstrap, Multithreading, jQuery, JavaScript, Spring IOC, Spring AOP, Spring JDBC, Hibernate, XML, WebLogic, Windows XP, UNIX etc.
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  EMPTY
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  EMPTY
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  lead
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  Grace Rahym
+  Java Fullstack Lead Developer
+  grace.rahym@gmail.com
+  SUMMARY:
+  Overall 12+ years of strong software experience as a Java Developer and extensively experienced in Software Analysis, Design, Development, Implementation and Testing of Object-Oriented Applications and Web based Enterprise Applications using java/J2EE.
+  Experienced in Design and Development of multi-tier enterprise applications using Java, J2EE, Servlets, JSP, JSF, Hibernate, JDBC, API Development, Java Beans and Web services, SpringBoot & MicroService Architecture and Azure cloud migrations.
+  Experienced in Java Architecture Design and Development, Database design, Code Review, Performance optimization, Modularization of application and its integration.
+  Configured Azure App Service instead of Application server which will reduce the Cost.
+  Applied Scala s functional programming paradigm: higher-order functions, immutability, and pattern matching.
+  Designed and implemented a type-safe domain-specific language (DSL) in Scala for complex business rule validation.
+  Validated and enhance code quality by using AI(copilots) suggestions while maintaining best practices and coding standards.
+  Designed API security and JWT-based authentication ensuring compliance with enterprise standards.
+  Designed and developed backend services using Scala with advanced functional programming paradigms (monads, type classes, category theory).
+  Leveraged Typelevel ecosystem (Cats, Shapeless, FS2) to implement highly concurrent and type-safe applications.
+  Migrated legacy object-oriented Scala code to functional programming patterns, improving maintainability and reducing defects.
+  Integrate AI copilots into IDE workflows to assist with debugging, code completion, and refactoring.
+  Used AI copilots to generate boilerplate code, unit tests, or repetitive functions, improving developer productivity.
+  Served as AppDynamics Subject Matter Expert (SME), leading observability initiatives across enterprise cloud platforms including Azure and hybrid SAP environments.
+  Improved application performance by using Scala Futures and Promises for asynchronous programming.
+  Experienced in using software development methodologies (Agile, Scrum), Continuous integration and Test-Driven Development.
+  Implement message-driven architecture using tools like Apache Kafka, RabbitMQ, or ActiveMQ.
+  Design, develop, and deploy scalable, maintainable, and testable microservices using Java and Scala.
+  Design the application as loosely coupled microservices for scalability and maintainability.
+  Deployed, scaled, and optimized backend applications on AWS (EC2, Lambda, S3, RDS, DynamoDB, API Gateway).
+  Automated deployment pipelines using Docker and CI/CD workflows, reducing release cycle time
+  Implement robust and secure server-side logic using Java and Scala to support application functionalities.
+  Experienced with development IDEs such as Eclipse, IntelliJ and Spring tool suite, Visual studio code.
+  Experience with standard internet protocols such as HTTP, SMTP, HTTPS, FTP.
+  Experience in Agile development methodologies and Version Control tools like SVN, CVS, Accurev, Clear Case and GIT.
+
+  Implemented proactive alerting and health checks across 30+ metrics including job performance, DB utilization, memory spikes, and user activity.
+  Configured end-to-end SAP monitoring for Application, HANA, AWS, and Infrastructure layers using tools like SAP Solution Manager, AWS CloudWatch, and custom dashboards.
+  Knowledgeable in implementing and managing cloud-native applications using GCP Cloud services, such as GCP Compute Engine, GCP Cloud Functions, GCP Cloud Storage, and GCP API Gateway / Cloud Endpoints , and experienced in designing and developing cloud-native architectures.
+  Proficient in implementing Object Oriented Programming (OOPS) using JAVA/J2EE technologies like Core Java (OOPS, Collections, Threads), JSP, JDBC, Struts, Spring, Hibernate, Restful API & web services, Spring Boot & Micro services.
+  Strong Java Developer with robust expertise in Spring MVC, Spring Batch, Spring Security, and Hibernate/JPA.
+  Designed and implemented scalable microservices architecture supporting millions of transactions.
+  Conducted architectural reviews, contributed to design decisions and performance optimizations.
+  Improved multithreading and async event-driven design.
+  Lead analysis of existing systems and plan end-to-end migration strategies to cloud-native architectures.
+  Developed and maintained batch processing jobs using Spring Batch for high-volume data workflows
+  Utilized JPA/Hibernate for ORM mapping and fine-tuned performance with custom queries and caching strategies
+  Write automation scripts for ETL, log analysis, and data processing and Build data pipelines and reporting solutions using Pandas, NumPy.
+  Develop ML/AI models (if required) using TensorFlow / Scikit-learn and Create lightweight APIs/services using Flask or FastAPI.
+  Integrate Python tools/scripts with existing Java applications and Support DevOps automation with Python scripts (infrastructure, CI/CD).
+  Write test automation frameworks and monitoring tools in Python.
+  Experience with JavaScript and JavaScript frame works JQuery, JQuery UI, AngularJS.
+  Provided 24x7 on call support in production environment on rotation basis.
+  Designed and developed enterprise-scale applications using Java, J2EE, Spring Boot, Microservices, and REST APIs.
+  Led development teams to deliver high-quality software solutions on schedule and within budget.
+  Hands-on expertise in Adobe Experience Manager (AEM) including component development, template creation, content workflows, digital asset management (DAM), and integration with e-commerce platforms.
+  Applied AEM best practices for performance optimization, scalability, and maintainability.
+  Developed front-end solutions using JavaScript, jQuery, Bootstrap, React, and HTML5 to deliver responsive, user-friendly interfaces.
+  Built and deployed applications on cloud platforms (AWS, Azure, GCP) leveraging cloud-native services for scalability and performance.
+  Implemented CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI/CD for automated builds, testing, and deployments.
+  Applied DevOps practices with Infrastructure as Code (Terraform, Ansible) to improve deployment efficiency.
+  Designed and deployed containerized applications using Docker and Kubernetes, enabling distributed and fault-tolerant systems.
+  Collaborated with cross-functional teams (architects, DBAs, security, QA) to ensure compliance, reliability, and alignment with enterprise standards.
+  Hands-on experience with JSF and RichFaces
+  Experienced in using web/application servers such as Apache Tomcat, IBM WebSphere, IBM WebLogic.
+  Experience with XML and related standards and technologies like SOA, Web Services and API integration experience, SOAP, WSDL, XML, JAXB, JAX-WS, PowerBI reports.
+  Integrated AWS-based SAP infrastructure monitoring (EC2, EBS, RDS, network) with real-time alerting for latency, CPU utilization, and storage thresholds.
+  Enabled infrastructure-level observability using SAP Host Agent, Diagnostics Agent, and third-party tools for OS, memory, disk, and network insights.
+  Tuned and resolved performance bottlenecks on OpenShift and cloud-hosted SAP systems, collaborating with platform and cloud teams.
+  Resolved critical production issues by performing root cause analysis and delivering permanent fixes.
+  Created custom monitoring dashboards for SAP Basis and Support teams to visualize real -time and historical trends across all critical systems.
+  Supported incident response and RCA (Root Cause Analysis) through structured log review (ST22, SM21, SLG1) and error-tracking schema (ERR_ID, ERR_JSON).
+  Integrated AppDynamics APM with SAP/non-SAP applications to monitor end-to-end transaction performance.
+  Deployed AppDynamics agents (Machine Agent, Java Agent, Database Agent) across cloud/on-prem workloads to capture deep-dive performance telemetry.
+  Analyzed performance anomalies using AppDynamics Flow Maps and Snapshots, aiding in rapid root cause identification for production incidents.
+  Proficient in Core Java with strong understanding of data structures, algorithms, Collections, Concurrency, Multithreading, Event handling and performance tuning.
+  Experienced in integrating enterprise applications using JMS, SOAP and RESTful Web services
+  Set up Jenkins server and build jobs to provide continuous automated builds based on polling the Git source control system.
+  Experience in developing web applications using Spring MVC frame work and Object-Relational Mapping (ORM) technologies such as JPA, Hibernate and Eclipse.
+
+  Proficient in implementation of frameworks like spring, JSF, AJAX frameworks and ORM frameworks like Hibernate.
+  Integrated backend services with cloud-native databases i.e Cloud SQL, MongoDB, and AlloyDB
+  Engineered and optimized complex SQL queries for DB2 databases, reducing query execution time.
+  Deployed scalable Java applications on Apache Tomcat, ensuring stable server performance in production environments.
+  Worked extensively with Linux-based environments, performing server setups and log analysis for issue resolution.
+  Collaborated with database administrators to design and implement optimized DB2 schemas for business applications.
+  Develop server-side logic using PHP to handle requests, process data, and generate dynamic web pages. Implement features that enhance the user experience on the server side.
+  Experience with JavaScript and JavaScript frame works JQuery, JQuery UI, AngularJS.
+  Provided 24x7 on call support in production environment on rotation basis.
+  TECHNICAL SKILLS:
+
+  Programming Languages Java8, Core Java, J2EE, XML, SQL, PL/SQL
+  Middleware J2EE, JBoss4.2.3/4.3.0, API Development
+  Web Technologies HTML5, CSS, JavaScript, Bootstrap UI, JDK, AJAX, Angular JS, React JS
+  Cloud Technologies Microsoft Azure, GCP : GCP Compute Engine, GCP Cloud Functions, GCP Cloud Storage, and GCP API Gateway / Cloud Endpoints.
+  Scripting Languages UNIX Shell Scripting
+  Frameworks Struts, Spring , SpringBoot ,Microservices & CrowdTwist API
+  Monitoring and Testing Tools Kibana, Grafana, Junit, Mockito, Sonar, Fortify
+  IDE s/Utilities Eclipse, Putty, IntelliJ, STS, NetBeans
+  Database Oracle 10g/11g, MS SQL Server, DB2, AppDynamics ,Cassandra, PostgreSQL, PL/SQL, Sybase, MongoDB, SAP, HANA
+  Build and Other Tools Ant, Maven, Bitbucket, JIRA, Confluence, Bamboo, SQL Developer, PowerBI, Jasper Reports, Apache Spark and Scala
+  Process & Concepts Agile, SCRUM, SDLC, Object-Oriented Analysis and Design, Test driven Development, Continuous Integration.
+  Containerization tools Docker, Kubernetes , Red Hat OpenShift (ROSA)
+  Version Control CVS, SVN, Bitbucket, Accurev, Clear Case, GIT
+  Methodologies Waterfall, Agile, TDD (Test Driven Development)
+  CI/CD Tools Jenkins
+  Testing tools HTML Unit, Jasmine, Mockito, Selenium
+  Servers Tomcat, Jboss/Wildfly, Weblogic, Web sphere , App Services , RabbitMQ
+
+  Operating Systems LINUX, Windows 98/2000/NT/XP
+
+  Responsibilities:
+  Involved in all phases of Software Development Life Cycle (SDLC) like Analysis, Designing, Developing, Testing, and Finalizing.
+  Architected and implemented Java microservices using Spring Boot on Azure App Services, enabling scalable and resilient cloud-native applications.
+  Integrated Azure Functions to handle serverless business logic, reducing latency and operational overhead.
+  Designed APIs with Spring REST and deployed securely using JWT authentication and Spring Security on Azure.
+  Provided technical leadership across multiple Java-based projects, ensuring alignment with architectural standards, business goals, and delivery timelines.
+  Defined and enforced coding standards, best practices, and software engineering processes to improve code quality and maintainability.
+  Conducted regular code reviews, design reviews, and performance audits to mentor team members and ensure adherence to enterprise standards.
+  Mentored and guided team members on coding standards, design patterns, and best practices to foster a culture of knowledge sharing and technical excellence.
+  Optimized application performance by monitoring Java-based workloads through AppDynamics integrated with Azure Monitor.
+  Provided architectural guidance for integrating AI driven solutions into existing workflows and applications to enhance functionality and efficiency.
+  Enabled CI/CD pipelines using Azure DevOps for seamless Java application builds, deployments, and infrastructure provisioning.
+  Validated and enhance code quality by using AI(copilots) suggestions while maintaining best practices and coding standards.
+  Implemented domain-driven design (DDD) using Scala and functional programming, ensuring modular, reusable, and maintainable code.
+  Used Cats Effect and FS2 for building reactive, non-blocking, and fault-tolerant streaming applications.
+  Applied Shapeless for generic programming, reducing boilerplate and improving compile-time safety.
+  Designed custom type classes and implicits to enforce domain-specific constraints at compile time.
+  Explored AI-driven insights for code optimization, performance improvements, and architecture suggestions.
+  Encouraged team adoption of AI tools to automate mundane tasks while focusing on high-value design and problem-solving.
+  Evaluated AI outputs critically to ensure accuracy, security, and maintainability in production code.
+  Stay updated on emerging AI tools to continually improve development efficiency and team productivity.
+  Integrate AI copilots into IDE workflows to assist with debugging, code completion, and refactoring.
+  Used AI copilots to generate boilerplate code, unit tests, or repetitive functions, improving developer productivity.
+  Implemented Micro Services based cloud Architecture on Azure platform for deployment.
+  Designing and overseeing as an Application Architect the implementation of Java-based applications and systems.
+  Defined technical strategies and solution for implementing business requirements into B360 application.
+  Analyzed the technical requirements and created various models required for the project.
+  Involved in the process of Design, Coding and testing of a SpringBoot application.
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Ensured smooth interoperability with legacy systems and third-party software.
+  Ensured that applications meet non-functional requirements such as scalability, security, and performance.
+  Developed and maintained enterprise-level web applications using JSF with RichFaces component libraries
+  Applied JSF Life Cycle knowledge to optimize rendering, data conversion, and validation performance
+  Implemented AJAX behavior with JSF components for enhanced interactivity and reduced page reloads
+  Implemented secure coding practices and code review to protect applications from vulnerabilities.
+  Provided technical guidance to development teams to ensure alignment with the architecture as an Application Architect.
+  Followed standards in writing code using Java 8/11, Spring restful web services, API Development, Spring, Spring data-JPA.
+  Write automation scripts for ETL, log analysis, and data processing and Build data pipelines and reporting solutions using Pandas, NumPy.
+  Develop ML/AI models (if required) using TensorFlow / Scikit-learn and Create lightweight APIs/services using Flask or FastAPI.
+  Integrate Python tools/scripts with existing Java applications and Support DevOps automation with Python scripts (infrastructure, CI/CD).
+  Write test automation frameworks and monitoring tools in Python.
+  Experience with JavaScript and JavaScript frame works JQuery, JQuery UI, AngularJS.
+  Provided 24x7 on call support in production environment on rotation basis.
+  Handled application security using Spring Security for Rest API services by creating JWT token.
+  Used Micro services architecture with Spring Boot based services interacting with API s.
+  Applied Spring boot Actuator to monitor & manage application.
+  Designed and developed the REST API s using Spring Boot.
+  Optimized Spark jobs in Databricks by tuning configurations and implementing partitioning strategies, reducing computation costs.
+  Automated data quality checks in Databricks, ensuring consistency and reliability of the data pipeline.
+  Reviewing reports from dashboard and Observe if there are any spikes then identify RCA - Root Cause Analysis.
+  Implemented MongoDB aggregation pipelines for complex query processing in a cloud environment.
+  Implemented data pipelines in Apache Spark with Scala, processing and analyzing large datasets efficiently.
+  Debugged and resolved data compatibility issues with Parquet files across different processing platforms.
+  Integrated Scala-based data processing scripts with Spark jobs to manage and analyze streaming data.
+  Worked on Databricks for big data processing and analytics.
+  Handled structured and unstructured data with tools like Spark.
+  Built domain-specific languages (DSLs) in Scala to simplify business rule configuration, improving maintainability and reducing runtime errors.
+  Used Scala s type system to enforce compile-time guarantees, preventing common bugs and ensuring correctness.
+  Architected serverless solutions on AWS Lambda for event-driven workloads.
+  Managed data storage and access layers with RDS, DynamoDB, and S3 for highly available backend services.
+  Integrated API Gateway + Lambda + DynamoDB for lightweight, scalable APIs.
+  Implemented IAM roles, VPC, and security policies ensuring compliance and system security.
+  Used GCP and BigQuery for large-scale data storage and analytics, supporting BI and reporting needs
+  Managed IAM roles, service accounts, and VPC configuration for secure cloud access and resource isolationsf
+  Automated infrastructure provisioning using Terraform (if applicable, you can include this if you ve started learning/using it)
+  Using Pub/Sub can distribute events in real-time, such as game scores, financial data, or audience participation.
+  Improved code quality using approaches such as unit testing tools and end to end testing for the fixes.
+
+  Environment: Java8, J2EE, Azure, SpringBoot, MicroServices, RESTFul Web Services,XML, XSLT, HTML, JSTL, Angular JS, AJAX, Aws,Using Pub/Sub ,GCP, JSF, Databricks, MongoDB, Scala ,Tomcat , CrowdTwist API, Oracle 11g, Maven, RabbitMQ, JPA, GIT, Websphere, clearcse.
+
+  Responsibilities:
+  Involved in all phases of Software Development Life Cycle (SDLC) like Analysis, Designing, Developing, Testing, and Finalizing.
+  Implemented Micro Services based cloud Architecture on Azure platform for deployment.
+  Designing and overseeing as an Application Architect the implementation of Java-based applications and systems.
+  Led the design and deployment of Spring Boot-based microservices on Azure Kubernetes Service (AKS), achieving high availability and container orchestration.
+  Configured Azure App Services to host critical Java APIs, ensuring fault tolerance and cost efficiency.
+  Implemented Azure Blob Storage and Azure SQL integration within Java applications to manage data storage and transactional processing.
+  Automated infrastructure provisioning using Terraform scripts within Azure DevOps pipelines for repeatable deployments.
+  AEM Component Development: Designed and implemented reusable, scalable, and maintainable AEM components using HTL (Sightly), Sling Models, OSGi services, and Java.
+  Template Creation & Editable Templates: Built static and editable templates with policies, ensuring flexibility for business users and adherence to branding guidelines.
+  AEM Workflows & DAM: Configured and automated content management workflows, approvals, and digital asset management (DAM) for efficient content publishing.
+  AEM Integration: Integrated AEM with e-commerce platforms (Magento, SAP Hybris) and third-party systems (REST, SOAP APIs) for seamless digital experiences.
+  Dispatcher & Caching: Optimized site performance and security using AEM Dispatcher configurations, caching strategies, and CDN integration.
+  Content Fragment Models & Experience Fragments: Implemented headless CMS capabilities with Content Fragments and Experience Fragments for omnichannel delivery.
+  AEM Best Practices: Applied coding standards, performance tuning, and scalability patterns to support high-traffic enterprise websites.
+
+  AEM Upgrades & Migration: Hands-on experience in upgrading AEM versions, migrating legacy content, and modernizing templates/components.
+  Personalization & Targeting: Implemented personalized experiences using Adobe Target integration and ContextHub.
+  CI/CD for AEM: Automated AEM build and deployment pipelines with Maven, Jenkins, and Git, ensuring continuous delivery.
+  Led multiple cross-functional teams in delivering complex Java-based enterprise applications, ensuring timely and high-quality releases.
+  Defined technical vision, architectural standards, and development guidelines across projects to maintain consistency and scalability.
+  Mentored junior and mid-level developers on coding best practices, design patterns, system design, and performance optimization.
+  Developed scalable REST APIs for internal and external systems with Java 11, secured via OAuth2 on the Azure platform.
+  Defined and enforced coding, testing, and deployment standards across multiple teams to drive consistency and maintainability.
+  Mentored senior and junior developers on advanced Java concepts, design patterns, microservices architecture, and cloud-native development.
+  Defined technical strategies and solution for implementing business requirements into B360 application.
+  Analyzed the technical requirements and created various models required for the project.
+  Involved in the process of Design, Coding and testing of a SpringBoot application.
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Ensured smooth interoperability with legacy systems and third-party software.
+  Ensured that applications meet non-functional requirements such as scalability, security, and performance.
+  Implemented secure coding practices and code review to protect applications from vulnerabilities.
+  Provided technical guidance to development teams to ensure alignment with the architecture as an Application Architect.
+  Followed standards in writing code using Java 8/11, Spring restful web services, API Development, Spring, Spring data-JPA.
+
+  Handled application security using Spring Security for Rest API services by creating JWT token.
+  Used Micro services architecture with Spring Boot based services interacting with API s.
+  Applied Spring boot Actuator to monitor & manage application.
+  Designed and developed the REST API s using Spring Boot.
+  Optimized Spark jobs in Databricks by tuning configurations and implementing partitioning strategies, reducing computation costs.
+  Automated data quality checks in Databricks, ensuring consistency and reliability of the data pipeline.
+  Reviewing reports from dashboard and Observe if there are any spikes then identify RCA - Root Cause Analysis.
+  Proficient in writing idiomatic Scala code, utilizing functional programming (FP) principles such as immutability, pattern matching, and higher-order functions.
+  Developed ETL pipelines in Databricks to process and transform multi-terabyte datasets efficiently.
+  Designed modular and reusable components using Scala s mixin-based composition.
+  Implemented MongoDB aggregation pipelines for complex query processing in a cloud environment.
+  Implemented data pipelines in Apache Spark with Scala, processing and analyzing large datasets efficiently.
+  Debugged and resolved data compatibility issues with Parquet files across different processing platforms.
+  Designed a schema evolution strategy for Parquet files to handle changes in data structures seamlessly.
+  Integrated Scala-based data processing scripts with Spark jobs to manage and analyze streaming data.
+  Worked on Databricks for big data processing and analytics.
+  Handled structured and unstructured data with tools like Spark.
+  Built domain-specific languages (DSLs) in Scala to simplify business rule configuration, improving maintainability and reducing runtime errors.
+  Used Scala s type system to enforce compile-time guarantees, preventing common bugs and ensuring correctness.
+  Changing the GCP infrastructure with Google Kubernetes Engine (GKE) and automate repetitive tasks using Cloud Functions and other serverless options.
+  Configure Cloud Armor and Identity-Aware Proxy (IAP) for protecting applications.
+  integration and deployment across development, testing, and production environments.
+  Used Agile software development with Scrum methodology.
+  Orchestrated containerized applications using Red Hat OpenShift on AWS, enhancing application resilience and enabling smooth scaling to handle high-demand scenarios.
+  Worked on rectifying the memory leakage issues like memory exhaustion and garbage collection issues of server side application.
+  Used Jira for Iteration Planning, Bug Tracking, and scheduled all or parts of requirements from the release backlog.
+  he CrowdTwist API primarily uses JSON for data transformation and this APIs allow application to easily move data into and out of our platform, which makes integrations easier and meaningful.
+  The CrowdTwist API documentation provides details on available endpoints and consume the functionalities.
+  Converted mock-ups into hand-written HTML, XHTML, JavaScript, JQuery, XML and JSON.
+  Finding the issues for both 4xx/5xx as well as Front End errors.
+  Providing fixes for Cart Validation issues once done with proper analysis is completed.
+  Also supporting on release days proactively and report the issue if Observe as part of production deployment.
+  Message Oriented Middleware implementation using JMS and Kafka.
+  Deployment and Troubleshooting of JAR, WAR and EAR applications in clustered environment with WebSphere.
+  RabbitMQ used to allowing them to communicate asynchronously by sending and receiving messages.
+  Send MQ messages without waiting for an immediate response, promoting loose coupling.
+  Using Pub/Sub can distribute events in real-time, such as game scores, financial data, or audience participation.
+  Improved code quality using approaches such as unit testing tools and end to end testing for the fixes.
+
+  Environment: Java8, J2EE, Azure, SpringBoot, MicroServices, RESTFul Web Services,XML, XSLT, HTML, JSTL, Angular JS, AJAX, Using Pub/Sub ,GCP, Databricks, MongoDB, Scala ,Tomcat , CrowdTwist API, Oracle 11g, Maven, RabbitMQ, JPA, GIT, Websphere, clearcse,
+
+  Responsibilities:
+  Involved in design phase, reviewed Target Architecture which was provided by Cloud Architect.
+  Reviewed assessment documents prior to start the development and raised a design bugs with Arch team.
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Migrated legacy Java applications to Azure App Services, optimizing cost and simplifying maintenance.
+  Upgraded application architecture for Azure cloud readiness, leveraging Spring Boot, App Gateway, and Azure Load Balancer.
+  Integrated Azure DevOps for CI/CD, enabling continuous delivery of Java microservices and reducing deployment time.
+  Applied Azure governance policies and security best practices to ensure compliance for all Java deployments.
+  Used Azure Key Vault for managing sensitive configurations and API credentials in Java-based applications.
+  Configured Azure App Service instead of Application server which will reduce the Cost.
+  Built real-time pipeline for streaming data using Kafka.
+  Upgraded the spring framework version and relevant changes as part of Cloud migration.
+  Defined development tasks, User Story creations for tasks, assigns stories to developers and monitors and reports status of development tasks.
+  Improved code quality using approaches such as unit testing tools and end to end testing.
+  Analyzed technical needs and develop coding with design objectives.
+  Experienced in Peer testing, code review, and impact analysis of the modules developed by the other team members.
+  Work on integrating Java applications with Oracle Fusion Middleware components such as Oracle SOA Suite, Oracle WebLogic Server, Oracle ADF (Application Development Framework), and other relevant technologies.
+  Worked extensively on Java Design Patterns like Singleton, Factory, DAO, MVC etc.
+  Utilizing cloud services like AAS computing to implement Java-based architectures.
+  Writing effective APIs and integrating with other systems or services.
+  Hands on experience with Azure cloud technologies and API integration.
+  Operating in a DevOps environment using Continuous Integration/Continuous Delivery (CI/CD) principles.
+  Experience using Spring MVC, Spring DAO, Spring Data, Spring IOC, Spring Annotations, Spring AOP, Spring Transactions and Spring Security.
+  Using PowerBI tool to generate the custom reports.
+  Involved on overall Software Development Life Cycle (SDLC) including requirements gathering, prototyping, designing, implementing, testing, maintenance, and full documentation.
+  Design Patterns like Facade, Singleton and Factory Pattern were used.
+  Environment: Java/J2EE, Spring Framework, XML, XSLT, HTML, JSTL, JavaScript, AJAX, Tomcat , Oracle 11g, Spring framework, Spring DAO, Spring Integration, RESTful Web Services, jUnit, Maven, Azure App services, PowerBI , Jasper Reports.
+
+  Responsibilities:
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Contributed to all stages of software development lifecycle.
+  Worked within agile development teams to translate customer needs into user stories and delivering working capabilities at the conclusion of each sprint.
+  Monitored SAP jobs and background processing (via SM37, SM21) and integrated with external job schedulers like Control-M for seamless visibility.
+  Configured Infrastructure Monitoring (CPU, memory, disk, OS-level services) using SAP Host Agent, OS scripts, and 3rd-party tools.
+  Participated in the cloud migration of SAP landscapes; ensured monitoring parity post-migration with AWS-native and hybrid tooling.
+  Integrated AppDynamics with third-party tools like ServiceNow, Slack, and PagerDuty for incident automation and improved DevOps workflows.
+  Collaborated with security and compliance teams to track user activity, audit logs, and system changes using SUIM, STAD, and ST03N.
+  Led the transition of monitoring scope from OpenShift-hosted SAP services to cloud-native equivalents, identifying performance gaps and remediation plans.
+  Provided support for Root Cause Analysis (RCA) of system performance issues using tools like SAP Focused Run, memory dumps, and transaction traces.
+  Maintained monitoring and alerting documentation, including SOPs, runbooks, and escalation matrices for the L1/L2 support teams.
+  Implemented and managed AppDynamics APM monitoring for microservices hosted on Azure Kubernetes Service (AKS) and Azure App Services.
+  Integrated AppDynamics with Azure Monitor and Azure Log Analytics for enhanced observability and correlation across infrastructure and application layers.
+  Configured custom dashboards, health rules, and alerts in AppDynamics for Azure-based applications, including Java/Spring Boot and .NET Core services.
+  Deployed AppDynamics Azure Site Extension for seamless instrumentation of PaaS-hosted applications.
+  Automated agent deployment and configuration using Azure DevOps pipelines and ARM templates.
+  Enabled full-stack visibility by instrumenting Azure Functions, Azure SQL, Blob Storage, and Event Grid using AppDynamics extensions and custom metrics.
+  Collaborated with SRE and DevOps teams to identify performance bottlenecks a/nd optimize cloud resource utilization using AppDynamics insights.
+  Integrated AppDynamics Business iQ with Azure-based applications to track business transactions and user journeys in real-time.
+  Configured synthetic monitoring and EUM (End -User Monitoring) for applications hosted on Azure Front Door and Application Gateway.
+  Created custom AppDynamics analytics dashboards to correlate Azure infrastructure events with application performance metrics.
+  Inovlved as AppDynamics SME for enterprise-scale observability initiatives across Azure cloud infrastructure and hybrid environments.
+  Designed and implemented end-to-end monitoring strategies using AppDynamics for applications hosted on Azure App Services, AKS, and VMs.
+  Led the AppDynamics integration with SAP HANA, configuring agents to monitor SAP databases, application servers, and infrastructure KPIs.
+  Configured SAP monitoring dashboards in AppDynamics to track availability, performance, exceptions, and system health for HANA clusters.
+  Developed custom health rules and alert policies for SAP HANA and Azure-based applications to proactively detect issues.
+  Integrated AppDynamics with Azure Monitor, Log Analytics, and Splunk to provide unified visibility across infrastructure and applications.
+  Collaborated with cloud architects and application teams to drive observability best practices and ensure alignment with business KPIs.
+  Delivered automation scripts (Python/Shell) for AppDynamics agent deployment, configuration, and synthetic monitoring setup in CI/CD pipelines (Azure DevOps).
+  Enabled EUM (End-User Monitoring) for SAP web apps and customer-facing Azure-hosted portals to track real-user journeys and browser performance.
+  Provided SME-level guidance to cross-functional teams for performance tuning, root cause analysis, and ongoing optimization using AppDynamics insights.
+  Conducted monthly health checks and performance reports for SAP environments, aligning with SLA commitments and capacity planning needs.
+  Collaborated with security and compliance teams to track user activity, audit logs, and system changes using SUIM, STAD, and ST03N.
+  Responsible for debugging, upgrading and correcting errors in Java programs.
+  Review and integrate technical and application architecture requirements.
+  Participated in the full agile application development life cycle for new development design, construction and testing of Java applications, Web Services (SOAP and REST), and reusable components to support overall project.
+  Supported continuous improvement, investigating alternatives and technologies, and resolved any technical issues arising.
+  Resolved security related issues in the design of roles needed for the assignment of the queries and code changes with fixes to the end users.
+  Involved to write several Technical Specification document.
+  Experienced in Peer testing, code review, and impact analysis of the modules developed by the other team members.
+  Worked extensively on Java Design Patterns like Singleton, Factory, DAO, MVC etc.
+  Worked on UI development by using Javascript, jQuery and Ajax.
+
+  Responsibilities:
+  Worked on data services platform by analyzing business requirements, technical designing, implementation and documentation using Agile Methodologies.
+  Involved in developing applications with REST web services and experienced with securing the rest web services.
+  Designed and implemented APIs as an Application Architect for seamless integration with external systems.
+  Created and Consumed Restful Web Services using Spring boot.
+  New library development with micro services architecture using Rest APIs, spring boot.
+  Enhancement of the existing functionality to persist the messages to Cassandra DB in Kafka.
+  Implemented SOA architecture with web services using SoapUI, WSDL and RESTful.
+  Designed GUI using JQuery, CSS to improve visual effect on the dynamic front-end.
+  Developed Web Services clients to consume those Web Services as well other enterprise wide Web Services.
+  Using UML, Java/J2EE, Web technologies that include JSP, Servlets, Struts, JMS, JDBC, HTML, XML, Java Script and Hibernate.
+  Strong experience in working with Core Java concepts like OOPS, Multi-threading, Exception handling, Generics, Collections, Networking etc.
+  Implemented the web layer using Spring, JQuery
+  Exposed the Web Services to the client applications by sharing the WSDL s.
+  Method references are used provided in Java8 to make use of methods already named.
+  Used core java for multithreading and exception handling
+  Worked on Junit testing using Mockito framework.
+  Unit tested all the classes using JUNIT at various class level and methods level.
+  Used Core Java Collections, Exception Handling, multithreading and generics.
+  Involved in development of service layer and DAO layer using Spring framework and Hibernate
+  Being a part of production team provided 24x7 supports for all the environments.
+
+  Environments:JAVA8, J2EEApplication server, Spring, Hibernate, WebServices, HTML, CSS, SQL Server, Angular8, Oracle 11g, Apache Tomcat 8.524, VMware.
+
+  Responsibilities:
+  Worked on development/enhancements of CATO Intake form flow using Java/J2EE/Restful Webservices/Angular Js Technologies.
+  Implemented new functionalities as part of the enhancements which helped to business users to automate the manual efforts.
+  Experience with application optimizations such as performance and memory optimizations, debugging memory leaks, caching, scaling.
+  Experienced in Java based Architecture Design and Development, Database design, Code Review, Performance optimization, Modularization of application and its integration.
+  Worked on the Work Requests where we modify/update/cancel the forms data from the backend using Database queries.
+  Used DevSecOps tools to build, deploy and scans.
+  Supporting for Releases and Change Controls on weekly basis to perform the validations for my changes on Production Env.
+  Interacted with Business Users, System Analysts to design System Architecture to obtain information on project limitations and capabilities, performance requirements and interfaces.
+  Good working knowledge of continuous integration and delivery (CI/CD) and toolsets that provides this ability.
+  Wrote scripts (start, stop & ping) for web application server administration.
+  Configured SSL Certificates for Wildfly and Apache servers.
+  Environment: Java8, JDK1.5, J2EE, Core Java, Spring, Hibernate, HTML, CSS, JavaScript, Angular,Jboss Wildfly App Server, VMware, CAMUNDA , XML, JIRA, Oracle10g, Oracle 11g, Ant1.5.1, Linux, FTP.
+
+  Responsibilities:
+  Responsible for the implementation of application system with Core Java and spring framework.
+  Created and injected spring services, spring controllers and DAOs to achieve dependency injection.
+  Improved code quality using approaches such as unit testing tools and end to end testing.
+  Successfully completed the application migration from Struts framework to Spring Framework.
+  Involved in different ERs(Enterprise Release) for development and enhancement.
+  Implemented reusable components as part of the application migration.
+  Handled and Supported for Regression Team for couple of releases.
+  Use Akka (Scala) or Reactor (Java) for reactive, high-throughput systems.
+  Write functional and immutable code using Scala.
+  Implemented Effective data modeling in MongoDB focuses on schema design tailored to the
+  application s read and write patterns.
+  Leverage Scala libraries like Cats and ZIO to build robust services with better concurrency and composability.
+  Optimize for query patterns using MongoDB, not just data representation.
+  Involved in the debugging the code and provided the fix in minimal time.
+  Implemented on Java Design Patterns like Singleton, Factory, DAO, MVC etc.
+  Experienced in Peer testing, code review, and impact analysis of the modules developed by the other team members.
+  Defines development tasks, User Story creations for tasks, assigns stories to developers and monitors and reports status of development tasks.
+  Designed and Implemented REST web Services for the application
+  Automated and scheduled backups on all UNIX Machines using shell scripts.
+  Performance tuning was done with respect to system, connection pools Execute threads and JVM heap size.
+  Installed, configured and integrated Web servers (plug-in file), SiteMinder agents and LDAP user directory with WAS.
+  Installation and configuration of BPM v7.5
+  Developed multiple POCs to create a user interface in Angular JS.
+  Configured and Enabled the Global Security System for WAS Administration for Console users and Console Groups using Active Directory Server as a LDAP User Registry.
+  Develop domain monitoring java class using JMX to collect JDBC, JVM, and Execute Queue statistics for Managed Servers.
+  Document and establish standard processes to ensure repeatability for J2EE administrators.
+  Provided Migration configuration for transactions, security, services, JMS servers and services while transitioning from development to production environment.
+  Installed Oracle 8i/9i/10g client software on the application server and configuring the connectivity using JDBC drivers for the database.
+  Deployment and Troubleshooting of JAR, WAR and EAR applications in clustered environment with WebSphere.
+  Implemented reports functionality using PowerBI tool for various requirements.
+  Created Tomcat instances and modified each and removed shared component.
+  Performed extensive trouble shooting experience including stack trace analysis and JVM tuning experience by changing to heap sizes according to the requirement.
+  Monitored free space, disk usage, locating files, checking & clearing log files, administration & monitoring of file systems, network & virtual memory statistics.
+  Environment: Java, J2EE, HTML, CSS, JavaScript, jQuery, AngularJS, WebSphere Server 8.x, Jenkins, WSRR, IIB, SUN Solaris 8.0/10.0, Linux, Oracle 10g, JDK 1.4/1.5,1.6, Servlets, EJB 2.0, Apache, PowerBI & Jasper Reports.
+
+  Responsibilities:
+  Perform complete application life cycle function (SDLC) from conception to final release to users including design & analysis, Implementation, Testing, Deployment & Maintenance.
+  Analysis and review of requirements specification document for clarifications from programming perspective.
+  Developed code in Java, J2EE, Webwork and Hibernate using Pair programming and TDD.
+  Used Spring JDBC to execute database queries. Created row mappers and query classes for DB operations.
+  Used JDBC calls in the Enterprise Java Beans to access Oracle Database.
+  Created and managed application database connections and application database.
+  Implemented the project by using MVC framework.
+  Used JSP for presentation layer, entity beans as the model to represent the persistent data and interacted with Oracle database as per MVC Architecture.
+  Developed application on Spring framework by utilizing its features like Spring Dependency injection, Spring Security, Spring Web flow with Spring MVC.
+  Integrated application with Spring Security for form based authentication and authorization.
+  Developed business logic layer using Spring Framework and integrated Hibernate.
+  Involved in Spring IOC and Spring AOP framework implementation.
+  Implemented java multithreading to access interfaces.
+  Developed custom application API s based on workflows derived from design.
+  Design Implementation of GUI using HTML, JSP and Java Script for front-end validations.
+  Designed and implemented the User Interface using JavaScript, HTML, XHTML, XML, CSS, JSP, and AJAX.
+  Worked with JSON as well as XML to consume and produce Http Requests and Responses.
+  Designed Java Servlets and Objects using J2EE standards.
+  Involved in resolving Production Issues, Analysis, Troubleshooting and Problem Resolution and performance Management.
+  Environment: Oracle DB, Eclipse IDE, XHTML, AJAX, XSLT, J2EE, JSP s, HTML, CSS, Bootstrap, Multithreading, jQuery, JavaScript, Spring IOC, Spring AOP, Spring JDBC, Hibernate, XML, WebLogic, Windows XP, UNIX etc.
+END_SECTION  RAW_EXTRACTION

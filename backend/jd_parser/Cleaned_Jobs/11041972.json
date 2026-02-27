@@ -1,0 +1,28 @@
+{
+  "job_id": "11041972",
+  "company": "Intel US SA Program",
+  "job_title": "_Engineer: Electronics - III",
+  "location": {
+    "city": "Chandler",
+    "state": "AZ",
+    "country": "US",
+    "postal_code": "85226"
+  },
+  "jobdiva_number": "18-13665",
+  "positions": 1,
+  "bill_rate": {
+    "min": 4319,
+    "max": 4319,
+    "period": "h"
+  },
+  "pay_rate": {
+    "min": null,
+    "max": null,
+    "period": "h"
+  },
+  "position_type": null,
+  "onsite_flexibility": null,
+  "remote_percentage": null,
+  "description": "This is an Engineering Failure Analysis position focused on characterization. Responsible for technical functions in support of engineering activities such as characterization design, test, checkout, and modifications of substrate and related assembly technologies. Conducts engineering tests to collect data and assist in research work. Assignments are varied in nature and require a high degree of technical understanding of the substrate and assembly disciplines. Some degree of judgment required in resolving non-standard problems. Candidate will work closely with engineers in a collaborative environment. In this position, you will be responsible for working with the Yield Engineers to characterize new assembly and substrate technologies as well as determining the root cause of defects on both Products and Test Vehicles. Your responsibilities will include but not be limited to: o Visual/Mechanical defect analysis o Defect characterization by microscopic and analytical (spectroscopic) techniques o Yield Analysis o BKM Development, developing new analysis techniques for cutting edge substrate technologies Qualifications o Master degree or higher in Chemistry (organic, polymer), Material Science or a similar technical discipline. o Prior experience working in a lab environment o Experience with analysis techniques such as, FTIR, Raman, SEM, EDX, AFM, TOF-SIMS, XPS, TEM, GCMS and Optical Inspection, Ion Milling, FIB and X-section o Knowledge of failure analysis techniques o Ability to communicate findings verbally and through reports to yield engineers, LYA analysts, and other customers o Ability to work in a collaborative manner with a variety of different individuals in a fast paced, technical environment o Ability to work effectively in an ambiguous environment where changing priorities are the norm",
+  "recruiter_remarks": ""
+}

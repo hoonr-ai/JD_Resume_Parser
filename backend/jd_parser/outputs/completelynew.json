@@ -1,0 +1,129 @@
+[
+  {
+    "TOON": {
+      "jd_skill_requirements": {
+        "jd_id": "28083791",
+        "required_skills": [
+          {
+            "skill_id": "react_js",
+            "canonical_name": "React.js",
+            "minimum_years": 2,
+            "required_proficiency_level": 4,
+            "mandatory": true,
+            "weight": 0.3
+          },
+          {
+            "skill_id": "javascript",
+            "canonical_name": "JavaScript",
+            "minimum_years": 3,
+            "required_proficiency_level": 4,
+            "mandatory": true,
+            "weight": 0.25
+          },
+          {
+            "skill_id": "microservices_architecture",
+            "canonical_name": "Microservices Architecture",
+            "minimum_years": 2,
+            "required_proficiency_level": 3,
+            "mandatory": true,
+            "weight": 0.2
+          },
+          {
+            "skill_id": "node_js",
+            "canonical_name": "Node.js",
+            "minimum_years": 2,
+            "required_proficiency_level": 3,
+            "mandatory": true,
+            "weight": 0.15
+          },
+          {
+            "skill_id": "python",
+            "canonical_name": "Python",
+            "minimum_years": 1,
+            "required_proficiency_level": 3,
+            "mandatory": true,
+            "weight": 0.1
+          }
+        ],
+        "optional_skills": [
+          {
+            "skill_id": "redux",
+            "canonical_name": "Redux",
+            "minimum_years": 1,
+            "required_proficiency_level": 3,
+            "mandatory": false,
+            "weight": 0.25
+          },
+          {
+            "skill_id": "express_js",
+            "canonical_name": "Express.js",
+            "minimum_years": 1,
+            "required_proficiency_level": 2,
+            "mandatory": false,
+            "weight": 0.2
+          },
+          {
+            "skill_id": "flask",
+            "canonical_name": "Flask",
+            "minimum_years": 1,
+            "required_proficiency_level": 2,
+            "mandatory": false,
+            "weight": 0.15
+          },
+          {
+            "skill_id": "html5",
+            "canonical_name": "HTML5",
+            "minimum_years": 2,
+            "required_proficiency_level": 3,
+            "mandatory": false,
+            "weight": 0.1
+          },
+          {
+            "skill_id": "css3",
+            "canonical_name": "CSS3",
+            "minimum_years": 2,
+            "required_proficiency_level": 3,
+            "mandatory": false,
+            "weight": 0.1
+          },
+          {
+            "skill_id": "git",
+            "canonical_name": "Git",
+            "minimum_years": 2,
+            "required_proficiency_level": 3,
+            "mandatory": false,
+            "weight": 0.1
+          },
+          {
+            "skill_id": "ci_cd_pipelines",
+            "canonical_name": "CI/CD Pipelines",
+            "minimum_years": 1,
+            "required_proficiency_level": 2,
+            "mandatory": false,
+            "weight": 0.1
+          }
+        ],
+        "category_distribution": {
+          "core_skills": [
+            "react_js",
+            "javascript",
+            "microservices_architecture",
+            "node_js",
+            "python"
+          ],
+          "secondary_skills": [
+            "redux",
+            "express_js",
+            "flask"
+          ],
+          "supporting_tools": [
+            "html5",
+            "css3",
+            "git",
+            "ci_cd_pipelines"
+          ]
+        }
+      }
+    }
+  }
+]

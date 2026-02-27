@@ -1,0 +1,383 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  NULL
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  priyashree904@gmail.com
+  FULL_NAME  Priya Shree
+  GITHUB  NULL
+  LINKEDIN  NULL
+  LOCATION  Morrisville, North Carolina 30041 US
+  PHONE_E164  +19106883135
+  PHONE_RAW  +19106883135
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Lead Java Full-Stack Developer with 10+ years of hands-on experience designing and delivering enterprise-grade applications across banking, e-commerce, airlines, and healthcare domains.
+  Strong backend expertise in Java (8/11/17), Spring Boot, Spring MVC, Spring Security, Hibernate, and JPA, building scalable and maintainable systems.
+  Extensive experience designing microservices architectures, developing secure RESTful APIs, and implementing event-driven solutions using Kafka and RabbitMQ.
+  Proven ability to modernize legacy monolithic applications into cloud-native solutions on AWS and Azure, improving scalability, performance, and deployment efficiency.
+  Solid front-end experience with Angular and React, building responsive, user-friendly interfaces integrated with backend services.
+  Hands-on experience with Docker, CI/CD pipelines, Jenkins, Git, and Maven, enabling faster and more reliable releases.
+  Strong background in database design, SQL optimization, and performance tuning across Oracle, PostgreSQL, MySQL, and SQL Server.
+  Implemented security best practices including OAuth2, JWT, role-based access control, and secure API design in regulated environments.
+  Experience incorporating AI-assisted capabilities such as intelligent validation, anomaly detection, and automated decision rules into enterprise workflows.
+  Adept at working in Agile/Scrum and SAFe environments, collaborating closely with product owners, QA, and DevOps teams.
+  Known for writing clean, maintainable code, mentoring junior developers, and taking ownership of end-to-end feature delivery.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Jenkins
+  ITEM  Requests
+  ITEM  Api Documentation
+  ITEM  Shell
+  ITEM  Storage
+  ITEM  Development
+  ITEM  Docker
+  ITEM  Selenium
+  ITEM  Server
+  ITEM  Html
+  ITEM  Sql
+  ITEM  Access
+  ITEM  Oracle
+  ITEM  Git
+  ITEM  Authentication
+  ITEM  Optimization
+  ITEM  Aws
+  ITEM  TypeScript
+  ITEM  Spring
+  ITEM  Integrity
+  ITEM  Messaging
+  ITEM  Postgresql
+  ITEM  Enterprise
+  ITEM  Cloud
+  ITEM  Historical
+  ITEM  React
+  ITEM  Asynchronous Processing
+  ITEM  Healthcare
+  ITEM  python-coverage
+  ITEM  Microservices
+  ITEM  Data Access
+  ITEM  Python
+  ITEM  Basic
+  ITEM  Logging
+  ITEM  Ai
+  ITEM  WEB
+  ITEM  Css
+  ITEM  Json
+  ITEM  Architecture
+  ITEM  Apache
+  ITEM  Java
+  ITEM  Javascript
+  ITEM  Microsoft Azure
+  ITEM  Code Quality
+  ITEM  Scripting
+  ITEM  Modeling
+  ITEM  Configuration
+  ITEM  Xml
+  ITEM  Software
+  ITEM  Programming Languages
+  ITEM  Frameworks
+  ITEM  Framework
+  ITEM  Frontend
+  ITEM  Database
+  ITEM  Api
+  ITEM  Performance
+  ITEM  Kubernetes
+  ITEM  Testing
+  ITEM  Monitoring
+  ITEM  Maven
+  ITEM  Streaming
+  ITEM  Design
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  First Horizon Corporation – Memphis, TN | Lead Java Full Stack Developer May 2023 - Present
+  Project Overview
+  Working on enterprise digital banking and internal platforms supporting customer onboarding, transaction processing, compliance workflows, and operational tools used by business and risk teams across the organization.
+  Roles & Responsibilities
+  Designing and developing Java Spring Boot–based microservices to support core banking workflows such as customer profile management, transaction validation, and internal approvals.
+  Building an
+  d maintaining RESTful APIs consumed by both internal applications and external partner systems, ensuring secure and reliable data exchange.
+  Developing modern Angular UI components for internal users, focusing on usability, accessibility, and consistent user experience across modules.
+  Collaborating closely with business analysts, compliance teams, and product owners to understand client requirements and translate them into technical solutions.
+  Implementing Spring Security with OAuth2 and JWT to meet banking security standards and protect sensitive customer and transaction data.
+  Working on AWS-hosted applications, leveraging services such as EC2, S3, RDS, and CloudWatch for application hosting, storage, and monitoring.
+  Participating in legacy application modernization, breaking down monolithic services into smaller, maintainable microservices.
+  Integrating AI-assisted validation logic to automatically detect unusual transaction patterns, duplicate records, and data inconsistencies before processing.
+  Using rule-based automation and AI-supported checks to reduce manual review effort for compliance and operational teams.
+  Implementing Kafka-based messaging for asynchronous processing, audit logging, and system-to-system notifications.
+  Writing optimized SQL queries and JPA repositories, focusing on performance, data integrity, and transactional consistency.
+  Actively contributing to code reviews, enforcing coding standards, and improving overall code quality across the team.
+  Supporting CI/CD pipelines using Jenkins and Docker, enabling smooth deployments across development, QA, and production environments.
+  Working closely with QA teams to support integration testing, defect resolution, and release validation.
+  Participating in Agile ceremonies including sprint planning, backlog grooming, and retrospectives, ensuring on-time delivery of client commitments.
+  Providing production support and troubleshooting issues related to APIs, UI behavior, and backend processing.
+  Mentoring junior developers and onboarding new team members into project architecture and development standards.
+  eBay – Austin, TX | Java Full Stack Developer May 2021 – April 2023
+  Project Overview
+  Worked on large-scale e-commerce platforms supporting seller management, order processing, pricing workflows, and internal operational tools used by business and support teams across global marketplaces.
+  Roles & Responsibilities
+  Developed and maintained Java Spring Boot microservices supporting core e-commerce workflows such as order lifecycle management, seller onboarding, and catalog updates.
+  Designed and implemented RESTful APIs consumed by multiple internal systems and frontend applications, ensuring high availability and backward compatibility.
+  Built and enhanced React-based user interfaces for seller dashboards and internal admin tools, focusing on usability and performance.
+  Worked closely with product managers and business stakeholders to understand seller and marketplace requirements and convert them into technical designs.
+  Implemented asynchronous processing using Apache Kafka for order events, inventory updates, and system notifications.
+  Integrated backend services with pricing, promotions, and recommendation systems to support dynamic marketplace behavior.
+  Used SQL and JPA/Hibernate extensively to design queries, manage transactional data, and ensure data consistency across services.
+  Contributed to fault-tolerant microservices design, implementing retry mechanisms, circuit breakers, and graceful error handling.
+  Leveraged AWS services for application hosting, storage, and monitoring, working with EC2, S3, RDS, and CloudWatch.
+  Participated in cloud migration and service refactoring efforts, helping decouple legacy components into independently deployable services.
+  Applied AI-assisted logic for data validation and pattern checks in seller activity and order flows to identify anomalies and reduce manual reviews.
+  Worked with rule-based automation and smart filtering to flag suspicious seller behavior and duplicate transactions.
+  Improved test coverage by writing unit and integration tests using JUnit and Mockito, supporting stable production releases.
+  Supported production deployments and on-call activities, troubleshooting API failures, UI issues, and data inconsistencies.
+  Collaborated daily with QA, DevOps, and Site Reliability teams to resolve defects and ensure smooth releases.
+  Actively participated in Agile ceremonies, including sprint planning, backlog refinement, and retrospectives.
+  Documented service behavior, API contracts, and onboarding guides for new team members.
+  Followed secure coding practices and internal compliance standards for enterprise-grade applications.
+  Delta Airlines - Atlanta, GA | Java Full-Stack Developer Jan 2020 – April 2021
+  Project Overview
+  Worked on enterprise applications supporting flight operations, reservations, customer service tools, and operational reporting systems used by airport operations, support teams, and corp
+  orate users.
+  Roles & Responsibilities
+  Developed and enhanced Java-based full-stack applications supporting flight operations and internal airline workflows.
+  Built backend components using Spring Framework and Spring MVC, implementing business logic for flight schedules, delays, cancellations, and service requests.
+  Designed and implemented RESTful services to expose operational data to internal dashboards and downstream systems.
+  Developed and maintained UI components using JavaScript, HTML5, and CSS3 for internal web applications.
+  Worked closely with operations managers, support teams, and business analysts to gather and clarify application requirements.
+  Created and optimized SQL queries and database objects to support operational and management reports.
+  Supported Power BI reports and dashboards used by leadership and operations teams for daily monitoring.
+  Assisted with data validation and reconciliation checks to ensure accuracy of operational and reporting data.
+  Integrated backend services with reporting platforms and batch jobs for scheduled data refreshes.
+  Collaborated with QA teams to support functional testing, regression testing, and defect resolution.
+  Participated in production support activities, troubleshooting application and data-related issues.
+  Followed established coding standards and contributed to code reviews and technical documentation.
+  Actively participated in Agile Scrum ceremonies, including sprint planning and retrospectives.
+  Ensured applications complied with internal security, access control, and audit requirements.
+  Cardinal Health – Andhra Pradesh, India | Software Engineer Jul 2017 – Oct 2019
+  Project Overview
+  Worked on enterprise healthcare applications supporting supply chain operations, inventory management, order fulfillment, and compliance reporting used by internal operations teams, distribution centers, and business stakeholders.
+  Roles & Responsibilities
+  Developed and enhanced enterprise Java applications supporting healthcare supply chain workflows including inventory tracking, order processing, and shipment status.
+  Built backend services using Spring Framework and Hibernate, implementing core business logic and data access layers.
+  Designed and maintained database schemas, tables, and stored procedures to support high-volume transactional data.
+  Wrote complex SQL queries to support operational reports, inventory views, and exception tracking.
+  Worked closely with business users and operations teams to understand supply chain requirements and translate them into technical solutions.
+  Supported batch processing jobs for nightly inventory updates, order reconciliation, and data synchronization between systems.
+  Implemented rule-based validation logic to ensure data accuracy for inventory levels, order quantities, and shipment records.
+  Assisted in early-stage predictive and trend-based reporting, helping business teams identify recurring inventory shortages and demand patterns using historical data.
+  Supported reporting and analytics outputs consumed by operations and management teams for planning and compliance purposes.
+  Collaborated with QA teams to support functional testing, system testing, and defect resolution during release cycles.
+  Participated in UAT cycles, addressing feedback from business users and ensuring solutions met operational needs.
+  Provided production support, troubleshooting application issues related to data mismatches, processing failures, and performance bottlenecks.
+  Followed healthcare compliance and internal audit guidelines when developing and maintaining applications.
+  Contributed to code reviews, documentation, and knowledge transfer within the development team.
+  Worked within a structured Waterfall SDLC, supporting requirements, design, development, testing, and deployment phases.
+  mRoads, Hyderabad, India | Software Developer Jan 2015 – Jun 2017
+  Project Overview
+  Worked on multiple client projects delivering Java-based web applications for internal business operations, reporting systems, and customer-facing portals across different domains.
+  Roles & Responsibilities
+  Developed Java web applications using Core Java, JSP, Servlets, and Spring Framework, following standard MVC architecture.
+  Implemented backend business logic and controller layers to support client-specific workflows and application requirements.
+  Designed and maintained database schemas and SQL queries to support transactional and reporting functionality.
+  Worked on JSP pages with HTML, CSS, and JavaScript to build user interfaces for internal and external users.
+  Integrated frontend components with backend services using form submissions and server-side processing.
+  Assisted in requirement analysis discussions with senior developers and business users to understand client needs.
+  Developed reusable utility classes and common components to reduce duplicate code across modules.
+  Implemented basic validation logic and error handling to ensure data integrity and user input accuracy.
+  Supported CRUD operations across multiple modules such as user management, reporting, and configuration screens.
+  Participated in code reviews, addressing feedback and improving coding standards and readability.
+  Assisted QA teams during system testing and UAT, fixing defects and retesting changes.
+  Supported production deployments and handled post-release bug fixes and minor enhancements.
+  Worked on application maintenance activities, including performance tuning and resolving user-reported issues.
+  Maintained technical documentation for application features, database changes, and deployment steps.
+  Gained hands-on exposure to end-to-end SDLC, from development and testing to deployment and support.
+  Collaborated closely with team leads and senior engineers to follow project timelines and delivery commitments.
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  EMPTY
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  Osmania University, Hyderabad, India.
+  Bachelor of Technology (BTech) – Information Technology
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  NULL
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  PRIYA SHREE
+  priyashree904@gmail.com | +1 (910)-688-3135
+
+  PROFESSIONAL SUMMARY
+  Lead Java Full-Stack Developer with 10+ years of hands-on experience designing and delivering enterprise-grade applications across banking, e-commerce, airlines, and healthcare domains.
+  Strong backend expertise in Java (8/11/17), Spring Boot, Spring MVC, Spring Security, Hibernate, and JPA, building scalable and maintainable systems.
+  Extensive experience designing microservices architectures, developing secure RESTful APIs, and implementing event-driven solutions using Kafka and RabbitMQ.
+  Proven ability to modernize legacy monolithic applications into cloud-native solutions on AWS and Azure, improving scalability, performance, and deployment efficiency.
+  Solid front-end experience with Angular and React, building responsive, user-friendly interfaces integrated with backend services.
+  Hands-on experience with Docker, CI/CD pipelines, Jenkins, Git, and Maven, enabling faster and more reliable releases.
+  Strong background in database design, SQL optimization, and performance tuning across Oracle, PostgreSQL, MySQL, and SQL Server.
+  Implemented security best practices including OAuth2, JWT, role-based access control, and secure API design in regulated environments.
+  Experience incorporating AI-assisted capabilities such as intelligent validation, anomaly detection, and automated decision rules into enterprise workflows.
+  Adept at working in Agile/Scrum and SAFe environments, collaborating closely with product owners, QA, and DevOps teams.
+  Known for writing clean, maintainable code, mentoring junior developers, and taking ownership of end-to-end feature delivery.
+
+  TECHNICAL SKILLS
+  Core Programming Languages: Java (8, 11, 17), Java SE, Java EE, Python (scripting & automation), Bash/Shell
+  Backend Frameworks: Spring Boot, Spring Core, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Spring Batch, Spring AOP
+  Microservices & Architecture: Microservices Design, Layered Architecture, Event-Driven Architecture, Service Decomposition, API Gateway Patterns
+  Frontend Technologies: Angular (8–15), React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Material UI
+  API Development & Integration: RESTful APIs, OpenAPI / Swagger, JSON, XML, Feign Clients, API Versioning, API Documentation
+  Databases (Relational): Oracle, PostgreSQL, MySQL, SQL Server
+  Database Concepts: Data Modeling, Indexing, Query Optimization, Stored Procedures, Transactions
+  Cloud Platforms: AWS (EC2, S3, RDS, ECS, EKS, IAM, CloudWatch), Azure App Services
+  Containerization & Orchestration: Docker, Docker Compose, Kubernetes (basic deployment understanding)
+  Messaging & Streaming: Apache Kafka, Kafka Topics & Consumers, Kafka Streams, RabbitMQ
+  CI/CD & DevOps: Jenkins, Git, GitHub, GitLab CI, Maven, Gradle, Automated Build Pipelines
+  Security & Authentication: Spring Security, OAuth2, JWT, Role-Based Access Control (RBAC), Secure API Design
+  Testing & Quality Engineering: JUnit, Mockito, Selenium, Integration Testing, API Testing (Postman), Regression Testing
+  Monitoring & Logging: Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), AWS CloudWatch
+  Performance & Scalability: Caching (Redis – basic usage), Async Processing, Thread Management, Load Optimization
+  AI-Assisted Features: Intelligent Validation Rules, Anomaly Detection Logic, Rule-Based Automation
+
+  PROFESSIONAL EXPERIENCE
+  First Horizon Corporation – Memphis, TN | Lead Java Full Stack Developer May 2023 - Present
+  Project Overview
+  Working on enterprise digital banking and internal platforms supporting customer onboarding, transaction processing, compliance workflows, and operational tools used by business and risk teams across the organization.
+  Roles & Responsibilities
+  Designing and developing Java Spring Boot–based microservices to support core banking workflows such as customer profile management, transaction validation, and internal approvals.
+  Building an
+  d maintaining RESTful APIs consumed by both internal applications and external partner systems, ensuring secure and reliable data exchange.
+  Developing modern Angular UI components for internal users, focusing on usability, accessibility, and consistent user experience across modules.
+  Collaborating closely with business analysts, compliance teams, and product owners to understand client requirements and translate them into technical solutions.
+  Implementing Spring Security with OAuth2 and JWT to meet banking security standards and protect sensitive customer and transaction data.
+  Working on AWS-hosted applications, leveraging services such as EC2, S3, RDS, and CloudWatch for application hosting, storage, and monitoring.
+  Participating in legacy application modernization, breaking down monolithic services into smaller, maintainable microservices.
+  Integrating AI-assisted validation logic to automatically detect unusual transaction patterns, duplicate records, and data inconsistencies before processing.
+  Using rule-based automation and AI-supported checks to reduce manual review effort for compliance and operational teams.
+  Implementing Kafka-based messaging for asynchronous processing, audit logging, and system-to-system notifications.
+  Writing optimized SQL queries and JPA repositories, focusing on performance, data integrity, and transactional consistency.
+  Actively contributing to code reviews, enforcing coding standards, and improving overall code quality across the team.
+  Supporting CI/CD pipelines using Jenkins and Docker, enabling smooth deployments across development, QA, and production environments.
+  Working closely with QA teams to support integration testing, defect resolution, and release validation.
+  Participating in Agile ceremonies including sprint planning, backlog grooming, and retrospectives, ensuring on-time delivery of client commitments.
+  Providing production support and troubleshooting issues related to APIs, UI behavior, and backend processing.
+  Mentoring junior developers and onboarding new team members into project architecture and development standards.
+  eBay – Austin, TX | Java Full Stack Developer May 2021 – April 2023
+  Project Overview
+  Worked on large-scale e-commerce platforms supporting seller management, order processing, pricing workflows, and internal operational tools used by business and support teams across global marketplaces.
+  Roles & Responsibilities
+  Developed and maintained Java Spring Boot microservices supporting core e-commerce workflows such as order lifecycle management, seller onboarding, and catalog updates.
+  Designed and implemented RESTful APIs consumed by multiple internal systems and frontend applications, ensuring high availability and backward compatibility.
+  Built and enhanced React-based user interfaces for seller dashboards and internal admin tools, focusing on usability and performance.
+  Worked closely with product managers and business stakeholders to understand seller and marketplace requirements and convert them into technical designs.
+  Implemented asynchronous processing using Apache Kafka for order events, inventory updates, and system notifications.
+  Integrated backend services with pricing, promotions, and recommendation systems to support dynamic marketplace behavior.
+  Used SQL and JPA/Hibernate extensively to design queries, manage transactional data, and ensure data consistency across services.
+  Contributed to fault-tolerant microservices design, implementing retry mechanisms, circuit breakers, and graceful error handling.
+  Leveraged AWS services for application hosting, storage, and monitoring, working with EC2, S3, RDS, and CloudWatch.
+  Participated in cloud migration and service refactoring efforts, helping decouple legacy components into independently deployable services.
+  Applied AI-assisted logic for data validation and pattern checks in seller activity and order flows to identify anomalies and reduce manual reviews.
+  Worked with rule-based automation and smart filtering to flag suspicious seller behavior and duplicate transactions.
+  Improved test coverage by writing unit and integration tests using JUnit and Mockito, supporting stable production releases.
+  Supported production deployments and on-call activities, troubleshooting API failures, UI issues, and data inconsistencies.
+  Collaborated daily with QA, DevOps, and Site Reliability teams to resolve defects and ensure smooth releases.
+  Actively participated in Agile ceremonies, including sprint planning, backlog refinement, and retrospectives.
+  Documented service behavior, API contracts, and onboarding guides for new team members.
+  Followed secure coding practices and internal compliance standards for enterprise-grade applications.
+  Delta Airlines - Atlanta, GA | Java Full-Stack Developer Jan 2020 – April 2021
+  Project Overview
+  Worked on enterprise applications supporting flight operations, reservations, customer service tools, and operational reporting systems used by airport operations, support teams, and corp
+  orate users.
+  Roles & Responsibilities
+  Developed and enhanced Java-based full-stack applications supporting flight operations and internal airline workflows.
+  Built backend components using Spring Framework and Spring MVC, implementing business logic for flight schedules, delays, cancellations, and service requests.
+  Designed and implemented RESTful services to expose operational data to internal dashboards and downstream systems.
+  Developed and maintained UI components using JavaScript, HTML5, and CSS3 for internal web applications.
+  Worked closely with operations managers, support teams, and business analysts to gather and clarify application requirements.
+  Created and optimized SQL queries and database objects to support operational and management reports.
+  Supported Power BI reports and dashboards used by leadership and operations teams for daily monitoring.
+  Assisted with data validation and reconciliation checks to ensure accuracy of operational and reporting data.
+  Integrated backend services with reporting platforms and batch jobs for scheduled data refreshes.
+  Collaborated with QA teams to support functional testing, regression testing, and defect resolution.
+  Participated in production support activities, troubleshooting application and data-related issues.
+  Followed established coding standards and contributed to code reviews and technical documentation.
+  Actively participated in Agile Scrum ceremonies, including sprint planning and retrospectives.
+  Ensured applications complied with internal security, access control, and audit requirements.
+  Cardinal Health – Andhra Pradesh, India | Software Engineer Jul 2017 – Oct 2019
+  Project Overview
+  Worked on enterprise healthcare applications supporting supply chain operations, inventory management, order fulfillment, and compliance reporting used by internal operations teams, distribution centers, and business stakeholders.
+  Roles & Responsibilities
+  Developed and enhanced enterprise Java applications supporting healthcare supply chain workflows including inventory tracking, order processing, and shipment status.
+  Built backend services using Spring Framework and Hibernate, implementing core business logic and data access layers.
+  Designed and maintained database schemas, tables, and stored procedures to support high-volume transactional data.
+  Wrote complex SQL queries to support operational reports, inventory views, and exception tracking.
+  Worked closely with business users and operations teams to understand supply chain requirements and translate them into technical solutions.
+  Supported batch processing jobs for nightly inventory updates, order reconciliation, and data synchronization between systems.
+  Implemented rule-based validation logic to ensure data accuracy for inventory levels, order quantities, and shipment records.
+  Assisted in early-stage predictive and trend-based reporting, helping business teams identify recurring inventory shortages and demand patterns using historical data.
+  Supported reporting and analytics outputs consumed by operations and management teams for planning and compliance purposes.
+  Collaborated with QA teams to support functional testing, system testing, and defect resolution during release cycles.
+  Participated in UAT cycles, addressing feedback from business users and ensuring solutions met operational needs.
+  Provided production support, troubleshooting application issues related to data mismatches, processing failures, and performance bottlenecks.
+  Followed healthcare compliance and internal audit guidelines when developing and maintaining applications.
+  Contributed to code reviews, documentation, and knowledge transfer within the development team.
+  Worked within a structured Waterfall SDLC, supporting requirements, design, development, testing, and deployment phases.
+  mRoads, Hyderabad, India | Software Developer Jan 2015 – Jun 2017
+  Project Overview
+  Worked on multiple client projects delivering Java-based web applications for internal business operations, reporting systems, and customer-facing portals across different domains.
+  Roles & Responsibilities
+  Developed Java web applications using Core Java, JSP, Servlets, and Spring Framework, following standard MVC architecture.
+  Implemented backend business logic and controller layers to support client-specific workflows and application requirements.
+  Designed and maintained database schemas and SQL queries to support transactional and reporting functionality.
+  Worked on JSP pages with HTML, CSS, and JavaScript to build user interfaces for internal and external users.
+  Integrated frontend components with backend services using form submissions and server-side processing.
+  Assisted in requirement analysis discussions with senior developers and business users to understand client needs.
+  Developed reusable utility classes and common components to reduce duplicate code across modules.
+  Implemented basic validation logic and error handling to ensure data integrity and user input accuracy.
+  Supported CRUD operations across multiple modules such as user management, reporting, and configuration screens.
+  Participated in code reviews, addressing feedback and improving coding standards and readability.
+  Assisted QA teams during system testing and UAT, fixing defects and retesting changes.
+  Supported production deployments and handled post-release bug fixes and minor enhancements.
+  Worked on application maintenance activities, including performance tuning and resolving user-reported issues.
+  Maintained technical documentation for application features, database changes, and deployment steps.
+  Gained hands-on exposure to end-to-end SDLC, from development and testing to deployment and support.
+  Collaborated closely with team leads and senior engineers to follow project timelines and delivery commitments.
+  EDUCATION
+  Osmania University, Hyderabad, India.
+  Bachelor of Technology (BTech) – Information Technology
+END_SECTION  RAW_EXTRACTION

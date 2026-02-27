@@ -1,0 +1,308 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  19997800067932_94_1
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  dheerajgolla47@gmail.com
+  FULL_NAME  Dheeraj Kumar Golla
+  GITHUB  NULL
+  LINKEDIN  linkedin.com/in/dheerajgolla28
+  LOCATION  Overland Park, Kansas 66213 US
+  PHONE_E164  +19132802558
+  PHONE_RAW  +19132802558
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Oracle Fusion Cloud Technical Consultant with over 7 years of experience delivering cloud-based technical solutions for SCM and Financial modules.
+  Specialized in BI Publisher, OTBI, FBDI, ADFDI, Oracle Integration Cloud (OIC), and REST API integrations.
+  Extensive experience in Fusion Cloud reporting, data migration, integrations, and ESS job monitoring.
+  Advanced hands-on experience with Oracle Fusion Cloud Financials (AP, AR, GL, FA) and SCM modules (PO, OM).
+  Expertise in designing and developing interfaces, conversion programs, and data load processes for legacy-to-Fusion migrations.
+  Deep technical knowledge of integration tools such as FBDI, ADFDI, OTBI, and BI Publisher (BIP).
+  Strong SQL programming capabilities with a record of delivering scalable and optimized technical solutions.
+  Solid working knowledge of REST Web Services and Oracle Integration Cloud (OIC) for extension and integration requirements.
+  Proven ability to configure Value Sets, Concurrent Programs, Executables, and other Fusion Technical Artefacts.
+  Strong understanding of P2P (Procure-to-Pay) and O2C (Order-to-Cash) end-to-end business flows.
+  Experienced in System Development Lifecycle (SDLC), Agile, and Scrum practices.
+  Provided training and mentorship to team members on SQL & Fusion best practices and usage.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Requests
+  ITEM  Data Conversion
+  ITEM  Excel
+  ITEM  Development
+  ITEM  Oracle BI Publisher
+  ITEM  ROOT
+  ITEM  Order-to-Cash
+  ITEM  Sql
+  ITEM  Emacs Speaks Statistics
+  ITEM  Oracle
+  ITEM  Unix
+  ITEM  PL/SQL
+  ITEM  SOAP APIs
+  ITEM  Collaboration
+  ITEM  Web Services
+  ITEM  Oracle Transactional Business Intelligence
+  ITEM  Cloud
+  ITEM  File-Based Data Import (FBDI)
+  ITEM  Mobile
+  ITEM  Go
+  ITEM  Business Intelligence
+  ITEM  BPM Worklist
+  ITEM  Procure-to-Pay
+  ITEM  Oracle Fusion Cloud
+  ITEM  Navigation
+  ITEM  GAP
+  ITEM  Basic
+  ITEM  REST APIs
+  ITEM  Cgi
+  ITEM  Fast Formulas
+  ITEM  SQL*Loader
+  ITEM  Architecture
+  ITEM  Concurrent
+  ITEM  Oracle XML Publisher
+  ITEM  Data Extraction
+  ITEM  Ibm
+  ITEM  ADF Desktop Integrator
+  ITEM  File
+  ITEM  Configuration
+  ITEM  Xml
+  ITEM  ESS Jobs
+  ITEM  Oracle Integration Cloud
+  ITEM  Mapping
+  ITEM  Api
+  ITEM  Monitoring
+  ITEM  Testing
+  ITEM  Design
+  ITEM  Approval Management Engine
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  Client: Capital one April 2024-January 2026
+  Role: Oracle Fusion Technical Consultant
+  Responsibilities:
+  Led end-to-end requirements analysis workshops with global Finance leadership across 12 business units; documented 85+ functional and technical requirements and mapped them to Fusion Cloud Financials capabilities.
+  Conducted detailed Fit-Gap analysis identifying 23 solution gaps; delivered 18 technical proof-of-concepts leveraging Fusion extensions, REST APIs, and OIC integrations.
+  Served as the primary Technical SME for Fusion Payables and Fixed Assets throughout the implementation lifecycle, providing guidance on configurations, integrations, and technical architecture.
+  Designed and implemented Fusion Chart of Accounts (COA) structure including 45+ segment values and 8 balancing segments; supported value set creation, cross-validation rules, and data governance.
+  Configured and supported Fusion Fixed Assets processes including corporate/tax book setup, depreciation methods, mass asset adjustments, and asset lifecycle management integrations.
+  Authored technical design documents (TDD/FBDI Mapping Sheets/OIC Integration Specs) covering integrations across GL, AP, AR, and Projects.
+  Led CRP cycles, SIT, and UAT for all Fusion technical components; executed 40+ test cycles including inbound interfaces, outbound reports, custom workflows, and security validations.
+  Designed AP workflow customizations using BPM Worklist including approval rules, escalation logic, and supplier approval flows for 2,500+ suppliers in a multi-currency environment.
+  Developed 12+ BI Publisher reports and OTBI dashboards including Trial Balance, AP Aging, FA Register, Cash Requirements, and GL Account Analysis.
+  Built FBDI-based inbound integrations for GL Journals, AP Invoices, and Assets, ensuring efficient error handling, validation logic, and audit traceability.
+  Managed end-to-end data conversion for GL and AP from legacy systems; processed and validated 2.3M GL journal lines and 890K AP invoices using SQL, FBDI templates, and ADFDI corrections achieving 99.8% load accuracy.
+  Supported month-end close activities, GL reconciliation issues, Accounting Hub validations, and integration error resolution during post-go-live stabilization.
+  Worked closely with OIC team to develop REST-based integrations for suppliers, invoices, journal entries, and asset transactions.
+  Delivered training and job aids for 150+ end users covering Fusion AP, FA, GL, and technical processes (FBDI loads, report usage, BI dashboards).
+  Mentored a team of four junior Fusion technical/functional consultants, providing guidance on technical design, data migration, and reporting best practices.
+
+  Client: CGI April 2022 – Oct 2023
+  Role: Oracle Fusion Technical Consultant
+  Responsibilities:
+  Cloud Integration & Development: Designed and implemented 5 complex integrations between Oracle Fusion Cloud Financials and external systems (e.g., banking, legacy ERP) leveraging Oracle Integration Cloud (OIC), REST/SOAP APIs, and advanced error handling.
+  Technical Solutioning & Design: Conducted technical fit-gap analysis, documenting 5 custom development needs and translating functional requirements into detailed Technical Design Documents (TDDs) for PaaS extensions and OIC integrations.
+  Advanced Reporting: Developed and optimized 10 custom reports across GL and AP modules using BI Publisher and native Oracle Transactional Business Intelligence (OTBI) to deliver critical financial insights (e.g., AP Aging Analysis, GL Transaction Report).
+  Data Migration Leadership: Led the technical data conversion effort, migrating 1.2M GL transactions and 650K AP invoices using native Fusion tools like File-Based Data Import (FBDI) and ADF Desktop Integrator (ADF Di).
+  Configuration & Customization: Implemented advanced GL and AP technical configurations, including custom rulesets within the Approval Management Engine (AME) and complex logic using Fast Formulas to meet unique financial requirements.
+  Technical Collaboration & Testing: Collaborated with functional and infrastructure teams; led CRP/UAT technical coordination, including environment setup, test data readiness, and defect triage for system defects and integration issues.
+  Production Support: Provided Level 3 technical production support post-go-live, resolving 52 integration, reporting, and data-related issues with a high-priority resolution rate of 98%.
+  Key Metrics: Successful implementation with 99.2% data accuracy; 92% user satisfaction in post-implementation survey.
+
+  Client: Tieto India Pvt Ltd Sept 2021 to Mar 2022
+  Role: Oracle Fusion Technical Consultant
+
+  Responsibilities:
+  Developed and maintained custom SQL-based reports using BI Publisher (BIP)
+  Created data models, RTF/eText templates, and bursting definitions for automated document delivery (Invoices, Purchase Orders, etc.)
+  Built real-time analyses, dashboards, and pivot reports using OTBI subject areas
+  Implemented drill-down reports and action links to enhance user navigation
+  Assisted in maintaining basic financial statements (Balance Sheet, Income Statement) using Financial Reporting Studio (FRS) and the GL balances cube
+  Executed end-to-end data migration using FBDI (File-Based Data Import)
+  Prepared macro-enabled Excel templates and generated CSV files for data loads
+  Developed basic inbound and outbound interfaces using BI Publisher for XML/CSV data extraction
+  Configured file transfers to external systems via SFTP
+  Tested standard Oracle SOAP and REST APIs using SOAP UI and Postman
+  Monitored existing integrations in Oracle Integration Cloud (OIC)
+  Reviewed error logs and performed minor mapping updates in OIC (developing skill)
+  Defined and managed ESS job definitions, parameters, and scheduled recurring processes
+  Created basic custom roles by copying standard roles and modifying functional and data security policies
+  Configured independent and dependent value sets
+  Maintained lookups and supported custom flexfield requirements
+  Raised and tracked Oracle Support Service Requests (SRs) for application and environment issues
+  Participated in quarterly patch testing to validate custom reports and integrations
+  Troubleshot errors in processes such as Import Payables Invoices and Create Accounting
+  Analyzed interface tables, ESS logs, and diagnostic reports for issue resolution
+  Gathered and analyzed basic business requirements and converted them into technical specifications
+  Maintained functional understanding of Procure-to-Pay (P2P) and Order-to-Cash (O2C) business flows
+  Ensured technical solutions aligned with end-to-end business processes
+
+  Client: IBM
+  Role: Associate Oracle Fusion Technical Consultant June2019 – Sep 2021
+  Responsibilities:
+  Supported Oracle Fusion Financials (AP, GL) modules in a production environment, assisting business users with incident resolution and functional clarifications.
+  Developed and enhanced custom BI Publisher (BIP) reports using SQL-based data models and RTF templates to meet ad-hoc and operational reporting requirements.
+  Assisted senior consultants in customization of seeded Fusion reports and validation of report outputs during month-end and audit cycles.
+  Performed SQL analysis on Fusion tables to identify root causes of data and accounting issues related to invoices, journals, and accounting events.
+  Monitored and supported ESS jobs and scheduled processes, including Import Payables Invoices, Create Accounting, and GL posting jobs.
+  Participated in data load and correction activities using FBDI templates for GL journals and AP invoices under supervision.
+  Supported BPM workflow configurations by validating approval flows and assisting in testing changes during enhancements and fixes.
+  Assisted in quarterly patch testing and regression testing, validating reports, workflows, and integrations post-upgrade.
+  Collaborated with functional teams to understand Procure-to-Pay (P2P) and Record-to-Report (R2R) processes and translate issues into technical findings.
+  Created and maintained technical documentation, including issue analysis notes, report logic explanations, and test evidence.
+  Raised and followed up on Oracle Support Service Requests (SRs) for product defects and environment-related issues
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  EMPTY
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  EMPTY
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  NULL
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  Dheeraj Kumar Golla Email id: dheerajgolla47@gmail.com
+  Oracle Fusion Cloud Technical Consultant Mobile no: 9132802558
+  Linkedin : www.linkedin.com/in/dheerajgolla28
+  _____________________________________________________________________________________________________
+  PROFESSIONAL SUMMARY
+  Oracle Fusion Cloud Technical Consultant with over 7 years of experience delivering cloud-based technical solutions for SCM and Financial modules.
+  Specialized in BI Publisher, OTBI, FBDI, ADFDI, Oracle Integration Cloud (OIC), and REST API integrations.
+  Extensive experience in Fusion Cloud reporting, data migration, integrations, and ESS job monitoring.
+  Advanced hands-on experience with Oracle Fusion Cloud Financials (AP, AR, GL, FA) and SCM modules (PO, OM).
+  Expertise in designing and developing interfaces, conversion programs, and data load processes for legacy-to-Fusion migrations.
+  Deep technical knowledge of integration tools such as FBDI, ADFDI, OTBI, and BI Publisher (BIP).
+  Strong SQL programming capabilities with a record of delivering scalable and optimized technical solutions.
+  Solid working knowledge of REST Web Services and Oracle Integration Cloud (OIC) for extension and integration requirements.
+  Proven ability to configure Value Sets, Concurrent Programs, Executables, and other Fusion Technical Artefacts.
+  Strong understanding of P2P (Procure-to-Pay) and O2C (Order-to-Cash) end-to-end business flows.
+  Experienced in System Development Lifecycle (SDLC), Agile, and Scrum practices.
+  Provided training and mentorship to team members on SQL & Fusion best practices and usage.
+
+  TECHNICAL SKILLS
+
+  Oracle Fusion Cloud: Financials (AP, AR, GL, FA), SCM (PO, OM)
+  Reporting: BI Publisher (BIP), OTBI, XML Publisher
+  Data Migration: FBDI, ADFDI, SQL*Loader
+  Integrations: Oracle Integration Cloud (OIC), REST APIs, SOAP APIs
+  Databases: Oracle SQL, PL/SQL
+  Methodologies: SDLC, Agile, Scrum
+  Other: ESS Jobs, BPM Worklist, AME, Fast Formulas, UNIX
+
+
+  PROFESSIONAL EXPERIENCE
+
+  Client: Capital one April 2024-January 2026
+  Role: Oracle Fusion Technical Consultant
+  ______________________________________________________________________________________________________
+  Responsibilities:
+  Led end-to-end requirements analysis workshops with global Finance leadership across 12 business units; documented 85+ functional and technical requirements and mapped them to Fusion Cloud Financials capabilities.
+  Conducted detailed Fit-Gap analysis identifying 23 solution gaps; delivered 18 technical proof-of-concepts leveraging Fusion extensions, REST APIs, and OIC integrations.
+  Served as the primary Technical SME for Fusion Payables and Fixed Assets throughout the implementation lifecycle, providing guidance on configurations, integrations, and technical architecture.
+  Designed and implemented Fusion Chart of Accounts (COA) structure including 45+ segment values and 8 balancing segments; supported value set creation, cross-validation rules, and data governance.
+  Configured and supported Fusion Fixed Assets processes including corporate/tax book setup, depreciation methods, mass asset adjustments, and asset lifecycle management integrations.
+  Authored technical design documents (TDD/FBDI Mapping Sheets/OIC Integration Specs) covering integrations across GL, AP, AR, and Projects.
+  Led CRP cycles, SIT, and UAT for all Fusion technical components; executed 40+ test cycles including inbound interfaces, outbound reports, custom workflows, and security validations.
+  Designed AP workflow customizations using BPM Worklist including approval rules, escalation logic, and supplier approval flows for 2,500+ suppliers in a multi-currency environment.
+  Developed 12+ BI Publisher reports and OTBI dashboards including Trial Balance, AP Aging, FA Register, Cash Requirements, and GL Account Analysis.
+  Built FBDI-based inbound integrations for GL Journals, AP Invoices, and Assets, ensuring efficient error handling, validation logic, and audit traceability.
+  Managed end-to-end data conversion for GL and AP from legacy systems; processed and validated 2.3M GL journal lines and 890K AP invoices using SQL, FBDI templates, and ADFDI corrections achieving 99.8% load accuracy.
+  Supported month-end close activities, GL reconciliation issues, Accounting Hub validations, and integration error resolution during post-go-live stabilization.
+  Worked closely with OIC team to develop REST-based integrations for suppliers, invoices, journal entries, and asset transactions.
+  Delivered training and job aids for 150+ end users covering Fusion AP, FA, GL, and technical processes (FBDI loads, report usage, BI dashboards).
+  Mentored a team of four junior Fusion technical/functional consultants, providing guidance on technical design, data migration, and reporting best practices.
+
+  Client: CGI April 2022 – Oct 2023
+  Role: Oracle Fusion Technical Consultant
+  ______________________________________________________________________________________________________
+  Responsibilities:
+  Cloud Integration & Development: Designed and implemented 5 complex integrations between Oracle Fusion Cloud Financials and external systems (e.g., banking, legacy ERP) leveraging Oracle Integration Cloud (OIC), REST/SOAP APIs, and advanced error handling.
+  Technical Solutioning & Design: Conducted technical fit-gap analysis, documenting 5 custom development needs and translating functional requirements into detailed Technical Design Documents (TDDs) for PaaS extensions and OIC integrations.
+  Advanced Reporting: Developed and optimized 10 custom reports across GL and AP modules using BI Publisher and native Oracle Transactional Business Intelligence (OTBI) to deliver critical financial insights (e.g., AP Aging Analysis, GL Transaction Report).
+  Data Migration Leadership: Led the technical data conversion effort, migrating 1.2M GL transactions and 650K AP invoices using native Fusion tools like File-Based Data Import (FBDI) and ADF Desktop Integrator (ADF Di).
+  Configuration & Customization: Implemented advanced GL and AP technical configurations, including custom rulesets within the Approval Management Engine (AME) and complex logic using Fast Formulas to meet unique financial requirements.
+  Technical Collaboration & Testing: Collaborated with functional and infrastructure teams; led CRP/UAT technical coordination, including environment setup, test data readiness, and defect triage for system defects and integration issues.
+  Production Support: Provided Level 3 technical production support post-go-live, resolving 52 integration, reporting, and data-related issues with a high-priority resolution rate of 98%.
+  Key Metrics: Successful implementation with 99.2% data accuracy; 92% user satisfaction in post-implementation survey.
+
+  Client: Tieto India Pvt Ltd Sept 2021 to Mar 2022
+  Role: Oracle Fusion Technical Consultant
+
+  ______________________________________________________________________________________________________
+  Responsibilities:
+  Developed and maintained custom SQL-based reports using BI Publisher (BIP)
+  Created data models, RTF/eText templates, and bursting definitions for automated document delivery (Invoices, Purchase Orders, etc.)
+  Built real-time analyses, dashboards, and pivot reports using OTBI subject areas
+  Implemented drill-down reports and action links to enhance user navigation
+  Assisted in maintaining basic financial statements (Balance Sheet, Income Statement) using Financial Reporting Studio (FRS) and the GL balances cube
+  Executed end-to-end data migration using FBDI (File-Based Data Import)
+  Prepared macro-enabled Excel templates and generated CSV files for data loads
+  Developed basic inbound and outbound interfaces using BI Publisher for XML/CSV data extraction
+  Configured file transfers to external systems via SFTP
+  Tested standard Oracle SOAP and REST APIs using SOAP UI and Postman
+  Monitored existing integrations in Oracle Integration Cloud (OIC)
+  Reviewed error logs and performed minor mapping updates in OIC (developing skill)
+  Defined and managed ESS job definitions, parameters, and scheduled recurring processes
+  Created basic custom roles by copying standard roles and modifying functional and data security policies
+  Configured independent and dependent value sets
+  Maintained lookups and supported custom flexfield requirements
+  Raised and tracked Oracle Support Service Requests (SRs) for application and environment issues
+  Participated in quarterly patch testing to validate custom reports and integrations
+  Troubleshot errors in processes such as Import Payables Invoices and Create Accounting
+  Analyzed interface tables, ESS logs, and diagnostic reports for issue resolution
+  Gathered and analyzed basic business requirements and converted them into technical specifications
+  Maintained functional understanding of Procure-to-Pay (P2P) and Order-to-Cash (O2C) business flows
+  Ensured technical solutions aligned with end-to-end business processes
+
+  Client: IBM
+  Role: Associate Oracle Fusion Technical Consultant June2019 – Sep 2021
+  ______________________________________________________________________________________________________
+  Responsibilities:
+  Supported Oracle Fusion Financials (AP, GL) modules in a production environment, assisting business users with incident resolution and functional clarifications.
+  Developed and enhanced custom BI Publisher (BIP) reports using SQL-based data models and RTF templates to meet ad-hoc and operational reporting requirements.
+  Assisted senior consultants in customization of seeded Fusion reports and validation of report outputs during month-end and audit cycles.
+  Performed SQL analysis on Fusion tables to identify root causes of data and accounting issues related to invoices, journals, and accounting events.
+  Monitored and supported ESS jobs and scheduled processes, including Import Payables Invoices, Create Accounting, and GL posting jobs.
+  Participated in data load and correction activities using FBDI templates for GL journals and AP invoices under supervision.
+  Supported BPM workflow configurations by validating approval flows and assisting in testing changes during enhancements and fixes.
+  Assisted in quarterly patch testing and regression testing, validating reports, workflows, and integrations post-upgrade.
+  Collaborated with functional teams to understand Procure-to-Pay (P2P) and Record-to-Report (R2R) processes and translate issues into technical findings.
+  Created and maintained technical documentation, including issue analysis notes, report logic explanations, and test evidence.
+  Raised and followed up on Oracle Support Service Requests (SRs) for product defects and environment-related issues
+END_SECTION  RAW_EXTRACTION

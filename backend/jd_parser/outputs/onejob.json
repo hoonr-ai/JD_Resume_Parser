@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "28083791",
+    "company": "US Bank-IT",
+    "job_title": "Information Technology - Software Developer - Full Stack",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "postal_code": "94118"
+    },
+    "jobdiva_number": "24-38419",
+    "positions": "1",
+    "bill_rate": {
+      "min": "120.65",
+      "max": "120.65",
+      "period": "Hour"
+    },
+    "pay_rate": {
+      "min": "80",
+      "max": "83",
+      "period": "Hour"
+    },
+    "position_type": "Contract",
+    "onsite_flexibility": "hybrid",
+    "remote_percentage": null,
+    "description": "Immediate need for a talented Full Stack Engineer with React.JS. This is a 08+months contract opportunity with long-term potential and is located in San Francisco, CA(Hybrid). Please review the job description below and contact me ASAP if you are interested. Job ID: 24-38419 Pay Range: $80 - $83/hour. Employee benefits include, but are not limited to, health insurance (medical, dental, vision), 401(k) plan, and paid sick leave (depending on work location). Key Responsibilities: Collaborate with the product management and design teams to define and implement innovative solutions for the product direction, visuals, and experience Develop new user-facing features using React.js - Build reusable components and front-end libraries for future use Ensure the technical feasibility of UI/UX designs - Optimize applications for maximum speed and scalability - Collaborate with other team members and stakeholders - Develop and maintain microservices architecture for the back end Design, develop, and deploy back-end services and APIs - Work with the infrastructure and DevOps teams to ensure the scalability and reliability of the backend services Participate in code reviews and contribute to a high standard of code quality Key Requirements and Technology Experience: Top Skills; React.JS/Redux, Microservices Architecture/Restful API, Node.JS, Python and CI/CD Pipelines. Strong proficiency in JavaScript and React.js Experience with popular React.js workflows and state management libraries (such as Redux, MobX, Flux) Experience with microservices architecture and building scalable backend services using Node.js, Python, or other relevant technologies Experience with server-side frameworks such as Express.js, Flask, or similar - good understanding of web markup, including HTML5 and CSS3 Proficient understanding of cross-browser compatibility issues and ways to work around them Familiarity with modern front-end build pipelines and tools Familiarity with RESTful APIs - Experience with version control systems such as Git - Knowledge of CI/CD pipelines and DevOps practices is a plus Strong problem-solving skills and willingness to take on new challenges Our client is a leading Financial Industry, and we are currently interviewing to fill this and other similar contract positions. If you are interested in this position, please apply online for immediate consideration. Pyramid Consulting, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.",
+    "recruiter_remarks": ""
+  }
+]

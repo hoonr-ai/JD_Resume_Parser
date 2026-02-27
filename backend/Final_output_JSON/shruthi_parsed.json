@@ -1,0 +1,47 @@
+{
+  "name": "Sruthi Chamakura",
+  "location": "Tempe, AZ, 85281, US",
+  "phone": "+1 928-255-9811",
+  "email": "sruti.chamakura3@gmail.com",
+  "summary": "",
+  "skills": [
+    "Java"
+  ],
+  "experience": [
+    {
+      "title": "Java J2EE Developer at",
+      "company": "09/2023 -",
+      "from": "01/2001",
+      "to": "",
+      "bullets": [
+        "Java J2EE Developer at"
+      ]
+    },
+    {
+      "title": "Java Developer at",
+      "company": "12/2019 -",
+      "from": "08/2023",
+      "to": "",
+      "bullets": [
+        "Java Developer at"
+      ]
+    },
+    {
+      "title": "",
+      "company": "03/2017 -",
+      "from": "11/2019",
+      "to": "",
+      "bullets": []
+    }
+  ],
+  "education": [
+    "Master of Computer Applications",
+    "Graduated 2013",
+    "Master's Degree in Computer Science"
+  ],
+  "certifications": [],
+  "projects": [],
+  "_source_id": "18532528694751_94_95",
+  "_source_file": "shruthi.json",
+  "_format_detected": "work_history"
+}

@@ -1,0 +1,119 @@
+{
+  "name": "Romy Dulay",
+  "location": "Panorama City, CA 91402",
+  "phone": "+1 818 974 0338",
+  "email": "romy.dulay@twc.com",
+  "summary": "Over 31 years experience as a consulting electrical engineer. Responsible for electrical design\nand layout of industrial, schools and commercial buildings, entertainment buildings, schools\nand recreational parks, Health Care Facilities, (i.e. airports, prison jobs and TI offices) power,\npower distribution system, (NEC/CEC compliance), lighting and lighting controls, (Title-24\ncompliance), fire/life safety, fire protection system (NFPA 72 and NFPA 99 compliance) and low\nvoltage systems, Data Centers with UPS/Inverter, Critical Facilities including specifications,\nGenerator system. Coordination of Mechanical, Electrical and Plumbing System Design.\nConstruction support and coordination, field work/survey and punch list inspection, review\ncontractor shop drawings and respond to RFI supports etc.",
+  "skills": [
+    "Design",
+    "Computer Graphics",
+    "Arc",
+    "Entertainment",
+    "Mobile",
+    "fire (python package)",
+    "LineageOS",
+    "Cad"
+  ],
+  "experience": [
+    {
+      "title": "Senior Electrical Design Engineer",
+      "company": "July",
+      "from": "2024",
+      "to": "Present",
+      "bullets": [
+        "Senior Electrical Design Engineer",
+        "Vision Consulting, Agoura Hills, California"
+      ]
+    },
+    {
+      "title": "Senior Electrical Design Engineer",
+      "company": "October",
+      "from": "2013",
+      "to": "2024",
+      "bullets": [
+        "Senior Electrical Design Engineer",
+        "Mustang Engineering, Long Beach, California"
+      ]
+    },
+    {
+      "title": "Senior Electrical Design Engineer",
+      "company": "February",
+      "from": "2013",
+      "to": "October 2013",
+      "bullets": [
+        "Senior Electrical Design Engineer",
+        "Parsons Company, Pasadena, California"
+      ]
+    },
+    {
+      "title": "Senior Electrical Design Engineer",
+      "company": "March",
+      "from": "2011",
+      "to": "January 2013",
+      "bullets": [
+        "Senior Electrical Design Engineer",
+        "SY Lee Associates, Glendale, California"
+      ]
+    },
+    {
+      "title": "Senior Electrical Design Engineer",
+      "company": "July",
+      "from": "2009",
+      "to": "May 2010",
+      "bullets": [
+        "Senior Electrical Design Engineer",
+        "Arc Engineering, Sherman Oaks, California"
+      ]
+    },
+    {
+      "title": "Senior Electrical Designer",
+      "company": "May",
+      "from": "2007",
+      "to": "April 2009",
+      "bullets": [
+        "Senior Electrical Designer",
+        "Syska Hennesy, Inc, Santa Monica, CA"
+      ]
+    },
+    {
+      "title": "Electrical Designer/Cad Designer",
+      "company": "November",
+      "from": "2006",
+      "to": "April 2007",
+      "bullets": [
+        "Electrical Designer/Cad Designer",
+        "Fields Devereaux Architects & Engineer, Los Angeles, California"
+      ]
+    },
+    {
+      "title": "Electrical Designer/Cad Designer",
+      "company": "November",
+      "from": "1997",
+      "to": "November 2006",
+      "bullets": [
+        "Electrical Designer/Cad Designer",
+        "Daniel, Mann, Johnson & Mendenhall (DMJM), Los Angeles, California"
+      ]
+    },
+    {
+      "title": "",
+      "company": "December",
+      "from": "1989",
+      "to": "November 1997",
+      "bullets": []
+    }
+  ],
+  "education": [
+    "Bachelor of Science in Electrical Engineering – Saint Louis University, Philippines (1984)",
+    "AutoCad Training Course – Los Angeles Community College, Los Angeles, California",
+    "(1993)",
+    "Autotrol Computer Graphics and Advance Computer Graphics, Kansas City, Missouri,",
+    "(1991)",
+    "Intergraph Microstation PC Training – Westech College, Pomona, California (1993)"
+  ],
+  "certifications": [],
+  "projects": [],
+  "_source_id": "2304513440502_94_14",
+  "_source_file": "Romy.json",
+  "_format_detected": "standard"
+}

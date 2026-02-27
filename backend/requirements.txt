@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+supabase
+phonenumbers
+dateparser
+rapidfuzz
+python-multipart
+requests
+pytest
+httpx
+flashtext
+openai

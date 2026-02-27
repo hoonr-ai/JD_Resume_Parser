@@ -1,0 +1,254 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  19591344549775_94_87
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  saisvm08@gmail.com
+  FULL_NAME  SURYA VAMSI MAKANA
+  GITHUB  NULL
+  LINKEDIN  NULL
+  LOCATION  NULL
+  PHONE_E164  +14697370753
+  PHONE_RAW  +1 469-737-0753
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Software Engineer with 4+ years of experience in healthcare, finance, and advertising. Skilled in application development, configuration,
+  technical and functional support, with expertise in Go, Java, Spring Boot, React.js, and PostgreSQL. Experienced in microservices, REST APIs,
+  Docker, Kubernetes, CI/CD automation, debugging, and observability. Proficient in TypeScript and modern testing frameworks (Jest, Cypress),
+  with hands-on experience on Microsoft Dynamics Navision and Hyland OnBase. Contributor to open-source projects and collaborative
+  distributed codebases. Built real-time data pipelines and scalable backend systems deployed on AWS, Azure, and OpenShift.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Jenkins
+  ITEM  Requests
+  ITEM  Grafana
+  ITEM  SPARK
+  ITEM  Development
+  ITEM  Docker
+  ITEM  Boost
+  ITEM  ROOT
+  ITEM  Server
+  ITEM  Sql
+  ITEM  EPSILON
+  ITEM  Oracle
+  ITEM  Authentication
+  ITEM  PL/SQL
+  ITEM  Aws
+  ITEM  TypeScript
+  ITEM  Spring
+  ITEM  SOAP APIs
+  ITEM  Messaging
+  ITEM  Postgresql
+  ITEM  XSLT
+  ITEM  Enterprise
+  ITEM  Cloud
+  ITEM  Jest
+  ITEM  Go
+  ITEM  Concurrency
+  ITEM  MongoDB
+  ITEM  React
+  ITEM  Chatbot
+  ITEM  Healthcare
+  ITEM  Amazon DynamoDB
+  ITEM  AngularJS
+  ITEM  Microservices
+  ITEM  Python
+  ITEM  Logging
+  ITEM  Ai
+  ITEM  Verification
+  ITEM  REST APIs
+  ITEM  Data Processing
+  ITEM  HIPAA
+  ITEM  Apache
+  ITEM  Java
+  ITEM  Scheduling
+  ITEM  Apache Cassandra
+  ITEM  Javascript
+  ITEM  Microsoft Azure
+  ITEM  Debugging
+  ITEM  webpack
+  ITEM  XGBoost
+  ITEM  Configuration
+  ITEM  Library
+  ITEM  Modeling
+  ITEM  Xml
+  ITEM  Software
+  ITEM  ML
+  ITEM  Concurrent
+  ITEM  Frameworks
+  ITEM  Moq
+  ITEM  Frontend
+  ITEM  Google Cloud Platform
+  ITEM  Monitoring
+  ITEM  Testing
+  ITEM  Performance
+  ITEM  Kubernetes
+  ITEM  Streaming
+  ITEM  .NET
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  Software Engineer | Molina Healthcare | USA February 2025 – Present
+  Deployed HIPAA-compliant Go and Spring Boot microservices, optimizing the processing of 30K+ patient records monthly and supporting
+  integration with Microsoft Dynamics Navision.
+  Architected GraphQL, REST, and SOAP APIs with Redis caching, eliminating 12K+ duplicate claims, accelerating queries, and enabling
+  interoperability with Hyland OnBase.
+  Dockerized Go services and automated ECS pipelines with Jenkins, enabling 20+ yearly deployments with zero rollbacks.
+  Resolved CI/CD issues using Splunk and CloudWatch, reducing AWS deployment failures through root-cause analysis.
+  Enhanced system visibility with Splunk metrics and distributed tracing, identifying performance bottlenecks proactively.
+  Streamlined AWS Kinesis–DynamoDB pipelines using XML/XSLT and Spring Security, ensuring secure and scalable data flow.
+
+  Full Stack Developer | Epsilon | USA August 2024 – February 2025
+  Architected a Java Spring Boot backend on AWS EC2, scaling to 2M+ daily ad requests and blocking 4K+ fraudulent attempts.
+  Developed a React.js UI library with 25 modular components, accelerating brand builds by 3 days per sprint.
+  Improved front-end reliability with TypeScript, React Hooks, and Jest/Cypress, cutting regressions and boosting deployment confidence.
+  Built D3.js and HighCharts dashboards to visualize 10M+ records daily, accelerating campaign intelligence and decision-making.
+  Containerized microservices with Docker and Kubernetes, enabling 50+ zero-downtime CI/CD releases annually.
+
+  Programmer Analyst | Cognizant | India January 2022 – June 2022
+  Delivered a Spring MVC & Hibernate loan-origination system on PostgreSQL, automate workflows to cut approval time by 1 day.
+  Developed a responsive Angular.js loan-tracking dashboard with sub-2s latency for 12K+ users, ensuring legacy system compatibility.
+  Architected scalable Kafka pipelines with partitioning and concurrency control, blocking 15K+ high-risk transactions quarterly.
+  Resolved backend failures using ELK Stack and Azure Monitor, preventing recurring outages through root-cause fixes.
+  Automated nightly reconciliations in Azure Data Factory/SQL Server, ensuring error-free PL/SQL transfers across 30+ branches.
+
+  Software Engineer | Dell Technologies | India January 2020 – December 2021
+  Engineered a React.js scheduling UI with 18 reusable components, accelerating workflows across 2.1M enterprise records.
+  Enhanced TypeScript modules via strict linting and Jest, improving reliability & lowering pre-release bugs by 20%.
+  Devised FastAPI–Spring Boot microservices, streamlining verification flows and advancing LLM-driven anomaly detection.
+  Optimized PostgreSQL with partitioning and indexing, cutting query latency by 220 ms across 12 datasets.
+  Orchestrated containerized deployments on OpenShift using Docker and GitLab CI, launching 30+ stable releases quarterly with zero
+  rollbacks, supported by Grafana and Datadog observability dashboards.
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  AI-Powered Anomaly Detection & Insights Platform: Built a real-time fraud and anomaly detection pipeline with Kafka, Spark, and Python
+  (Isolation Forest, XGBoost) processing 5M+ daily records, and deployed Spring Boot/React on AWS EKS with CI/CD for scalable ML insights.
+
+  Reddit Chatbot: Architected a multi-domain Reddit text classifier with ChatterBot, BM25 (Solr), and Flask APIs triaging 8K+ queries across 10
+  topics, and scaled a React.js UI on GCP with async queues and caching for 1.5K+ concurrent users and real-time visual streams.
+
+  Cloud-Native E-Commerce Platform: Engineered a Spring Boot-React e-commerce app on AWS ECS with PostgreSQL and Docker handling 50K+
+  monthly transactions, integrating payment APIs and Redis caching with rate-limited, idempotent workflows to boost reliability and security.
+
+  Real-Time Data Streaming Pipeline: Orchestrated a Kafka–Spark streaming pipeline on AKS to ingest and transform 5M+ daily events into
+  MongoDB and PostgreSQL, and implemented Jenkins CI/CD with a React KPI dashboard for real-time monitoring and on-call triage.
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  Master of Science in Computer Science | University of Texas at Dallas | Dallas, TX, USA August 2022 – May 2024
+  Bachelor of Science In Computer Engineering | Vellore Institute of Technology (VIT) |India July 2018 – May 2022
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  NULL
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  SURYA VAMSI MAKANA
+  San Jose, CA, 95134 | +1 469-737-0753 | saisvm08@gmail.com | Linkedin
+
+  SUMMARY
+  Software Engineer with 4+ years of experience in healthcare, finance, and advertising. Skilled in application development, configuration,
+  technical and functional support, with expertise in Go, Java, Spring Boot, React.js, and PostgreSQL. Experienced in microservices, REST APIs,
+  Docker, Kubernetes, CI/CD automation, debugging, and observability. Proficient in TypeScript and modern testing frameworks (Jest, Cypress),
+  with hands-on experience on Microsoft Dynamics Navision and Hyland OnBase. Contributor to open-source projects and collaborative
+  distributed codebases. Built real-time data pipelines and scalable backend systems deployed on AWS, Azure, and OpenShift.
+
+  PROFESSIONAL EXPERIENCE
+  Software Engineer | Molina Healthcare | USA February 2025 – Present
+  Deployed HIPAA-compliant Go and Spring Boot microservices, optimizing the processing of 30K+ patient records monthly and supporting
+  integration with Microsoft Dynamics Navision.
+  Architected GraphQL, REST, and SOAP APIs with Redis caching, eliminating 12K+ duplicate claims, accelerating queries, and enabling
+  interoperability with Hyland OnBase.
+  Dockerized Go services and automated ECS pipelines with Jenkins, enabling 20+ yearly deployments with zero rollbacks.
+  Resolved CI/CD issues using Splunk and CloudWatch, reducing AWS deployment failures through root-cause analysis.
+  Enhanced system visibility with Splunk metrics and distributed tracing, identifying performance bottlenecks proactively.
+  Streamlined AWS Kinesis–DynamoDB pipelines using XML/XSLT and Spring Security, ensuring secure and scalable data flow.
+
+  Full Stack Developer | Epsilon | USA August 2024 – February 2025
+  Architected a Java Spring Boot backend on AWS EC2, scaling to 2M+ daily ad requests and blocking 4K+ fraudulent attempts.
+  Developed a React.js UI library with 25 modular components, accelerating brand builds by 3 days per sprint.
+  Improved front-end reliability with TypeScript, React Hooks, and Jest/Cypress, cutting regressions and boosting deployment confidence.
+  Built D3.js and HighCharts dashboards to visualize 10M+ records daily, accelerating campaign intelligence and decision-making.
+  Containerized microservices with Docker and Kubernetes, enabling 50+ zero-downtime CI/CD releases annually.
+
+  Programmer Analyst | Cognizant | India January 2022 – June 2022
+  Delivered a Spring MVC & Hibernate loan-origination system on PostgreSQL, automate workflows to cut approval time by 1 day.
+  Developed a responsive Angular.js loan-tracking dashboard with sub-2s latency for 12K+ users, ensuring legacy system compatibility.
+  Architected scalable Kafka pipelines with partitioning and concurrency control, blocking 15K+ high-risk transactions quarterly.
+  Resolved backend failures using ELK Stack and Azure Monitor, preventing recurring outages through root-cause fixes.
+  Automated nightly reconciliations in Azure Data Factory/SQL Server, ensuring error-free PL/SQL transfers across 30+ branches.
+
+  Software Engineer | Dell Technologies | India January 2020 – December 2021
+  Engineered a React.js scheduling UI with 18 reusable components, accelerating workflows across 2.1M enterprise records.
+  Enhanced TypeScript modules via strict linting and Jest, improving reliability & lowering pre-release bugs by 20%.
+  Devised FastAPI–Spring Boot microservices, streamlining verification flows and advancing LLM-driven anomaly detection.
+  Optimized PostgreSQL with partitioning and indexing, cutting query latency by 220 ms across 12 datasets.
+  Orchestrated containerized deployments on OpenShift using Docker and GitLab CI, launching 30+ stable releases quarterly with zero
+  rollbacks, supported by Grafana and Datadog observability dashboards.
+
+  TECHNICAL SKILLS
+  Frontend: TypeScript, Angular.js, Redux, JavaScript (ES6+), Webpack, HTML5, CSS3, Bootstrap
+  Backend: Java, Go, Spring Boot/MVC, Hibernate, REST & SOAP APIs, Microservices, Node.js, .NET Core (secondary), FastAPI (Python)
+  Databases: PostgreSQL, SQL Server, Oracle DB, PL/SQL, MongoDB, Cassandra, Elasticsearch
+  Cloud & Devops: AWS (Lambda, EC2, S3), Azure, OpenShift, Docker, Kubernetes, Jenkins, Git, GitHub Actions, Azure DevOps
+  Testing & Qa: Jest, Cypress, JUnit, Jasmine/Karma, xUnit, Moq, Integration Testing, Playwright (exposure), Test Automation
+  Messaging & Data Processing: Apache Kafka, Spark, Data Modeling, ETL (Azure Data Factory, Informatica exposure)
+  Authentication & Security: OAuth 2.0, Spring Security, RBAC, SOX, GDPR
+  Monitoring & Logging: Datadog, Grafana, ELK Stack, Splunk, Log Analytics, Distributed Tracing
+  Enterprise Platforms & Ecm: Microsoft Dynamics Navision, Hyland OnBase
+  Development Practices: Agile Scrum, Client-facing communication, Sprint Planning, Backlog Grooming, JIRA, Confluence, Git, GitHub
+
+  PROJECTS
+  AI-Powered Anomaly Detection & Insights Platform: Built a real-time fraud and anomaly detection pipeline with Kafka, Spark, and Python
+  (Isolation Forest, XGBoost) processing 5M+ daily records, and deployed Spring Boot/React on AWS EKS with CI/CD for scalable ML insights.
+
+  Reddit Chatbot: Architected a multi-domain Reddit text classifier with ChatterBot, BM25 (Solr), and Flask APIs triaging 8K+ queries across 10
+  topics, and scaled a React.js UI on GCP with async queues and caching for 1.5K+ concurrent users and real-time visual streams.
+
+  Cloud-Native E-Commerce Platform: Engineered a Spring Boot-React e-commerce app on AWS ECS with PostgreSQL and Docker handling 50K+
+  monthly transactions, integrating payment APIs and Redis caching with rate-limited, idempotent workflows to boost reliability and security.
+
+  Real-Time Data Streaming Pipeline: Orchestrated a Kafka–Spark streaming pipeline on AKS to ingest and transform 5M+ daily events into
+  MongoDB and PostgreSQL, and implemented Jenkins CI/CD with a React KPI dashboard for real-time monitoring and on-call triage.
+
+  EDUCATION
+  Master of Science in Computer Science | University of Texas at Dallas | Dallas, TX, USA August 2022 – May 2024
+  Bachelor of Science In Computer Engineering | Vellore Institute of Technology (VIT) |India July 2018 – May 2022
+
+  CERTIFICATIONS
+  AWS Certified AI Practitioner | Link | AWS Certified Cloud Practitioner | Link | Microsoft Certified: Azure Data Engineer Associate | Link
+END_SECTION  RAW_EXTRACTION

@@ -1,0 +1,27 @@
+{
+  "job_id": "11042014",
+  "company": "Wipro Limited",
+  "job_title": "java Developer",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US"
+  },
+  "jobdiva_number": "18-13669",
+  "positions": 1,
+  "bill_rate": {
+    "min": null,
+    "max": null,
+    "period": "h"
+  },
+  "pay_rate": {
+    "min": null,
+    "max": null,
+    "period": "h"
+  },
+  "position_type": "Contract",
+  "onsite_flexibility": null,
+  "remote_percentage": null,
+  "description": "EDUCATION AND EXPERIENCE Bachelors in computer science, engineering, MIS or equivalent work experience; May have technology certifications 8 years of progressive work experience designing and developing full stack applications in a Java/JEE environment. Experience with data modeling, relational databases, data structures and design Experience working with Product and Business Management teams Experience working in an entrepreneurial company SKILLS AND KNOWLEDGE Technical Knowledge, Skills, and Abilities: – Java 8 (Mandatory) – JPA 2.1 (Mandatory) – Spring Core (Mandatory) – Micro-Services using Spring Boot (Mandatory) – Rest Standards (Mandatory) – Spring Integration (Mandatory) – Spring Cloud (Mandatory) – Netflix OSS Stack – (Preferred) – Hibernate (Preferred) – Elastic Search as a transactional system (Preferred) – In Memory Data Grid/NoSQL usage (Preferred) – Docker Containerization (Preferred) – Angular 5 – Bootstrap 4 Around 5yrs of experience in using Siemens/UG NX & Team center Mechanical chassis design complete/release for prototype - Network Switches & Routers Perform detailed tolerance stack-up analysis for Chassis, Fan modules, Blades, and IOM cards Incorporate design changes and implement DFM/DFA for prototype build Perform detailed layouts of new Compute and Storage blades Design Blade sheet metal tray, Ejector, and Heat sinks Create detailed drawings for components, subassemblies, and top level assembly Design product/agency compliance labels for Chassis and Blades Perform Chassis sag analysis and detailed measurements",
+  "recruiter_remarks": ""
+}

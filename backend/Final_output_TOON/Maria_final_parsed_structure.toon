@@ -1,0 +1,165 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  NULL
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  mariav.rollins7@gmail.com
+  FULL_NAME  Maria Devitt
+  GITHUB  NULL
+  LINKEDIN  NULL
+  LOCATION  Milford, NJ 08848
+  PHONE_E164  +12152370564
+  PHONE_RAW  +1 215 237 0564
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Clinical Study Lead with 5+ years of experience in regulated pharmaceutical environments, skilled in cross-functional
+  team coordination, timeline management, risk management, and process improvement with expertise in developing and
+  QCing clinical data (ADaM datasets and TFLs in compliance with CDISC standards and study protocols).
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Jira
+  ITEM  ADaM
+  ITEM  SOPs
+  ITEM  CDISC
+  ITEM  SAS
+  ITEM  TFLs
+  ITEM  Data Analysis
+  ITEM  R
+  ITEM  Data Science
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  GlaxoSmithKline
+  Study Lead Statistical Programmer Remote, USA New Jersey Jun 2023 - Present
+  Lead cross-functional meetings (Data Management, Stats, Medical Writing, Safety, Regulatory) to discuss risks and
+  align deliverables for insurance claims, registry, and post-market trial data integration.
+  Maintained and optimized integrated timelines across programs using Jira and internal planning tools, balancing
+  team capacity, priorities, and dependencies to ensure on-time delivery.
+  Drive day-to-day execution of strategic initiatives, translating high-level objectives into actionable plans and measurable
+  results across cross-functional teams.
+  Proactively identified and mitigated program risks, navigating ambiguity to maintain momentum and adapt plans as
+  requirements evolved.
+  Contribute to internal programming forums, capability initiatives, and process improvements, supporting the resolution
+  of complex programming and data issues.
+  Produce accurate, reproducible SAS code by authoring OPS and reviewing key study documents (e.g., SAP,
+  randomization strategy) to support both clinical and real-world data analysis.
+  QC SAS programming code and review all Dry Run deliverables and PASR reports to ensure compliance with
+  stakeholders needs.
+  Manufacturing Specialist Conshohocken, PA Apr 2022 - Jun 2023
+  Led a structured 5S operational excellence initiative within a manufacturing environment, improving workflow
+  efficiency, standardization, and cross-functional engagement.
+  Engaged with cross functional teams, using operational knowledge and project management skills prioritizing
+  improvements that simplify both technical and business systems.
+  Authored, revised, and managed manufacturing documents such as SOPs and Batch Records, keeping a strong attention
+  to detail.
+  Initiated and conducted deviation investigations leading to the creation of CAPAs by leading data gathering, and
+  presentation in a timely manner for the business needs.
+  Supported operational decision-making by balancing technical requirements, business needs, and resource
+  considerations.
+  Biopharm Manufacturing Associate II and I Conshohocken, PA Feb 2020 - Apr 2022
+  Trained less experienced team members while emphasizing safety and compliance throughout the process.
+  Efficiently performed production operations by following written SOP s and understanding the safety and quality
+  aspects of the procedures.
+  Aided in cross-functional activities, creating and executing engineering and validation protocols.
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  EMPTY
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  Drexel University Sep 2021 - Jun 2023
+  Masters, Biological Science, Biostatistics
+  Coursework: Intro to Statistical Computing (SAS), Biostatistics (R), Survival Data Analysis (SAS), Data Science
+  using R (R), Intermediate SAS (SAS)
+  Brigham Young University Sep 2014 - Dec 2019
+  Bachelor of Science, Biology
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  lead
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  Maria Devitt
+  Milford, NJ 08848 | (215)-237-0564 | mariav.rollins7@gmail.com
+
+  SUMMARY
+  Clinical Study Lead with 5+ years of experience in regulated pharmaceutical environments, skilled in cross-functional
+  team coordination, timeline management, risk management, and process improvement with expertise in developing and
+  QCing clinical data (ADaM datasets and TFLs in compliance with CDISC standards and study protocols).
+
+  WORK EXPERIENCE
+  GlaxoSmithKline
+  Study Lead Statistical Programmer Remote, USA New Jersey Jun 2023 - Present
+  Lead cross-functional meetings (Data Management, Stats, Medical Writing, Safety, Regulatory) to discuss risks and
+  align deliverables for insurance claims, registry, and post-market trial data integration.
+  Maintained and optimized integrated timelines across programs using Jira and internal planning tools, balancing
+  team capacity, priorities, and dependencies to ensure on-time delivery.
+  Drive day-to-day execution of strategic initiatives, translating high-level objectives into actionable plans and measurable
+  results across cross-functional teams.
+  Proactively identified and mitigated program risks, navigating ambiguity to maintain momentum and adapt plans as
+  requirements evolved.
+  Contribute to internal programming forums, capability initiatives, and process improvements, supporting the resolution
+  of complex programming and data issues.
+  Produce accurate, reproducible SAS code by authoring OPS and reviewing key study documents (e.g., SAP,
+  randomization strategy) to support both clinical and real-world data analysis.
+  QC SAS programming code and review all Dry Run deliverables and PASR reports to ensure compliance with
+  stakeholders needs.
+  Manufacturing Specialist Conshohocken, PA Apr 2022 - Jun 2023
+  Led a structured 5S operational excellence initiative within a manufacturing environment, improving workflow
+  efficiency, standardization, and cross-functional engagement.
+  Engaged with cross functional teams, using operational knowledge and project management skills prioritizing
+  improvements that simplify both technical and business systems.
+  Authored, revised, and managed manufacturing documents such as SOPs and Batch Records, keeping a strong attention
+  to detail.
+  Initiated and conducted deviation investigations leading to the creation of CAPAs by leading data gathering, and
+  presentation in a timely manner for the business needs.
+  Supported operational decision-making by balancing technical requirements, business needs, and resource
+  considerations.
+  Biopharm Manufacturing Associate II and I Conshohocken, PA Feb 2020 - Apr 2022
+  Trained less experienced team members while emphasizing safety and compliance throughout the process.
+  Efficiently performed production operations by following written SOP s and understanding the safety and quality
+  aspects of the procedures.
+  Aided in cross-functional activities, creating and executing engineering and validation protocols.
+
+  EDUCATION
+  Drexel University Sep 2021 - Jun 2023
+  Masters, Biological Science, Biostatistics
+  Coursework: Intro to Statistical Computing (SAS), Biostatistics (R), Survival Data Analysis (SAS), Data Science
+  using R (R), Intermediate SAS (SAS)
+  Brigham Young University Sep 2014 - Dec 2019
+  Bachelor of Science, Biology
+END_SECTION  RAW_EXTRACTION

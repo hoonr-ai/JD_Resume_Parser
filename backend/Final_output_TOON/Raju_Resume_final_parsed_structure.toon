@@ -1,0 +1,849 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  NULL
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  rajumekala439@gmail.com
+  FULL_NAME  RAJU MEKALA
+  GITHUB  NULL
+  LINKEDIN  NULL
+  LOCATION  NULL
+  PHONE_E164  +17377420934
+  PHONE_RAW  +1 737-742-0934
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Experienced Sr Full Stack Java Developer with 10+ Years expertise across Java 8–17, Spring Boot, RESTful APIs, and Spring
+  Security, coupled with a strong background in Generative AI applications using OpenAI, LangChain, Spring AI, and prompt
+  engineering. Proven ability to design and deploy cloud-native applications across AWS, Azure, and GCP. Skilled in RAG
+  patterns, OAuth2, and JWT-based security, with deep experience in DevOps, containerization, and event-driven
+  architectures using Kafka and RabbitMQ.
+  In-depth understanding of various Design Patterns like MVC, Builder, Singleton, Service Facade, Service Locator,
+  Data Access Object, Data Transfer Object/Value Object, Business Delegate, Decorator and Factory.
+  Proficient in developing UI using jQuery and JavaScript Libraries for Web Applications and Mobile Applications.
+  Strong working experience in client scripting language and server side scripting languages like JavaScript, jQuery,
+  Node JS, Underscore.js, Express.js, React JS, Angular JS, Angular2, bcrypt.js, Crypto.js, Backbone.js, Require.js, Ext
+  JS.
+  Expertise creating user validation forms and sending data to server using RESTful services.
+  Experience in implementing Spring Core, AOP, JDBC, MVC, ORM modules, Spring Kafka and Zookeeper apart from
+  JMS as messaging service
+  Expertise with employment of Spring Kafka and Zookeeper apart from JMS as messaging service. Strong
+  Application Integration Experience using Connectors, Transformations, Routing, JMS, Kafka and RabbitMQ.
+  Diverse experience utilizing tools in N-tier and Microservices architecture applications using Spring Boot, Spring
+  Cloud config, PCF, AWS, Rabbit MQ, Kafka, Zookeeper, Cassandra, My SQL, Restful Web Services.
+  Worked in Jenkins for continuous integration (CI)of the application and System.
+  Development of application server part and writing Groovy scripts for Jenkins.
+  Extensive knowledge and hands on experience in developing Node JS applications using MVC frameworks and
+  installation of client-side dependencies using Bower. Used Node JS NPM module Grunt and Gulp to run tasks and
+  build properly the project (compile, minify, concat etc.)
+  Experience working with SQL Database Components (Tables, Views, queries) mostly MYSQL, PostgreSQL, Oracle,
+  DB2 and No Sql Databases like Mongo DB.
+  Adapt in building highly scalable, pluggable and interactive web applications with open-source web frameworks
+  like Struts, Spring MVC integrating it with Spring and Hibernate. Experience in developing persistence layer
+  applications based on ORM between Java and Database using Hibernate.
+  Solid proficiency with distributed version control tools such as GIT, GitHub, SVN and cloud platforms like Amazon
+  Web Services (AWS), Amazon EC2, Heroku. Experience with Docker Images/containers and Kubernetes.
+  Worked on (AWS) infrastructure with automation and configuration management tools such as Chef and Puppet.
+  Good knowledge of AWS, Amazon Cloud Services like Elastic Compute Cloud (EC2).
+  Expertise in Client Scripting language and server-side scripting languages like HTML, CSS, JavaScript, JSTL, jQuery,
+  JSON, bootstrap, AngularJS and node.js.
+  Developed and maintained batch processing workflows using Spring Batch, handling large-scale data processing,
+  booking, and validation jobs.
+  Engineered caching strategies with EhCache and Redis to optimize performance for high-load applications and
+  dashboards.
+  Worked extensively on XML/JSON parsing, XSLT transformations, and data integrations with external OMS and
+  financial systems using StAX, JAXB, and Apache CXF.
+  Collaborated on prompt engineering, model integration, and GenAI-driven workflow automation in HR tech,
+  compliance, and finance use cases.
+  Participated in Agile/Scrum processes, contributing to sprint planning, user story refinement, and end-to-end
+  feature delivery using JIRA and Confluence.
+
+  Applied Test-Driven Development (TDD) practices, building unit and integration tests with JUnit, Selenium, and
+  Postman.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Storage
+  ITEM  Selenium
+  ITEM  Docker
+  ITEM  Linux
+  ITEM  Oracle
+  ITEM  Git
+  ITEM  Simple DirectMedia Layer
+  ITEM  TypeScript
+  ITEM  Configuration Management
+  ITEM  CDC SCOPE
+  ITEM  XSLT
+  ITEM  Orm
+  ITEM  Dependency Injection
+  ITEM  Scratch
+  ITEM  Npm
+  ITEM  Collections
+  ITEM  Css
+  ITEM  Verification
+  ITEM  Data Processing
+  ITEM  File
+  ITEM  Xml
+  ITEM  make
+  ITEM  Frontend
+  ITEM  Routing
+  ITEM  Development
+  ITEM  Server
+  ITEM  Html
+  ITEM  Data Transfer
+  ITEM  Containers
+  ITEM  Portal
+  ITEM  Aws
+  ITEM  Spring
+  ITEM  Object Oriented
+  ITEM  Messaging
+  ITEM  Vector
+  ITEM  Static Analysis
+  ITEM  MongoDB
+  ITEM  React
+  ITEM  AngularJS
+  ITEM  Build Automation
+  ITEM  arrow
+  ITEM  Ai
+  ITEM  Windows Embedded Compact
+  ITEM  Encryption
+  ITEM  Embedded
+  ITEM  Json
+  ITEM  Apache
+  ITEM  Apache Cassandra
+  ITEM  Code Quality
+  ITEM  Debugging
+  ITEM  Ibm
+  ITEM  Configuration
+  ITEM  Java Class Library
+  ITEM  Node Js
+  ITEM  Frameworks
+  ITEM  Framework
+  ITEM  Google Cloud Platform
+  ITEM  Database
+  ITEM  Monitoring
+  ITEM  Jenkins
+  ITEM  Privacy
+  ITEM  Search
+  ITEM  Unix
+  ITEM  Optimization
+  ITEM  Tool
+  ITEM  Postgresql
+  ITEM  Mobile
+  ITEM  Go
+  ITEM  Data Access
+  ITEM  WEB
+  ITEM  chef
+  ITEM  Parsing
+  ITEM  Architecture
+  ITEM  Concurrent
+  ITEM  Javascript
+  ITEM  Microsoft Azure
+  ITEM  Windows
+  ITEM  Transact-SQL
+  ITEM  Continuous Integration
+  ITEM  Http
+  ITEM  Scripting Language
+  ITEM  rc
+  ITEM  Api
+  ITEM  XPath
+  ITEM  Jira
+  ITEM  Api Documentation
+  ITEM  Grafana
+  ITEM  SPARK
+  ITEM  Tags
+  ITEM  No Sql
+  ITEM  Hardware
+  ITEM  Nosql
+  ITEM  Sql
+  ITEM  Access
+  ITEM  Authentication
+  ITEM  PL/SQL
+  ITEM  Gui
+  ITEM  Svn
+  ITEM  SOAP APIs
+  ITEM  Web Services
+  ITEM  Version Control
+  ITEM  Enterprise
+  ITEM  Backbone.js
+  ITEM  Cloud
+  ITEM  Scripting Languages
+  ITEM  Concurrency
+  ITEM  Graphite
+  ITEM  Microservices
+  ITEM  Logging
+  ITEM  MillenniumDB
+  ITEM  REST APIs
+  ITEM  User Interface
+  ITEM  Threading
+  ITEM  Java
+  ITEM  Scheduling
+  ITEM  Software
+  ITEM  Mapping
+  ITEM  Rpc
+  ITEM  Testing
+  ITEM  Performance
+  ITEM  Kubernetes
+  ITEM  Maven
+  ITEM  Streaming
+  ITEM  Design
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  Client: UnitedHealth Group - Minnetonka, Minnesota ----------------Dec 2024 - Till Date
+  Role: Sr. Full Stack Java Developer
+  Responsibilities:
+  Designed and developed multi-tier, custom web application to place trades, monitoring trades in trade blotter,
+  checking status of trade from OMS in order browse screen.
+  Extensive experience in various Agile methodologies like Test Driven Development (TDD) .
+  Involved in developing UI using Spring MVC framework, JSP, JSTL, HTML5, CSS, Javascript, JQuery,AJAX and
+  AngularJS.
+  Created Reusable Modules and Custom Directives in Angular2.0 which got used in various places of application.
+  Implemented AngularJS Controllers to maintain each view data. Implemented Angular Service calls using Angular
+  Factory tested all application controllers extensively with AngularJS built-in testing facilities.
+  Extensively used core java concepts like Multithreading, Collections Framework, File I/o and concurrency.
+  Experience in Core Java concepts such as OOP Concepts, Collections Framework, and Exception Handling, I/O
+  System, Multi-Threading, JDBC, Generics.
+  Used Java8 features in developing the code like Lambda expressions, creating resource classes, fetching
+  documents from database.
+  Used design patterns like Singleton, Data Access Objects, Factory and MVC patterns.
+
+  Testing and production support of core java based multithreading ETL tool for distributed loading XML data
+  into Oracle database using JPA/Hibernate.
+  Created POJO s and DAO s for the database entities using Spring JDBC annotation mappings
+  Integrated with Spring Cloud projects to provide distributed tracing and other features.
+  Developed microservices with Spring and tested the application using Spring Boot.
+  Used Spring Core annotations for Spring Dependency Injection, Spring MVC for Rest API s and Spring
+  Boot for microservices.
+  Development of cloud hosted web applications and REST APIs using Spring Boot with embedded Tomcat.
+  Developed GSA, LSS and SDL using C++, multi-threading and socket programming.
+  Deployed the application on Amazon Web services (AWS) and used it to provide a large computing capacity for
+  scalable solutions.
+  Deployed applications into Continuous integration environments like Jenkins to integrate and deploy code on CI
+  environments for development testing.
+  Implemented Rest based web service using JAX-RS annotations, Jersey provider implementation.
+  Integrated ActiveMQ and spring JMS API to send and receive message for the application s restful API.
+  Experience in design and development of Web services, JAX-RPC, JAX-WS, RMI, JTA, JMS and XML, XSD, XSLT, X-
+  Path.
+  Wrote build scripts using Maven.
+  Developed the persistence layer using Hibernate Framework by configuring the 1:1/1:M/M:M mappings
+  in hibernate files and created DAO and POJO.
+  Experience in NoSQL database like MongoDB installation, configuration and in designing MongoDB multi-shared
+  cluster and monitoring with MMS.
+  Installed the WebSphere MQ and involved in configuring MDB listeners, JMS resources, and queues and
+  integrating with the WebSphere Application Server.
+  Configuring WebSphere Application Server on multiple platforms for both horizontal and vertical scaling for
+  Workload Management.
+  Experience in working with NoSQL Database like MongoDB to manage extremely large data sets.
+  Used log4j to print the logging, debugging, warning, info statements.
+  Implemented Selenium Web Drivers and Protractor For testing the UI components.
+  Used Spring AI, LangChain, and Pinecone to build an enterprise assistant capable of semantic search and answering
+  domain-specific questions from internal knowledge bases using RAG.
+  Integrated OpenAI GPT-4 to generate Jenkins file templates and Docker files based on prompts, significantly
+  reducing setup time for new projects.
+  Implemented a Spring Cloud Gateway with JWT-based auth, rate-limiting, and OAuth2 SSO for microservices.
+  Core Java with Concurrent API is used extensively for parallel processing and chunk processing used for validating
+  and submitting trades to OMS service update status in the blotter XSLT and Trax API used to convert different
+  formats of XML to our Standard XML format and StAX API used for parsing XML messages
+  Tools: Java 8/17, concurrent package, lambda expressions, streams, J2ee, web services, JMS, XML (Dom, Sax, Xpath, Stax,
+  XSLT), Web sphere 7.0, Tibco EMS,Tibco BW, Spring Boot, Spring Integration, Spring Batch, Spring Data JPA, EHCache,
+  Jprofiler, AngularJs,, Eclipse3.4,WebStorm, GIT/Stash(Bitbucket), SDP Jenkins, Confluence, Jira, Crucible, SourceTree,
+  Udeploy, XL Deploy, Maven, Windows, Linux, Oracle, Mongo DB, SQL Server
+
+  Client: Ameriprise - Minneapolis, Minnesota ----------------- Aug 2023 - Dec 2024
+  Role: Full Stack Java Developer
+  Responsibilities:
+  Designed Use case diagrams, Class diagrams and sequence diagrams using UM Let and Magic Draw.
+  Participated in designing work flows and implemented algorithms for the system along with the team.
+  Implemented the Project structure based on Spring MVC pattern using spring boot.
+  Extensively used Spring IOC module, spring Core Container module, spring web module to develop business layer
+  and implemented scheduled batch jobs using Spring Framework.
+
+  Designed and maintained microservices for loan origination, credit risk, and transaction processing using Java 17,
+  Spring Boot, and PostgreSQL.
+  Integrated OpenAI GPT-4 and LangChain into internal tools to enable:
+  o Smart contract summarization
+  o AI-driven compliance Q&A assistant
+  o Automated customer communication drafting
+  Developed a RAG-based solution to allow bank employees to query internal policy documents using Pinecone
+  vector DB, Azure OpenAI, and Spring AI.
+  Ensured high security using JWT, Spring Security, and OAuth2 for internal user access and third-party integrations.
+  Leveraged AWS Bedrock and Lambda to deploy GenAI-based microservices for real-time document insights and
+  fraud detection.
+  Used Kafka and RabbitMQ for secure, real-time messaging between transaction and fraud services.
+  Created and maintained CI/CD pipelines using GitHub Actions and Jenkins, improving deployment velocity by 30%.
+  Complied with financial data privacy standards, including masking, encryption, and secure audit logging.
+  Built API services with Spring Boot and MongoDB for a digital wallet and micro-lending platform.
+  Implemented caching strategies with Redis to improve response times in high-load financial dashboards.
+  Used Swagger and Postman for API documentation and testing.
+  Used LangChain + GPT-4 + Pinecone to parse and summarize regulatory documents and customer contracts in
+  banking.
+  Developed multi-tenant, OAuth2-secured APIs for account management, integrating fraud analytics and customer
+  behavior scoring.
+  Internal tool using RAG to answer compliance-related questions using company policy PDFs and training
+  documents via Spring AI.
+  Implemented Asynchronous messaging between System Integration components using Spring JMS Template.
+  Developed exception logging aspects and auto emailing features using Spring AOP.
+  Designed the application using Micro-services Architecture (based on Spring Boot) and Angular framework.
+  Used agile practices and Test Driven Development techniques to provide reliable, working software early and
+  often.
+  Analyzed and designed a scalable system based on Object Oriented Concepts, OOAD and the various J2EE design
+  patterns.
+  Developed java scripts for all client side validation and developed User Interface (GUI) using JSP, CSS, JSTL, and XSL.
+  Used JSTL tags for communicating between controller and JSP.
+  Design and implementing Model view controller (MVC) architecture using spring framework.
+  Wrote Hibernate classes, DAO's to retrieve & store data, configured hibernate files.
+  Used Eclipse IDE for application Development. Used Jenkins Jobs for build automation to compile and
+  generate EAR and WAR files.
+  Fixed defects Identified in Production/ QA environments; Defects were tracked in Jira tracking Portal.
+  Developed SNMP Manager in WinCE. At the time of development due to the scarcity of the Hardware
+  configuration, the SNMP support was not ported in the Board-Support Package s configuration. And hence, the
+  SNMP was supported using the Socket Programming and C++ and following the SNMP RFC 1157 and Printer MIB
+  1759 specifications.
+  Involved in raising questions for business, getting answers from them, bug fixing, and tracking is done by JIRA .
+  Developed RESTful web services using JAX-RS, Apache CXF and spring frameworks and persistence
+  using Hibernate and JPA ORM frameworks.
+  Jersey implementation of JAX-RS is utilized to develop RESTful Web services.
+  Consumed RESTful Web services (JAX-RS) provided by different vendor to use for Address verification and
+  validation.
+  Involved in creating and extracting data from database using SQL Queries, PL/SQL Stored procedures, triggers, and
+  packages on Oracle database.
+  Used HP Quality Center for defect tracking
+
+  Provided the technical assistance to resolve Issues identified in production and demonstrate appropriate solution
+  to the end users.
+  Connected to Linux servers to view application logs in order to trouble shoot application issues using putty as an
+  interface.
+  Assisted Oracle DB development team in developing stored procedures and designing the database.
+  Used Maven for build, cruise control is used continuous building; Used SVN as version control system for source
+  code and project documents.
+  Involved in developing of test procedures for unit testing and testing of the module
+  Used Test Driven Development (TDD) as the development strategy in order to build the core engine module.
+  Developed Data Access Objects (DAO) for accessing records using various specification files.
+  Used JIRA for creating and managing the scrum stories, tasks and defect tickets.
+  Consumed REST based Microservices with Rest template based on Restful APIs.
+  Developed the application using agile methodology and Scrum method of project management
+  Tools: Java 8/17, concurrent package, lambda expressions, streams, J2ee, webservices, JMS, XML (Dom, Sax, Xpath, Stax,
+  XSLT), Web sphere 7.0, Tibco EMS, Tibco BW, Spring Boot, Sprig Integration, Spring Batch, Spring Data JPA, EHCache,
+  Jprofiler, AngularJs,, Eclipse3.4,WebStorm, GIT/Stash(Bitbucket), SDP Jenkins, Confluence, Jira, Crucible, SourceTree,
+  Udeploy, XL Deploy, Maven, Windows, Linux, Oracle, Mongo DB, SQL Server
+
+  Client: AT&T- Hyderabad, India----------------- Dec 2020 - July 2022
+  Role: Full Stack Java Developer
+  Responsibilities:
+  Gathered and analyzed architectural design requirements and functional specifications of the client module.
+  Performed the detailed design of application and technology architecture components and classes.
+  Implemented AGILE methodology, participated in daily scrum meetings, code reviews, sprint planning and
+  retrospectives as part of Agile methodology.
+  Used JIRA ticketing system to keep track of issues and tasks on individuals.
+  Designed the front-end screens using HTML5, CSS3. Developed Angular controllers, services, filters and developed
+  HTML templates with various Angular directives
+  Implemented Angular8 new APIs and Differential loading that allow you to create custom build and deployment
+  commands using hooks into the familiar ng build , ng test , and ng run commands.
+  Created Angular service and integration with RESTful APIs. Used Angular HttpClient to send GET/POST request to
+  fetch data from server.
+  Developed the components using Angular 8 needed for the application from the scratch and customizing from
+  various Angular related libraries to meet the application's functionality.
+  Implemented latest Ecmascript6 (ES6) features like arrow functions, constants, block-scope variables and class
+  inheritance etc.
+  Used Angular8 Http services for asynchronous validations for the input fields of the forms with the data existed in
+  the database.
+  Developed maintained and enhanced Microservices using SPRING MVC with integration to Mongo DB and Kafka
+  queues.
+  Designed and developed the framework to consume the web services hosted in Amazon EC2 instances.
+  Installed application on AWSEC2 instances and configured the storage on S3 buckets.
+  Perform S3 buckets creation, policies and the IAM role based polices.
+  Created monitors, alarms, and notifications for EC2 hosts using Cloud Watch.
+  Migrated applications to the AWS cloud.
+  Involved in writing java API for Amazon Lambda to manage some of the AWS services.
+  Exported SQL data into Elastic search to allow much faster and scalable user searches from the database.
+  Used Jasmine and karma for unit testing the Angular Application
+  Achieved synchronization of multiple threads through Multithreading and Exception Handling.
+  Implemented business logic using Spring service layer and Spring DAO layer using Spring Framework.
+
+  Implementation of Kafka to avoid loss of messages during handling of messages at the consumer level.
+  Designed best approach suited for data movement from different sources to HDFS using Apache/ Confluent Kafka
+  Made use of functional features of JAVA8 like Functional Interfaces, Lambda Expressions, Method References,
+  Stream API for Bulk Data Operations on Collections which would increase the performance of the Application.
+  Used Java8 features like stream and Lambda expressions.
+  Maintained Interface compatibility and concurrency in the project using Java 8 new features like default, static
+  methods and Concurrency API.
+  Used Java 8 Method References feature to point to methods by their names and used functional Interfaces.
+  Used SonarQube, for continuous inspection of code quality to perform automatic reviews with static analysis of
+  code to detect bugs, code smells, and security vulnerabilities and Jenkins to trigger the jobs, used open shift as a
+  cloud to deploy changes to multiple environments.
+  Implemented a Continuous Delivery pipeline with Docker , Jenkins and Bitbucket
+  Used OpenShift and Kubernetes for deploying applications in Microservices Architecture.
+  Expertise in using monitoring tools like Splunk, Kibana, Grafana, Graphite like
+  creating alerts and dashboard. Worked on identifying errors on multiple servers using status codes and logs and
+  involve in bugfix and Support in on project GO-Live deployment with release team.
+  Explored new technologies and participate in technical sessions that can help client to grow.
+  Automate the SSIS & SQL deployments (Maven & Ant Builds)
+  Implemented continuous integration - Closely worked with SCM team to implement Jenkin Jobs, XLDeploy jobs to
+  deploy to test environments upon the proper approvals
+  Migrated the Tibco BW jobs from Tibco AMX to Tibco 5.10, re-designed the utilization of DLQ
+  Implemented tibco deployments to use centralized cloud configs
+  A DB team size of 6 is assembled to execute the development and support testing.
+  Used Postman, SoapUI 5.2 tools to test/Verify SOAP/Rest services.
+  Extensively used APPD, SPlunk to analyse performance/Application issues.
+  Rewritten about 1000 stored procedures, which supports around 16 applications and prepared test cases to make
+  sure not only the changes work for OMS application, but do not break the other applications.
+  SQL performance tuning, database tuning and optimization to increase the performance of OMS application and
+  data retrieval. Achieved the target hit rate of maximum 3 second hit per page.
+  Design and implementation of SSIS framework and templates for ETL efficiency. Implemented BI express for
+  monitoring.
+  Tools: T-SQL, Microsoft SQL Server, SSIS 2012, SQL Profiler, Distribute Replay, Tidal, BI Express, Spotlight, APPD, Splunk,
+  Postman, SoapUI 5.2, Java8, Hibernate, Spring MVC, HTML5, CSS3, Design patterns, JPA, Maven, RESTful Web services,
+  JSON, Kafka, Mongo db, Junit, Mockito, Cucumber, GIT, Jboss, SQL, Putty, java8Docker, Angular8, OpenShift, Kibana,
+  SonarQube, Jenkins, IntelliJ, Windows10, JIRA, Confluence, Agile.
+
+  Client: Virtusa- Hyderabad, India- - -----------------Sept 2017 – Dec 2020
+  Role: Java Developer
+  Responsibilities:
+  Developed UI using HTML5, CSS3, JavaScript, Bootstrap, jQuery, TypeScript, Angular6and NodeJS for interactive
+  cross browser functionality and complex user interface.
+  Created SPA (Single Page Application) using Angular6 .
+  Modified JQUERY to perform AJAX calls for creating interactive web pages on JSON response.
+  Developed modules using Java APIs, Collections, Java 1.8(Streams), Jordan API(Dates), Multi-threading, Exception
+  Handling, Generics, Enums, Java I/O & object-oriented designs patterns.
+  Used Lambda Expressions for communicating between business layer & database and Coded in java 1.8
+  Developed Java 1.8 custom Stream API with Parallel Streamsfor Bulk Data Operations.
+  Developed business components by using Spring Boot, Spring IOC, Spring AOP, Spring Annotations, Spring Cloud )
+  &Persistence layer by using Hibernate/JPA along with Web Services ( RESTful) .
+  Implemented customized authentication in Spring Security to verify user-role and secure the user pages.
+
+  Created Microservices design approach using RESTful Web-Services by using Spring Boot.
+  Used JAX-RS for creating Restful web service and implemented authentication by using OAuth2.
+  Deployed Spring Boot based micro services Docker container using Amazon EC2 container services and using AWS
+  admin console.
+  Utilized AWS Lambda platform to upload data into AWS S3 buckets and trigger Lambda functions.
+  Used Microservice architecture with Spring Boot-based services interacting through a combination of REST and
+  Apache Kafka message brokers.
+  Implemented Hibernate Template to great extent making use of HQL, Named Parameters, Named Queries and
+  interfaces such as Expression, Query, and Criteria.
+  Used Hibernate Transaction Management Hibernate Batch Transactions Hibernate Cache Concepts.
+  Used Stored Procedures for applications that needed to execute as part of a scheduling mechanism.
+  Configured Spark streaming to receive real time data from the Kafka.
+  Configure Jenkins build Jobs for (CI) and (CD)and writing Java Script on top of it.
+  Involved in Monitoring, Searching and Reporting with Splunk 7.0.
+  Administered and deployed applications into WebSphere Application Server.
+  Developed Test Cases and performed unit test using JUnit with Mockito Framework.
+  Tested Angular6 application using Jasmine framework and Karma configurations.
+  Used Log4J for logging and tracing the messages.
+  Used GIT for version control and involved in writing the build scripts using Maven.
+  Used GIT for creating the feature branches, and merging the feature branches into dev.
+  Environment: FileNet, IBM RAD 8, Java 8, Spring, Spring Boot, Hibernate, Hibernate, HTML, CSS, Angular6, UNIX, Kafka,
+  Web Services- SOAP, Node.js, Microservice, Splunk 7, XML, IBM WebSphere8, GIT, Log 4j.
+
+  Client: Value Momentum- Hyderabad, India- - -----------------July 2015 - Sept 2017
+  Role: Java Developer
+  Responsibilities:
+  Developed the Multi - tier Web Application based on agile methodology with SCRUM, iterative development,
+  delivered to client.
+  Developed Hibernate configuration files for establishing and mapping files based on POJO classes and entire DAO
+  (Data Access Objects) layers and configured in Spring ORM module.
+  Responsible for writing the Design Specifications for the UI screens.
+  Web application development using Groovy Grails JQuery AJAX.
+  Creating test data based on the test cases and executing test cases.
+  Used Implementer Change Control Tool (SVN) to maintain History of Source Code.
+  Involved in integration testing and deployment of the module as part of the overall application.
+  Used Jenkins for continuous integration build and deployment.
+  Created new stored procedures based on new requirements.
+  Environment: Java, J2EE, JVM, OOA, OOD, Spring, JSP, Groovy Grails, AJAX, DHTML, JavaScript, CSS, XSLT, XML, jQuery,
+  Hibernate, JMS, XML, Log4j, Tomcat, IntelliJ, SVN, Maven, JUnit, Oracle, Unix and Linux.
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  EMPTY
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  EMPTY
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  senior
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  NAME: RAJU MEKALA
+  Sr Full Stack Java Developer
+  Contact: +1 737-742-0934
+  E-Mail: rajumekala439@gmail.com
+  =================================================================================================
+  SUMMARY:
+  Experienced Sr Full Stack Java Developer with 10+ Years expertise across Java 8–17, Spring Boot, RESTful APIs, and Spring
+  Security, coupled with a strong background in Generative AI applications using OpenAI, LangChain, Spring AI, and prompt
+  engineering. Proven ability to design and deploy cloud-native applications across AWS, Azure, and GCP. Skilled in RAG
+  patterns, OAuth2, and JWT-based security, with deep experience in DevOps, containerization, and event-driven
+  architectures using Kafka and RabbitMQ.
+  In-depth understanding of various Design Patterns like MVC, Builder, Singleton, Service Facade, Service Locator,
+  Data Access Object, Data Transfer Object/Value Object, Business Delegate, Decorator and Factory.
+  Proficient in developing UI using jQuery and JavaScript Libraries for Web Applications and Mobile Applications.
+  Strong working experience in client scripting language and server side scripting languages like JavaScript, jQuery,
+  Node JS, Underscore.js, Express.js, React JS, Angular JS, Angular2, bcrypt.js, Crypto.js, Backbone.js, Require.js, Ext
+  JS.
+  Expertise creating user validation forms and sending data to server using RESTful services.
+  Experience in implementing Spring Core, AOP, JDBC, MVC, ORM modules, Spring Kafka and Zookeeper apart from
+  JMS as messaging service
+  Expertise with employment of Spring Kafka and Zookeeper apart from JMS as messaging service. Strong
+  Application Integration Experience using Connectors, Transformations, Routing, JMS, Kafka and RabbitMQ.
+  Diverse experience utilizing tools in N-tier and Microservices architecture applications using Spring Boot, Spring
+  Cloud config, PCF, AWS, Rabbit MQ, Kafka, Zookeeper, Cassandra, My SQL, Restful Web Services.
+  Worked in Jenkins for continuous integration (CI)of the application and System.
+  Development of application server part and writing Groovy scripts for Jenkins.
+  Extensive knowledge and hands on experience in developing Node JS applications using MVC frameworks and
+  installation of client-side dependencies using Bower. Used Node JS NPM module Grunt and Gulp to run tasks and
+  build properly the project (compile, minify, concat etc.)
+  Experience working with SQL Database Components (Tables, Views, queries) mostly MYSQL, PostgreSQL, Oracle,
+  DB2 and No Sql Databases like Mongo DB.
+  Adapt in building highly scalable, pluggable and interactive web applications with open-source web frameworks
+  like Struts, Spring MVC integrating it with Spring and Hibernate. Experience in developing persistence layer
+  applications based on ORM between Java and Database using Hibernate.
+  Solid proficiency with distributed version control tools such as GIT, GitHub, SVN and cloud platforms like Amazon
+  Web Services (AWS), Amazon EC2, Heroku. Experience with Docker Images/containers and Kubernetes.
+  Worked on (AWS) infrastructure with automation and configuration management tools such as Chef and Puppet.
+  Good knowledge of AWS, Amazon Cloud Services like Elastic Compute Cloud (EC2).
+  Expertise in Client Scripting language and server-side scripting languages like HTML, CSS, JavaScript, JSTL, jQuery,
+  JSON, bootstrap, AngularJS and node.js.
+  Developed and maintained batch processing workflows using Spring Batch, handling large-scale data processing,
+  booking, and validation jobs.
+  Engineered caching strategies with EhCache and Redis to optimize performance for high-load applications and
+  dashboards.
+  Worked extensively on XML/JSON parsing, XSLT transformations, and data integrations with external OMS and
+  financial systems using StAX, JAXB, and Apache CXF.
+  Collaborated on prompt engineering, model integration, and GenAI-driven workflow automation in HR tech,
+  compliance, and finance use cases.
+  Participated in Agile/Scrum processes, contributing to sprint planning, user story refinement, and end-to-end
+  feature delivery using JIRA and Confluence.
+
+
+  Applied Test-Driven Development (TDD) practices, building unit and integration tests with JUnit, Selenium, and
+  Postman.
+
+
+  TECHNICAL SKILLS:
+  Languages Java (Core Java, Java 17), SQL, PL/SQL, JSON, XML, YAML
+  Frameworks
+  Spring Boot, Spring MVC, Spring Security, Spring Batch, Spring Cloud, Spring AI, Hibernate,
+  JPA, Spring Integration, Spring JDBC
+  Microservices & APIs
+  RESTful APIs, SOAP (JAX-WS), Apache CXF, Spring Cloud Gateway, OAuth2, JWT,
+  OpenAPI/Swagger
+  Cloud Platforms AWS (EKS, Lambda, S3, CloudWatch, Bedrock), Azure OpenAI
+  GenAI & LLMs OpenAI GPT-3/4, LangChain, Pinecone, Azure OpenAI, AWS Bedrock, RAG, Spring AI
+  DevOps & CI/CD Docker, Kubernetes, Jenkins, GitHub Actions, Maven, Hudson, Apache Tomcat, WebLogic
+  Messaging & Streaming Kafka, RabbitMQ, Spring JMS Template, Spring Integration
+  Databases PostgreSQL, Oracle, MongoDB, Redis, EhCache
+  Caching EhCache, Redis
+  Security OAuth2, JWT, Spring Security, SSO, API Rate Limiting
+  Testing & QA JUnit, Selenium, Postman, TDD
+  Monitoring & Logging Splunk, CloudWatch, Custom Dashboards (App CPU/Memory)
+  Build & Dependency
+  Mgmt
+  Maven, Git, GitHub
+  UI / Frontend Angular, JSON, REST UI Integration
+  Architecture & Design
+  Patterns
+  Microservices, Multi-Tenant Architecture, MVC, DAO, AOP, RAG, Message-Driven
+  Architecture
+
+  PROFESSIONAL EXPERIENCE:
+
+  Client: UnitedHealth Group - Minnetonka, Minnesota ----------------Dec 2024 - Till Date
+  Role: Sr. Full Stack Java Developer
+  Responsibilities:
+  Designed and developed multi-tier, custom web application to place trades, monitoring trades in trade blotter,
+  checking status of trade from OMS in order browse screen.
+  Extensive experience in various Agile methodologies like Test Driven Development (TDD) .
+  Involved in developing UI using Spring MVC framework, JSP, JSTL, HTML5, CSS, Javascript, JQuery,AJAX and
+  AngularJS.
+  Created Reusable Modules and Custom Directives in Angular2.0 which got used in various places of application.
+  Implemented AngularJS Controllers to maintain each view data. Implemented Angular Service calls using Angular
+  Factory tested all application controllers extensively with AngularJS built-in testing facilities.
+  Extensively used core java concepts like Multithreading, Collections Framework, File I/o and concurrency.
+  Experience in Core Java concepts such as OOP Concepts, Collections Framework, and Exception Handling, I/O
+  System, Multi-Threading, JDBC, Generics.
+  Used Java8 features in developing the code like Lambda expressions, creating resource classes, fetching
+  documents from database.
+  Used design patterns like Singleton, Data Access Objects, Factory and MVC patterns.
+
+
+  Testing and production support of core java based multithreading ETL tool for distributed loading XML data
+  into Oracle database using JPA/Hibernate.
+  Created POJO s and DAO s for the database entities using Spring JDBC annotation mappings
+  Integrated with Spring Cloud projects to provide distributed tracing and other features.
+  Developed microservices with Spring and tested the application using Spring Boot.
+  Used Spring Core annotations for Spring Dependency Injection, Spring MVC for Rest API s and Spring
+  Boot for microservices.
+  Development of cloud hosted web applications and REST APIs using Spring Boot with embedded Tomcat.
+  Developed GSA, LSS and SDL using C++, multi-threading and socket programming.
+  Deployed the application on Amazon Web services (AWS) and used it to provide a large computing capacity for
+  scalable solutions.
+  Deployed applications into Continuous integration environments like Jenkins to integrate and deploy code on CI
+  environments for development testing.
+  Implemented Rest based web service using JAX-RS annotations, Jersey provider implementation.
+  Integrated ActiveMQ and spring JMS API to send and receive message for the application s restful API.
+  Experience in design and development of Web services, JAX-RPC, JAX-WS, RMI, JTA, JMS and XML, XSD, XSLT, X-
+  Path.
+  Wrote build scripts using Maven.
+  Developed the persistence layer using Hibernate Framework by configuring the 1:1/1:M/M:M mappings
+  in hibernate files and created DAO and POJO.
+  Experience in NoSQL database like MongoDB installation, configuration and in designing MongoDB multi-shared
+  cluster and monitoring with MMS.
+  Installed the WebSphere MQ and involved in configuring MDB listeners, JMS resources, and queues and
+  integrating with the WebSphere Application Server.
+  Configuring WebSphere Application Server on multiple platforms for both horizontal and vertical scaling for
+  Workload Management.
+  Experience in working with NoSQL Database like MongoDB to manage extremely large data sets.
+  Used log4j to print the logging, debugging, warning, info statements.
+  Implemented Selenium Web Drivers and Protractor For testing the UI components.
+  Used Spring AI, LangChain, and Pinecone to build an enterprise assistant capable of semantic search and answering
+  domain-specific questions from internal knowledge bases using RAG.
+  Integrated OpenAI GPT-4 to generate Jenkins file templates and Docker files based on prompts, significantly
+  reducing setup time for new projects.
+  Implemented a Spring Cloud Gateway with JWT-based auth, rate-limiting, and OAuth2 SSO for microservices.
+  Core Java with Concurrent API is used extensively for parallel processing and chunk processing used for validating
+  and submitting trades to OMS service update status in the blotter XSLT and Trax API used to convert different
+  formats of XML to our Standard XML format and StAX API used for parsing XML messages
+  Tools: Java 8/17, concurrent package, lambda expressions, streams, J2ee, web services, JMS, XML (Dom, Sax, Xpath, Stax,
+  XSLT), Web sphere 7.0, Tibco EMS,Tibco BW, Spring Boot, Spring Integration, Spring Batch, Spring Data JPA, EHCache,
+  Jprofiler, AngularJs,, Eclipse3.4,WebStorm, GIT/Stash(Bitbucket), SDP Jenkins, Confluence, Jira, Crucible, SourceTree,
+  Udeploy, XL Deploy, Maven, Windows, Linux, Oracle, Mongo DB, SQL Server
+
+  Client: Ameriprise - Minneapolis, Minnesota ----------------- Aug 2023 - Dec 2024
+  Role: Full Stack Java Developer
+  Responsibilities:
+  Designed Use case diagrams, Class diagrams and sequence diagrams using UM Let and Magic Draw.
+  Participated in designing work flows and implemented algorithms for the system along with the team.
+  Implemented the Project structure based on Spring MVC pattern using spring boot.
+  Extensively used Spring IOC module, spring Core Container module, spring web module to develop business layer
+  and implemented scheduled batch jobs using Spring Framework.
+
+
+  Designed and maintained microservices for loan origination, credit risk, and transaction processing using Java 17,
+  Spring Boot, and PostgreSQL.
+  Integrated OpenAI GPT-4 and LangChain into internal tools to enable:
+  o Smart contract summarization
+  o AI-driven compliance Q&A assistant
+  o Automated customer communication drafting
+  Developed a RAG-based solution to allow bank employees to query internal policy documents using Pinecone
+  vector DB, Azure OpenAI, and Spring AI.
+  Ensured high security using JWT, Spring Security, and OAuth2 for internal user access and third-party integrations.
+  Leveraged AWS Bedrock and Lambda to deploy GenAI-based microservices for real-time document insights and
+  fraud detection.
+  Used Kafka and RabbitMQ for secure, real-time messaging between transaction and fraud services.
+  Created and maintained CI/CD pipelines using GitHub Actions and Jenkins, improving deployment velocity by 30%.
+  Complied with financial data privacy standards, including masking, encryption, and secure audit logging.
+  Built API services with Spring Boot and MongoDB for a digital wallet and micro-lending platform.
+  Implemented caching strategies with Redis to improve response times in high-load financial dashboards.
+  Used Swagger and Postman for API documentation and testing.
+  Used LangChain + GPT-4 + Pinecone to parse and summarize regulatory documents and customer contracts in
+  banking.
+  Developed multi-tenant, OAuth2-secured APIs for account management, integrating fraud analytics and customer
+  behavior scoring.
+  Internal tool using RAG to answer compliance-related questions using company policy PDFs and training
+  documents via Spring AI.
+  Implemented Asynchronous messaging between System Integration components using Spring JMS Template.
+  Developed exception logging aspects and auto emailing features using Spring AOP.
+  Designed the application using Micro-services Architecture (based on Spring Boot) and Angular framework.
+  Used agile practices and Test Driven Development techniques to provide reliable, working software early and
+  often.
+  Analyzed and designed a scalable system based on Object Oriented Concepts, OOAD and the various J2EE design
+  patterns.
+  Developed java scripts for all client side validation and developed User Interface (GUI) using JSP, CSS, JSTL, and XSL.
+  Used JSTL tags for communicating between controller and JSP.
+  Design and implementing Model view controller (MVC) architecture using spring framework.
+  Wrote Hibernate classes, DAO's to retrieve & store data, configured hibernate files.
+  Used Eclipse IDE for application Development. Used Jenkins Jobs for build automation to compile and
+  generate EAR and WAR files.
+  Fixed defects Identified in Production/ QA environments; Defects were tracked in Jira tracking Portal.
+  Developed SNMP Manager in WinCE. At the time of development due to the scarcity of the Hardware
+  configuration, the SNMP support was not ported in the Board-Support Package s configuration. And hence, the
+  SNMP was supported using the Socket Programming and C++ and following the SNMP RFC 1157 and Printer MIB
+  1759 specifications.
+  Involved in raising questions for business, getting answers from them, bug fixing, and tracking is done by JIRA .
+  Developed RESTful web services using JAX-RS, Apache CXF and spring frameworks and persistence
+  using Hibernate and JPA ORM frameworks.
+  Jersey implementation of JAX-RS is utilized to develop RESTful Web services.
+  Consumed RESTful Web services (JAX-RS) provided by different vendor to use for Address verification and
+  validation.
+  Involved in creating and extracting data from database using SQL Queries, PL/SQL Stored procedures, triggers, and
+  packages on Oracle database.
+  Used HP Quality Center for defect tracking
+
+
+  Provided the technical assistance to resolve Issues identified in production and demonstrate appropriate solution
+  to the end users.
+  Connected to Linux servers to view application logs in order to trouble shoot application issues using putty as an
+  interface.
+  Assisted Oracle DB development team in developing stored procedures and designing the database.
+  Used Maven for build, cruise control is used continuous building; Used SVN as version control system for source
+  code and project documents.
+  Involved in developing of test procedures for unit testing and testing of the module
+  Used Test Driven Development (TDD) as the development strategy in order to build the core engine module.
+  Developed Data Access Objects (DAO) for accessing records using various specification files.
+  Used JIRA for creating and managing the scrum stories, tasks and defect tickets.
+  Consumed REST based Microservices with Rest template based on Restful APIs.
+  Developed the application using agile methodology and Scrum method of project management
+  Tools: Java 8/17, concurrent package, lambda expressions, streams, J2ee, webservices, JMS, XML (Dom, Sax, Xpath, Stax,
+  XSLT), Web sphere 7.0, Tibco EMS, Tibco BW, Spring Boot, Sprig Integration, Spring Batch, Spring Data JPA, EHCache,
+  Jprofiler, AngularJs,, Eclipse3.4,WebStorm, GIT/Stash(Bitbucket), SDP Jenkins, Confluence, Jira, Crucible, SourceTree,
+  Udeploy, XL Deploy, Maven, Windows, Linux, Oracle, Mongo DB, SQL Server
+
+  Client: AT&T- Hyderabad, India----------------- Dec 2020 - July 2022
+  Role: Full Stack Java Developer
+  Responsibilities:
+  Gathered and analyzed architectural design requirements and functional specifications of the client module.
+  Performed the detailed design of application and technology architecture components and classes.
+  Implemented AGILE methodology, participated in daily scrum meetings, code reviews, sprint planning and
+  retrospectives as part of Agile methodology.
+  Used JIRA ticketing system to keep track of issues and tasks on individuals.
+  Designed the front-end screens using HTML5, CSS3. Developed Angular controllers, services, filters and developed
+  HTML templates with various Angular directives
+  Implemented Angular8 new APIs and Differential loading that allow you to create custom build and deployment
+  commands using hooks into the familiar ng build , ng test , and ng run commands.
+  Created Angular service and integration with RESTful APIs. Used Angular HttpClient to send GET/POST request to
+  fetch data from server.
+  Developed the components using Angular 8 needed for the application from the scratch and customizing from
+  various Angular related libraries to meet the application's functionality.
+  Implemented latest Ecmascript6 (ES6) features like arrow functions, constants, block-scope variables and class
+  inheritance etc.
+  Used Angular8 Http services for asynchronous validations for the input fields of the forms with the data existed in
+  the database.
+  Developed maintained and enhanced Microservices using SPRING MVC with integration to Mongo DB and Kafka
+  queues.
+  Designed and developed the framework to consume the web services hosted in Amazon EC2 instances.
+  Installed application on AWSEC2 instances and configured the storage on S3 buckets.
+  Perform S3 buckets creation, policies and the IAM role based polices.
+  Created monitors, alarms, and notifications for EC2 hosts using Cloud Watch.
+  Migrated applications to the AWS cloud.
+  Involved in writing java API for Amazon Lambda to manage some of the AWS services.
+  Exported SQL data into Elastic search to allow much faster and scalable user searches from the database.
+  Used Jasmine and karma for unit testing the Angular Application
+  Achieved synchronization of multiple threads through Multithreading and Exception Handling.
+  Implemented business logic using Spring service layer and Spring DAO layer using Spring Framework.
+
+
+  Implementation of Kafka to avoid loss of messages during handling of messages at the consumer level.
+  Designed best approach suited for data movement from different sources to HDFS using Apache/ Confluent Kafka
+  Made use of functional features of JAVA8 like Functional Interfaces, Lambda Expressions, Method References,
+  Stream API for Bulk Data Operations on Collections which would increase the performance of the Application.
+  Used Java8 features like stream and Lambda expressions.
+  Maintained Interface compatibility and concurrency in the project using Java 8 new features like default, static
+  methods and Concurrency API.
+  Used Java 8 Method References feature to point to methods by their names and used functional Interfaces.
+  Used SonarQube, for continuous inspection of code quality to perform automatic reviews with static analysis of
+  code to detect bugs, code smells, and security vulnerabilities and Jenkins to trigger the jobs, used open shift as a
+  cloud to deploy changes to multiple environments.
+  Implemented a Continuous Delivery pipeline with Docker , Jenkins and Bitbucket
+  Used OpenShift and Kubernetes for deploying applications in Microservices Architecture.
+  Expertise in using monitoring tools like Splunk, Kibana, Grafana, Graphite like
+  creating alerts and dashboard. Worked on identifying errors on multiple servers using status codes and logs and
+  involve in bugfix and Support in on project GO-Live deployment with release team.
+  Explored new technologies and participate in technical sessions that can help client to grow.
+  Automate the SSIS & SQL deployments (Maven & Ant Builds)
+  Implemented continuous integration - Closely worked with SCM team to implement Jenkin Jobs, XLDeploy jobs to
+  deploy to test environments upon the proper approvals
+  Migrated the Tibco BW jobs from Tibco AMX to Tibco 5.10, re-designed the utilization of DLQ
+  Implemented tibco deployments to use centralized cloud configs
+  A DB team size of 6 is assembled to execute the development and support testing.
+  Used Postman, SoapUI 5.2 tools to test/Verify SOAP/Rest services.
+  Extensively used APPD, SPlunk to analyse performance/Application issues.
+  Rewritten about 1000 stored procedures, which supports around 16 applications and prepared test cases to make
+  sure not only the changes work for OMS application, but do not break the other applications.
+  SQL performance tuning, database tuning and optimization to increase the performance of OMS application and
+  data retrieval. Achieved the target hit rate of maximum 3 second hit per page.
+  Design and implementation of SSIS framework and templates for ETL efficiency. Implemented BI express for
+  monitoring.
+  Tools: T-SQL, Microsoft SQL Server, SSIS 2012, SQL Profiler, Distribute Replay, Tidal, BI Express, Spotlight, APPD, Splunk,
+  Postman, SoapUI 5.2, Java8, Hibernate, Spring MVC, HTML5, CSS3, Design patterns, JPA, Maven, RESTful Web services,
+  JSON, Kafka, Mongo db, Junit, Mockito, Cucumber, GIT, Jboss, SQL, Putty, java8Docker, Angular8, OpenShift, Kibana,
+  SonarQube, Jenkins, IntelliJ, Windows10, JIRA, Confluence, Agile.
+
+  Client: Virtusa- Hyderabad, India- - -----------------Sept 2017 – Dec 2020
+  Role: Java Developer
+  Responsibilities:
+  Developed UI using HTML5, CSS3, JavaScript, Bootstrap, jQuery, TypeScript, Angular6and NodeJS for interactive
+  cross browser functionality and complex user interface.
+  Created SPA (Single Page Application) using Angular6 .
+  Modified JQUERY to perform AJAX calls for creating interactive web pages on JSON response.
+  Developed modules using Java APIs, Collections, Java 1.8(Streams), Jordan API(Dates), Multi-threading, Exception
+  Handling, Generics, Enums, Java I/O & object-oriented designs patterns.
+  Used Lambda Expressions for communicating between business layer & database and Coded in java 1.8
+  Developed Java 1.8 custom Stream API with Parallel Streamsfor Bulk Data Operations.
+  Developed business components by using Spring Boot, Spring IOC, Spring AOP, Spring Annotations, Spring Cloud )
+  &Persistence layer by using Hibernate/JPA along with Web Services ( RESTful) .
+  Implemented customized authentication in Spring Security to verify user-role and secure the user pages.
+
+
+  Created Microservices design approach using RESTful Web-Services by using Spring Boot.
+  Used JAX-RS for creating Restful web service and implemented authentication by using OAuth2.
+  Deployed Spring Boot based micro services Docker container using Amazon EC2 container services and using AWS
+  admin console.
+  Utilized AWS Lambda platform to upload data into AWS S3 buckets and trigger Lambda functions.
+  Used Microservice architecture with Spring Boot-based services interacting through a combination of REST and
+  Apache Kafka message brokers.
+  Implemented Hibernate Template to great extent making use of HQL, Named Parameters, Named Queries and
+  interfaces such as Expression, Query, and Criteria.
+  Used Hibernate Transaction Management Hibernate Batch Transactions Hibernate Cache Concepts.
+  Used Stored Procedures for applications that needed to execute as part of a scheduling mechanism.
+  Configured Spark streaming to receive real time data from the Kafka.
+  Configure Jenkins build Jobs for (CI) and (CD)and writing Java Script on top of it.
+  Involved in Monitoring, Searching and Reporting with Splunk 7.0.
+  Administered and deployed applications into WebSphere Application Server.
+  Developed Test Cases and performed unit test using JUnit with Mockito Framework.
+  Tested Angular6 application using Jasmine framework and Karma configurations.
+  Used Log4J for logging and tracing the messages.
+  Used GIT for version control and involved in writing the build scripts using Maven.
+  Used GIT for creating the feature branches, and merging the feature branches into dev.
+  Environment: FileNet, IBM RAD 8, Java 8, Spring, Spring Boot, Hibernate, Hibernate, HTML, CSS, Angular6, UNIX, Kafka,
+  Web Services- SOAP, Node.js, Microservice, Splunk 7, XML, IBM WebSphere8, GIT, Log 4j.
+
+  Client: Value Momentum- Hyderabad, India- - -----------------July 2015 - Sept 2017
+  Role: Java Developer
+  Responsibilities:
+  Developed the Multi - tier Web Application based on agile methodology with SCRUM, iterative development,
+  delivered to client.
+  Developed Hibernate configuration files for establishing and mapping files based on POJO classes and entire DAO
+  (Data Access Objects) layers and configured in Spring ORM module.
+  Responsible for writing the Design Specifications for the UI screens.
+  Web application development using Groovy Grails JQuery AJAX.
+  Creating test data based on the test cases and executing test cases.
+  Used Implementer Change Control Tool (SVN) to maintain History of Source Code.
+  Involved in integration testing and deployment of the module as part of the overall application.
+  Used Jenkins for continuous integration build and deployment.
+  Created new stored procedures based on new requirements.
+  Environment: Java, J2EE, JVM, OOA, OOD, Spring, JSP, Groovy Grails, AJAX, DHTML, JavaScript, CSS, XSLT, XML, jQuery,
+  Hibernate, JMS, XML, Log4j, Tomcat, IntelliJ, SVN, Maven, JUnit, Oracle, Unix and Linux.
+END_SECTION  RAW_EXTRACTION

@@ -1,0 +1,964 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  19595207291382_94_5
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  yaswanthp975@gmail.com
+  FULL_NAME  Yaswanth P
+  GITHUB  NULL
+  LINKEDIN  linkedin.com/in/yaswanth-k-90976b37b
+  LOCATION  Minnetonka, Minnesota 55343 US
+  PHONE_E164  +14703772519
+  PHONE_RAW  +14703772519
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  With over 10 years in IT, I've focused on Site Reliability Engineering, DevOps, Cloud Engineering, and Linux Administration. I
+  have hands-on experience in Build Automation, CI/CD pipelines, Orchestration, Containerization, and Configuration
+  Management. My core skills include Linux/Unix system administration combined with cloud platform expertise across AWS,
+  Azure, and Google Cloud.
+  Built and maintained comprehensive CI/CD pipelines using DevOps tools to streamline development workflows.
+  Automated testing, deployment, and monitoring processes while ensuring code quality and supporting agile
+  development practices.
+  Designed and implemented auto-scaling and load balancing solutions on AWS (EC2, ELB, Auto Scaling Groups) to
+  ensure high availability and optimized resource usage.
+  Built serverless architectures using AWS Lambda, API Gateway, and DynamoDB to reduce operational overhead
+  and improve efficiency.
+  Implemented AWS CloudFormation stacks for repeatable, automated infrastructure provisioning across multiple
+  environments.
+  Leveraged AWS Security services (GuardDuty, KMS, Security Groups) to strengthen cloud security and
+  meet compliance requirements.
+  Managed AWS networking components (VPC peering, Transit Gateway, Route 53) to support secure, multi-region
+  architectures.
+  Configured and managed Azure Kubernetes Service (AKS) clusters, enabling containerized workloads with
+  auto-scaling and integrated monitoring.
+  Deployed applications on Azure App Services and managed Azure Functions for event-driven processing.
+  Implemented Azure Monitor and Log Analytics for end-to-end observability and incident troubleshooting.
+  Built automated workflows with Azure DevOps Pipelines, integrating CI/CD with infrastructure deployments.
+  Administered Azure Active Directory (AD) for identity and access management, integrating SSO and RBAC across
+  services.
+  Implemented Google Cloud Platform services including Compute Engine, Kubernetes Engine (GKE), Storage bucket,
+  Artifact registry, secret manager, and Cloud SQL. Set up infrastructure to maximize availability, scalability, and system
+  reliability.
+  Created complex data visualizations and reports using Looker, developing custom dashboards and LookML models
+  to improve data analysis and decision-making processes.
+  Used BigQuery ML to build and implement predictive analytics solutions and machine learning models. Integrated ML
+  models within BigQuery to improve data processing speed, enhance performance metrics, and deliver data-driven
+  business solutions.
+  Managed complete machine learning workflows on Vertex AI platform, implementing ML pipelines and AutoML
+  features. Optimized model performance through hyperparameter tuning and established efficient deployment
+  processes for production environments.
+  Deployed and maintained Kubernetes clusters on Google Kubernetes Engine (GKE) to support large-scale container
+  operations. Set up automatic scaling, implemented comprehensive monitoring systems, and resolved complex issues
+  in containerized environments while ensuring high availability and optimal performance.
+  Automated cloud infrastructure using Terraform and CloudFormation, resulting in 40% faster deployments.
+  Maintained mission-critical applications with 99.9% uptime through robust infrastructure management and
+  monitoring practices.
+  Managed container deployments using Docker, including Docker Hub administration and image management
+  across multiple registries. Implemented Kubernetes clusters with Helm charts to build scalable, resilient container
+  environments and streamline application deployments.
+  Automated system configurations and deployments with Ansible, Puppet, and Chef to reduce manual interventions.
+  Created and maintained infrastructure-as-code practices to ensure consistency across development, staging, and
+  production environments.
+  Administered Linux/Unix systems (RHEL, Ubuntu, CentOS) with focus on security and stability, including
+  managing Linux Containers and Docker implementations within DevOps workflows for efficient deployment and
+  scaling.
+  Provided comprehensive support across Linux, Windows, and macOS platforms while maintaining consistent
+  environments.
+  Managed network infrastructure including DNS, LDAP, Load Balancing, SMTP, and Firewall configurations to
+  maintain high availability and system performance. Implemented TCP/IP protocols and VPN solutions to strengthen
+  network security while ensuring reliable connectivity across all environments.
+  Worked with VMware virtualization technologies to optimize server infrastructure and resource management. Created
+  and maintained virtual machines and VMware appliances while implementing best practices for system performance
+  and availability.
+  Implemented and managed monitoring systems using Prometheus, Grafana, ELK Stack, AWS CloudWatch, and
+  Nagios to enhance system observability. Established proactive alert mechanisms and dashboards to identify
+  and resolve potential issues before impacting production systems.
+  Used APM tools including Dynatrace, New Relic, and AppDynamics to monitor and optimize application
+  performance. Created comprehensive monitoring strategies and troubleshooting workflows to improve system
+  efficiency and maintain optimal response times.
+  Developed automation scripts using Python, Bash, Ruby, Linux shell, and YAML to streamline routine operations.
+  Created reusable code libraries and automation frameworks to minimize manual interventions and improve team
+  productivity.
+  Participated in on-call rotations providing 24/7 support for critical systems and infrastructure. Created and
+  maintained detailed runbooks and Standard Operating Procedures (SOPs) to standardize incident response and
+  ensure consistent problem resolution.
+  Built and managed AWS cloud environments using EC2, S3, VPC, IAM, and Lambda services. Implemented
+  event-driven architectures using SQS, SNS, and CloudWatch to enable efficient asynchronous processing and
+  automated workflows.
+  Managed Azure cloud infrastructure including Azure Storage and Azure Virtual Machines. Implemented automated
+  deployment pipelines using Azure DevOps while ensuring security compliance and high availability of cloud
+  resources.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Network Security
+  ITEM  Storage
+  ITEM  Shell
+  ITEM  Docker
+  ITEM  Image
+  ITEM  Red Hat Enterprise Linux
+  ITEM  Synapse
+  ITEM  Linux
+  ITEM  Oracle
+  ITEM  Git
+  ITEM  Mac Os
+  ITEM  Software Testing
+  ITEM  Configuration Management
+  ITEM  Collaboration
+  ITEM  Cosmos
+  ITEM  Xiaohongshu
+  ITEM  Asynchronous Processing
+  ITEM  GAP
+  ITEM  Css
+  ITEM  Ruby
+  ITEM  ATOLL
+  ITEM  Data Processing
+  ITEM  Scripting
+  ITEM  Blue
+  ITEM  Machine Learning
+  ITEM  Routing
+  ITEM  Infrastructure As Code
+  ITEM  Ftp
+  ITEM  Operating Systems
+  ITEM  Development
+  ITEM  Tls
+  ITEM  Server
+  ITEM  Html
+  ITEM  Ssl
+  ITEM  Terraform
+  ITEM  Aws
+  ITEM  Firewall
+  ITEM  Shell Scripting
+  ITEM  OpenVMS
+  ITEM  MongoDB
+  ITEM  Healthcare
+  ITEM  Build Automation
+  ITEM  Python
+  ITEM  Ai
+  ITEM  Encryption
+  ITEM  Embedded
+  ITEM  Macos
+  ITEM  Apache
+  ITEM  Code Quality
+  ITEM  Transformation
+  ITEM  Configuration
+  ITEM  Frameworks
+  ITEM  Dns
+  ITEM  Virtualization
+  ITEM  Google Cloud Platform
+  ITEM  Monitoring
+  ITEM  Database
+  ITEM  Automated Testing
+  ITEM  Visualization
+  ITEM  Dataflow
+  ITEM  Jenkins
+  ITEM  Unix
+  ITEM  AppDynamics
+  ITEM  Optimization
+  ITEM  Integrity
+  ITEM  Tool
+  ITEM  Postgresql
+  ITEM  Ubuntu
+  ITEM  Amazon DynamoDB
+  ITEM  Data Access
+  ITEM  WEB
+  ITEM  chef
+  ITEM  Architecture
+  ITEM  Javascript
+  ITEM  Microsoft Azure
+  ITEM  Windows
+  ITEM  Api
+  ITEM  LXC
+  ITEM  Jira
+  ITEM  Grafana
+  ITEM  Access
+  ITEM  Sql
+  ITEM  Ansible
+  ITEM  Authentication
+  ITEM  Performance Optimization
+  ITEM  SOPs
+  ITEM  Web Services
+  ITEM  Version Control
+  ITEM  Enterprise
+  ITEM  Cloud
+  ITEM  Data Analysis
+  ITEM  Self
+  ITEM  Ssh
+  ITEM  Microservices
+  ITEM  Logging
+  ITEM  HIPAA
+  ITEM  Java
+  ITEM  Software
+  ITEM  ML
+  ITEM  Programming Languages
+  ITEM  Data Storage
+  ITEM  Testing
+  ITEM  Performance
+  ITEM  Kubernetes
+  ITEM  Maven
+  ITEM  Software Development
+  ITEM  .NET
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  UnitedHealth Group: June 2023 - Current (Location: Minnetonka, MN)
+  Site Reliability Engineer
+
+  Managed multi-cloud infrastructure across AWS, GCP, and Azure, including virtual machines (EC2, Compute Engine,
+  Azure VMs), cloud storage (S3, Cloud Storage, Azure Blob), and VPC/Virtual Networks to ensure efficient, scalable, and
+  cost-effective operations.
+  Built and implemented infrastructure automation using Terraform, CloudFormation, and Azure Resource Manager,
+  reducing system setup time by 50% and creating reusable templates for consistent deployments across environments.
+  Implemented Identity and Access Management (IAM) policies on all cloud platforms, establishing role-based access
+  control (RBAC) for 200+ users and ensuring HIPAA and industry compliance.
+  Set up and maintained serverless solutions: AWS Lambda, GCP Cloud Functions, Azure Functions, and
+  App Engine/Elastic Beanstalk, improving application performance and reducing operational overhead.
+  Migrated legacy applications to cloud-native and serverless architectures, achieving 40% faster response times
+  and eliminating server management overhead.
+  Configured load balancing across clouds (AWS ALB/NLB, GCP Load Balancers, Azure Load Balancer/Application
+  Gateway) to ensure high availability, optimized traffic distribution, and peak-load handling for critical healthcare and
+  financial applications.
+  Implemented failover and DNS management using Route 53, Cloud DNS, and Azure DNS to guarantee
+  continuous service during outages and maintain business continuity.
+  Applied cloud security best practices across AWS, GCP, and Azure, including firewall rules, VPC Service Controls, NSGs,
+  and monitoring to safeguard sensitive healthcare and financial data.
+  Used version control tools (Git, GitHub, BitBucket, AWS CodeCommit, Azure Repos) and implemented branching
+  strategies, code reviews, and CI/CD pipelines for multi-cloud environments.
+  Built and optimized CI/CD pipelines using Jenkins, GitHub Actions, AWS CodePipeline, Azure DevOps, and TeamCity
+  for Java, .NET, and Python applications, integrating SonarQube for automated code quality checks.
+  Developed custom scripts and automation using Python, Bash, PowerShell, and Groovy for environment provisioning,
+  compliance enforcement, and operational efficiency.
+  Implemented containerization and orchestration with Docker, Kubernetes, Amazon EKS, GKE, and Azure AKS, using
+  Helm charts and ArgoCD to streamline deployments and scale applications.
+  Set up auto-scaling policies for Kubernetes clusters across clouds to handle varying workloads and optimize cost and
+  performance.
+  Designed and built analytics and data pipelines with BigQuery, Redshift, Snowflake, and Azure Synapse, improving
+  processing times, reporting, and decision-making capabilities.
+  Developed ML and AI pipelines on Vertex AI, AWS SageMaker, and Azure ML to detect anomalies, automate predictions,
+  and improve operational reliability for healthcare and financial services.
+  Implemented monitoring, observability, and logging across all cloud platforms using Prometheus, Grafana, CloudWatch,
+  Azure Monitor, ELK Stack, Splunk, Dynatrace, and AppDynamics.
+  Designed and maintained hybrid and multi-cloud network architecture, including VPNs, Direct Connect,
+  ExpressRoute, Interconnect, and VPC peering, ensuring secure, low-latency connectivity between environments.
+  Implemented infrastructure-as-code best practices to maintain consistency, repeatability, and compliance across
+  development, staging, and production environments.
+  Managed large-scale backend APIs and application performance, implementing caching, optimization, and monitoring to
+  support growing user demand in healthcare and financial services.
+  Oversaw project management and release coordination using JIRA and Agile methodologies to ensure timely delivery of
+  multi-cloud deployments.
+  Conducted cost optimization and resource management across AWS, GCP, and Azure by rightsizing instances,
+  implementing reserved instances, and leveraging autoscaling, reducing overall cloud spend by 25–30%.
+  Established disaster recovery (DR) and business continuity plans using multi-region deployments, automated backups,
+  and failover strategies to achieve 99.9% uptime.
+  Implemented compliance and governance frameworks across clouds, ensuring adherence to HIPAA, SOC2, GDPR,
+  and other regulatory standards.
+  Built self-healing infrastructure with automated remediation scripts, health checks, and alerting mechanisms to minimize
+  downtime.
+  Integrated CI/CD pipelines with automated testing frameworks, including unit, integration, and security testing to
+  enforce high-quality releases.
+  Standardized multi-cloud logging and metrics aggregation to create a unified observability dashboard for improved
+  operational insights.
+  Led cloud migration initiatives for legacy applications, including assessment, re-architecture, and deployment to AWS,
+  Azure, and GCP.
+  Implemented role-based monitoring and alerting strategies to ensure proactive incident management and reduce MTTR
+  (Mean Time to Recovery).
+  Designed multi-cloud security posture management, including IAM reviews, key rotation policies, network segmentation,
+  and incident response playbooks.
+  Mentored and trained teams on cloud best practices, DevOps automation, and multi-cloud operations, increasing
+  team productivity and cloud adoption maturity.
+
+  Environment: AWS (EC2, S3, Lambda, VPC, Route 53, CloudWatch, CloudFormation, CodePipeline, EKS, Redshift,
+  SageMaker), GCP (Compute Engine, Cloud Storage, GKE, BigQuery, Cloud Functions, Cloud DNS, Vertex AI), Azure (VMs, Blob
+  Storage, AKS, Functions, Azure DNS, Synapse, Azure ML), Terraform, Docker, Kubernetes, Helm, Ansible, Puppet, Jenkins,
+  GitHub Actions, Python, Bash, PowerShell, SonarQube, Dynatrace, Prometheus, ELK, Splunk, ServiceNow
+
+  Wells Fargo: August 2020 - May 2023 (Location: San Francisco, CA)
+  Site Reliability Engineer
+  Built and maintained cloud solutions using Google Cloud Platform (GCP) services, including Compute Engine, Cloud
+  Functions, Cloud DNS, Cloud Storage, while implementing SaaS, PaaS, and IaaS deployment models. These solutions
+  supported critical banking operations and improved the efficiency of financial data processing.
+  Transferred existing banking applications to GCP and managed core services including Compute Engine, Cloud
+  Storage, BigQuery, VPC, Stackdriver, Load Balancing, and IAM. This migration enhanced the scalability and security of
+  financial services while ensuring compliance with banking regulations.
+  Set up and managed GCP storage systems, implementing Cloud Storage buckets for object storage and Persistent
+  Disk for block storage to meet various data storage and access requirements. These storage solutions were optimized
+  for handling sensitive financial data and ensuring quick access to customer information.
+  Maintained GCP environments and managed Google Kubernetes Engine (GKE) workloads, ensuring reliable
+  operations and effective scaling, which resulted in a 25% improvement in banking application performance. This
+  enhancement significantly improved customer experience for online banking services.
+  Improved Google Kubernetes Engine (GKE) clusters in GCP by implementing automatic node scaling and resource
+  management, resulting in 20% cost reduction. Worked with development teams to resolve issues and optimize GKE
+  workloads in GCP, maintaining continuous availability of critical financial systems.
+  Set up and managed private VPC networks and firewall rules in GCP to establish secure service connections and
+  separate environments. This implementation ensured the isolation of sensitive financial data and compliance with strict
+  banking security standards.
+  Implemented Vertex AI Pipelines for workflow automation, enhancing repeatability and speeding up deployment of
+  machine learning models managed in Vertex AI. These models were used for fraud detection and risk assessment in
+  banking operations.
+  Managed and analyzed large-scale financial data using GCP's BigQuery and Cloud Storage, improving query efficiency
+  and minimizing storage expenses. This optimization allowed for faster processing of transaction data and improved
+  real-time financial reporting.
+  Created automated systems for data ingestion and transformation workflows, reducing manual data handling time by
+  50% and improving pipeline efficiency. Streamlined data processing by implementing automated quality checks and
+  validation procedures for financial data accuracy.
+  Used VPC Flow Logs and Cloud Monitoring to track and enhance network performance, successfully reducing packet
+  loss and improving system response times for banking transactions. Implemented proactive monitoring alerts to identify
+  and address potential network bottlenecks in the financial system infrastructure.
+  Built and deployed custom LookML models in Looker to enhance query speed and establish standardized metrics,
+  enabling consistent reporting capabilities across different banking departments. Created modular LookML code to
+  improve maintainability and reduce duplicate development efforts in financial reporting.
+  Integrated Looker's embedded analytics capabilities to build interactive dashboards for external stakeholders, ensuring
+  secure data access while meeting compliance requirements for financial reporting. Developed customized visualization
+  templates to meet specific reporting needs across different banking units.
+  Identified and resolved network issues including IP address conflicts, firewall rule misconfigurations, and VPC routing
+  problems to maintain reliable communication between banking services. Established systematic troubleshooting
+  procedures to minimize service disruptions and improve recovery time for critical financial systems.
+  Maintained and resolved critical issues in GKE workloads on GCP through comprehensive monitoring and diagnostics
+  of banking applications. Provided rapid incident response and implemented proactive system checks to enhance
+  operational stability and overall reliability metrics of financial services.
+  Set up and managed GCP security through Cloud Armor implementation, focusing on robust DDoS attack prevention
+  and mitigation for banking infrastructure. Strengthened multi-layer security controls across GCP security infrastructure
+  while establishing automated threat response protocols to protect sensitive financial data.
+  Built and optimized GCP security monitoring systems using Security Command Center for comprehensive threat
+  visibility across banking infrastructure. Configured automated security responses and alert mechanisms throughout
+  GCP security infrastructure, leading to faster detection and response times for potential financial fraud attempts.
+  Connected GCP Load Balancers with Managed Instance Groups to enable intelligent traffic distribution and handling for
+  high-volume banking transactions. Implemented dynamic auto-scaling rules based on real-time transaction patterns and
+  resource utilization metrics to optimize performance and cost efficiency during peak banking hours.
+  Set up and operated GKE clusters on GCP with emphasis on high availability and fault tolerance for critical banking
+  services. Implemented comprehensive stability measures including automated proxy management, failover strategies,
+  and blue-green deployment methods to ensure seamless application updates with minimal impact on customer-facing
+  financial services.
+  Created and refined application failover systems within GKE to handle service transitions during critical incidents and
+  maintenance windows for banking platforms. Established automated health checks and failover triggers that improved
+  system resilience and achieved 99.9% uptime across all banking services.
+  Monitored and improved network performance for GCP VPC, meticulously configuring proxy settings, routing tables,
+  and VPC peering to enhance cross-region communication efficiency for distributed banking operations. Established
+  robust network redundancy to ensure continuous service availability for global financial transactions.
+  Implemented automated DNS record management through Terraform, creating consistent configurations across multiple
+  banking environments and accelerating domain provisioning processes. This automation improved the reliability and
+  speed of updates to banking websites and online services.
+  Conducted comprehensive monitoring of DNS performance and usage, proactively identifying latency bottlenecks and
+  optimizing DNS configurations to achieve faster, more reliable domain lookups for banking applications. This
+  optimization resulted in improved response times for customer-facing web services.
+  Developed operational resilience strategies using Load Balancing within GKE, ensuring optimal traffic distribution and
+  intelligent resource allocation for high-traffic banking applications. This implementation significantly improved the
+  stability of online banking platforms during peak usage periods.
+  Deployed Load Balancers for hybrid cloud infrastructure, effectively routing traffic between on-premise legacy systems
+  and GCP environments to create seamless, integrated network connectivity. This solution enabled a smooth transition
+  of banking services to the cloud while maintaining operations on existing infrastructure.
+  Automated infrastructure deployment using Terraform, developing custom Terraform modules that enable scalable GCP
+  resource management for banking systems. Enforced infrastructure-as-code best practices to minimize operational
+  risks and ensure consistency across development, testing, and production environments for financial applications.
+
+  Environment: GCP, GKE, Azure, Chef, Puppet, Docker, Kubernetes, Isto, Jenkins, PowerShell, Python, Bash, GitHub, CI/CD,
+  App dynamics, Grafana, Prometheus, Dynatrace, ELK, MongoDB, VPC S, DNS, ARO, IAM, ServiceNow.
+
+  Workday: October 2017 - July 2020 (Location: Pleasanton, CA)
+  Cloud DevOps Engineer
+  Implemented and managed Google Cloud Platform (GCP) services using Terraform for infrastructure as code,
+  including Compute Engine, Cloud Storage, and Kubernetes Engine. This infrastructure supported critical HR and
+  finance applications, ensuring scalability and reliability for enterprise clients.
+  Supported infrastructure-as-a-service (IaaS) environments on GCP, managing both Linux and Windows virtual machines
+  to maintain high performance and security. These environments hosted core business applications, enabling seamless
+  integration of HR and financial data across the platform.
+  Established cross-region load balancing configurations to enable automatic traffic routing to healthy regions during service
+  outages. This setup ensured continuous availability of HR and payroll services for global clients across different time
+  zones.
+  Managed Domain Name System (DNS) zones and records using Google Cloud DNS, optimizing fast and secure domain
+  resolution for cloud-based services. This configuration improved access times for client-facing portals and internal tools.
+  Created private DNS zones for internal services, enabling secure and efficient address resolution within virtual private
+  cloud (VPC) networks. This setup enhanced the security of sensitive HR and financial data while maintaining efficient
+  internal communications.
+  Utilized source code management tools including Git for version control and Bitbucket for repository hosting. These
+  practices improved collaboration among development teams working on various modules of the HR and finance platform.
+  Configured Jenkins with Git to automate code checkout using Poll SCM functionality and set up Tomcat application
+  servers for deployment processes. This automation streamlined the release process for regular updates to the HR and
+  finance software suite.
+  Managed multiple Kubernetes Engine (GKE) clusters in Google Cloud Platform (GCP), enabling efficient
+  cross-environment communication. This setup supported the microservices architecture of the HR and finance platform,
+  allowing for independent scaling of different components.
+  Enhanced network configurations for GKE workloads in GCP, resulting in a 20% improvement in latency and
+  cross-service communication effectiveness. These optimizations improved the responsiveness of HR and payroll
+  processing systems during peak usage periods.
+  Diagnosed and resolved complex technical challenges in GKE environments, minimizing system downtime and
+  maintaining high service reliability. This proactive approach ensured consistent availability of critical HR and finance
+  services for enterprise clients.
+
+  Created and implemented a comprehensive CI/CD pipeline within Kubernetes, automating deployment processes and
+  reducing deployment time by 50%. This improvement allowed for more frequent updates to the HR and finance platform
+  without disrupting client operations.
+  Connected Jira and Confluence to establish streamlined communication between project tasks and documentation.
+  This integration improved visibility and coordination across development, QA, and operations teams working on
+  different aspects of the HR and finance software.
+  Developed flexible, modular Terraform modules to consistently deploy infrastructure across multiple GCP environments.
+  This approach standardized the deployment of HR and finance applications across development, staging, and production
+  environments.
+  Conducted a comprehensive migration of applications and infrastructure from on-premises environments to Google Cloud
+  Platform (GCP). This migration improved the scalability and performance of HR and finance services for enterprise
+  clients.
+  Designed and implemented GCP Virtual Private Cloud (VPC) configurations, including VPC Peering and load balancing
+  mechanisms. These configurations ensured secure and reliable network connectivity for client data across the HR and
+  finance platform.
+  Managed and optimized Google Cloud Storage (GCS) Buckets, ensuring robust data availability and performance across
+  multiple geographic regions. This setup supported efficient storage and retrieval of HR documents and financial records
+  for global clients.
+  Implemented and managed Dataproc clusters for real-time data processing, creating integrated data pipelines with
+  Google Cloud Storage and BigQuery. These pipelines improved the speed and accuracy of payroll processing and
+  financial reporting for large-scale organizations.
+  Developed comprehensive experience in release management, incident management, and production troubleshooting.
+  This expertise ensured smooth operations and quick resolution of issues for the HR and finance platform, minimizing
+  disruptions to client business processes.
+  Implemented cloud infrastructure deployment and management using Ansible Tower, Jenkins, and Google Cloud
+  Build. These tools established automated and streamlined deployment processes for the HR and finance software
+  suite, enabling rapid delivery of new features and updates.
+  Environment: GCP, GitHub, Maven, Docker, UI, Jenkins, Java, HTML, Python, Unix, Linux, Terraform, Kubernetes,
+  AppDynamics, Dynatrace, Grafana, Splunk, Apache, Tomcat, Prometheus, Kafka, Blue-green, canary.
+
+  Allstate: January 2016 - September 2017 (Location: Northbrook, IL)
+  DevOps Engineer
+
+  Designed and managed cloud solutions across AWS and Azure platforms, successfully deploying secure and scalable
+  insurance applications. Utilized critical services including AWS EC2, S3, RDS, Azure Virtual Machines, Blob Storage,
+  and Azure SQL Database to support robust policy management and claims processing systems.
+  Enhanced Software Development Life Cycle (SDLC) by implementing integration with Jenkins, GitHub Actions, and
+  Azure DevOps for CI/CD pipelines. This automation reduced release cycles for insurance product updates by 25%,
+  enabling faster market responses to changing customer needs.
+  Advanced DevOps methodologies through automated infrastructure provisioning and configuration management using
+  Ansible playbooks, integrated with Git version control. Orchestrated deployments via Jenkins to streamline CI/CD
+  workflows, improving deployment efficiency of insurance applications by 30%.
+  Managed software artifact repositories using JFrog/Nexus Artifactory to ensure efficient storage, version control, and
+  distribution across multiple environments. This approach facilitated seamless updates to policy management and
+  claims processing software across development, testing, and production environments.
+  Streamlined administrative tasks with Groovy scripts in AWS, reducing manual efforts in insurance data processing by
+  20%. Generated Agile metrics in JIRA to drive data-driven decisions for team performance and productivity optimization
+  in insurance product development cycles.
+  Administered MySQL and MongoDB databases on AWS RDS and Azure Cosmos DB, maintaining high availability for
+  critical insurance data. Performed crucial performance tuning and implemented automated backup strategies for
+  scalable and secure management of policyholder information and claims data.
+  Implemented robust access management by configuring Identity and Access Management (IAM) roles and policies in
+  AWS and Azure. Deployed SSL certificates for encryption and enforced Role-Based Access Control (RBAC) to ensure
+  fine-grained security controls for sensitive insurance data and applications.
+  Utilized AWS Key Management Service (KMS) and Azure Key Vault for comprehensive key management in insurance
+  data systems. Developed disaster recovery strategies and network security configurations to guarantee system security
+  and regulatory compliance for insurance operations.
+  Created and automated infrastructure management scripts using Shell and Python to efficiently handle resources
+  across AWS and Azure environments. This automation reduced manual intervention in insurance IT operations by 40%,
+  enabling seamless cloud operations for policy and claims management systems.
+  Implemented comprehensive multi-cloud observability and performance monitoring through Datadog and New Relic for
+  insurance applications. Developed custom dashboards to track critical AWS metrics including CPU utilization, memory
+  consumption, and latency for insurance data processing systems.
+  Utilized AWS CloudWatch for real-time monitoring and alerting of insurance application performance. This proactive
+  approach ensured quick issue resolution and optimal system performance for policyholder services and claims
+  processing.
+  Designed and implemented a scalable microservices architecture for the company's core insurance products. This
+  modernization improved system flexibility and allowed for faster deployment of new insurance features and products.
+  Developed a robust disaster recovery plan leveraging AWS and Azure's multi-region capabilities. This strategy ensured
+  business continuity for critical insurance operations in the event of regional outages or disasters.
+  Implemented container orchestration using Kubernetes on AWS EKS and Azure AKS for insurance application
+  deployments. This approach improved resource utilization and enabled more efficient scaling of insurance services
+  during peak claim periods.
+  Designed and deployed a data lake solution using AWS S3 and Azure Data Lake Storage. This implementation
+  enhanced the company's ability to perform advanced analytics on large volumes of insurance data, improving risk
+  assessment and pricing strategies.
+  Environment: Aws, Azure, CI/CD, Git, Jfrog Artifact, JIRA, Ansible playbook, Jenkins pipeline, DevOps methodologies,
+  MySQL, MongoDB, AWS RDS, AWS CloudWatch, IAM, New Relic, Datadog, Shell scripting, Python.
+
+  Opel Soft: August 2014 - November 2015 (Location: Bangalore, India)
+  Linux Administrator / System Engineer
+
+  Administered and automated Linux/Unix environments, specifically Red Hat Enterprise Linux (RHEL), using Bash and
+  Python scripts to enhance operational efficiency by 25%. This automation streamlined system management for software
+  development environments, reducing manual intervention in daily IT operations.
+  Managed complex system configurations, including Logical Volume Management (LVM) setups, to optimize storage and
+  backup processes for large-scale software projects. Successfully reduced system downtime by 30% through strategic
+  volume management and efficient data organization, ensuring continuous availability of development and testing
+  environments.
+  Configured and maintained critical network services including DHCP, DNS, and FTP, while implementing robust security
+  protocols such as SSL/TLS and IPSec. These efforts ensured secure and reliable network operations across the software
+  development infrastructure, supporting seamless collaboration among distributed development teams.
+  Implemented high availability solutions using Red Hat Clusters and HAProxy, significantly improving system uptime and
+  minimizing service interruptions by 40%. This setup ensured continuous operational reliability for critical development
+  tools and services, supporting round-the-clock software development activities.
+  Developed automated backup strategies and scheduled cron jobs for comprehensive disaster recovery, maintaining data
+  integrity of source code repositories and development databases. Implemented extensive system hardening techniques
+  that strengthened security infrastructure and reduced system vulnerabilities by 40%, safeguarding intellectual property
+  and sensitive project data.
+  Performed advanced kernel parameter tuning to optimize system performance, increasing reliability and responsiveness
+  in high-demand computing environments. This optimization supported resource-intensive software compilation and testing
+  processes, improving overall development efficiency.
+  Managed user and group permissions with SSH key authentication, implementing fine-grained access controls to secure
+  server environments. This approach protected critical system resources and ensured appropriate access levels for
+  different roles within the software development teams.
+  Executed regular system maintenance by patching and updating Linux servers using RPM, YUM, and APT package
+  management tools, maintaining system stability. This proactive approach reduced potential security vulnerabilities in the
+  development infrastructure, ensuring a secure environment for software creation and testing.
+  Configured Apache and Nginx web servers to ensure scalable, secure, and efficient service delivery for mission-critical
+  applications. This optimization of web infrastructure performance supported the deployment and testing of web-based
+  software projects, enabling seamless integration and user acceptance testing.
+  Integrated Oracle databases with Linux environments, providing comprehensive database administration and
+  performance optimization for software development and testing. Deployed and managed virtual environments using
+  VMware and KVM, improving resource utilization and scalability across multiple development and staging environments,
+  facilitating efficient software testing and deployment processes.
+  Environment: Red Hat Enterprise Linux, Bash, Python, Logical Volume Manager, Red Hat Cluster Servers, Oracle, MySQL,
+  DNS, DHCP, FTP.
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  EMPTY
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  Sastra University - Bachelor of Technology- Computer Science | Year : July 2010 - June 2014
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  NULL
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  Yaswanth P
+  470-377-2519 | yaswanthp975@gmail.com | www.linkedin.com/in/yaswanth-k-90976b37b
+  PROFESSIONAL SUMMARY
+  With over 10 years in IT, I've focused on Site Reliability Engineering, DevOps, Cloud Engineering, and Linux Administration. I
+  have hands-on experience in Build Automation, CI/CD pipelines, Orchestration, Containerization, and Configuration
+  Management. My core skills include Linux/Unix system administration combined with cloud platform expertise across AWS,
+  Azure, and Google Cloud.
+  Built and maintained comprehensive CI/CD pipelines using DevOps tools to streamline development workflows.
+  Automated testing, deployment, and monitoring processes while ensuring code quality and supporting agile
+  development practices.
+  Designed and implemented auto-scaling and load balancing solutions on AWS (EC2, ELB, Auto Scaling Groups) to
+  ensure high availability and optimized resource usage.
+  Built serverless architectures using AWS Lambda, API Gateway, and DynamoDB to reduce operational overhead
+  and improve efficiency.
+  Implemented AWS CloudFormation stacks for repeatable, automated infrastructure provisioning across multiple
+  environments.
+  Leveraged AWS Security services (GuardDuty, KMS, Security Groups) to strengthen cloud security and
+  meet compliance requirements.
+  Managed AWS networking components (VPC peering, Transit Gateway, Route 53) to support secure, multi-region
+  architectures.
+  Configured and managed Azure Kubernetes Service (AKS) clusters, enabling containerized workloads with
+  auto-scaling and integrated monitoring.
+  Deployed applications on Azure App Services and managed Azure Functions for event-driven processing.
+  Implemented Azure Monitor and Log Analytics for end-to-end observability and incident troubleshooting.
+  Built automated workflows with Azure DevOps Pipelines, integrating CI/CD with infrastructure deployments.
+  Administered Azure Active Directory (AD) for identity and access management, integrating SSO and RBAC across
+  services.
+  Implemented Google Cloud Platform services including Compute Engine, Kubernetes Engine (GKE), Storage bucket,
+  Artifact registry, secret manager, and Cloud SQL. Set up infrastructure to maximize availability, scalability, and system
+  reliability.
+  Created complex data visualizations and reports using Looker, developing custom dashboards and LookML models
+  to improve data analysis and decision-making processes.
+  Used BigQuery ML to build and implement predictive analytics solutions and machine learning models. Integrated ML
+  models within BigQuery to improve data processing speed, enhance performance metrics, and deliver data-driven
+  business solutions.
+  Managed complete machine learning workflows on Vertex AI platform, implementing ML pipelines and AutoML
+  features. Optimized model performance through hyperparameter tuning and established efficient deployment
+  processes for production environments.
+  Deployed and maintained Kubernetes clusters on Google Kubernetes Engine (GKE) to support large-scale container
+  operations. Set up automatic scaling, implemented comprehensive monitoring systems, and resolved complex issues
+  in containerized environments while ensuring high availability and optimal performance.
+  Automated cloud infrastructure using Terraform and CloudFormation, resulting in 40% faster deployments.
+  Maintained mission-critical applications with 99.9% uptime through robust infrastructure management and
+  monitoring practices.
+  Managed container deployments using Docker, including Docker Hub administration and image management
+  across multiple registries. Implemented Kubernetes clusters with Helm charts to build scalable, resilient container
+  environments and streamline application deployments.
+  Automated system configurations and deployments with Ansible, Puppet, and Chef to reduce manual interventions.
+  Created and maintained infrastructure-as-code practices to ensure consistency across development, staging, and
+  production environments.
+  Administered Linux/Unix systems (RHEL, Ubuntu, CentOS) with focus on security and stability, including
+  managing Linux Containers and Docker implementations within DevOps workflows for efficient deployment and
+  scaling.
+  Provided comprehensive support across Linux, Windows, and macOS platforms while maintaining consistent
+  environments.
+  Managed network infrastructure including DNS, LDAP, Load Balancing, SMTP, and Firewall configurations to
+  maintain high availability and system performance. Implemented TCP/IP protocols and VPN solutions to strengthen
+  network security while ensuring reliable connectivity across all environments.
+  Worked with VMware virtualization technologies to optimize server infrastructure and resource management. Created
+  and maintained virtual machines and VMware appliances while implementing best practices for system performance
+  and availability.
+  Implemented and managed monitoring systems using Prometheus, Grafana, ELK Stack, AWS CloudWatch, and
+  Nagios to enhance system observability. Established proactive alert mechanisms and dashboards to identify
+  and resolve potential issues before impacting production systems.
+  Used APM tools including Dynatrace, New Relic, and AppDynamics to monitor and optimize application
+  performance. Created comprehensive monitoring strategies and troubleshooting workflows to improve system
+  efficiency and maintain optimal response times.
+  Developed automation scripts using Python, Bash, Ruby, Linux shell, and YAML to streamline routine operations.
+  Created reusable code libraries and automation frameworks to minimize manual interventions and improve team
+  productivity.
+  Participated in on-call rotations providing 24/7 support for critical systems and infrastructure. Created and
+  maintained detailed runbooks and Standard Operating Procedures (SOPs) to standardize incident response and
+  ensure consistent problem resolution.
+  Built and managed AWS cloud environments using EC2, S3, VPC, IAM, and Lambda services. Implemented
+  event-driven architectures using SQS, SNS, and CloudWatch to enable efficient asynchronous processing and
+  automated workflows.
+  Managed Azure cloud infrastructure including Azure Storage and Azure Virtual Machines. Implemented automated
+  deployment pipelines using Azure DevOps while ensuring security compliance and high availability of cloud
+  resources.
+
+  TECHNICAL SKILLS
+
+  Cloud Platforms: AWS, GCP, AZURE
+  Build Tools: Maven, ANT, Gradle
+  Operating Systems: Red Hat Linux, CentOS, Ubuntu, Windows, VMware and Mac OS.
+  Web/ Application Servers: Apache Tomcat, Nginx, JBoss, WebLogic, WildFly.
+  Databases: MySQL, PostgreSQL, MongoDB, RDS, DynamoDB, Azure SQL Database
+  Version Control Tools: Git, SVN, GitHub, Bitbucket
+  Iaac &Configuration Management: Terraform, Ansible, Chef, Puppet
+  CI/CD Tools: Jenkins, TeamCity, GitHub Actions, GitLab, XL Release, AWS Code deploy
+  Container Tools: Kubernetes, Docker, OpenShift, ARO
+  Monitoring & Logging Tools: Prometheus, Grafana, AWS CloudWatch, ELK Stack, Splunk
+  APM Tools: App Dynamics, Data Dog, New Relic
+  Scripting & Programming Languages: Java, Python, Ruby, Bash, PowerShell, JavaScript, HTML/CSS, JSP
+  Artifactory Management Tools: JFrog Artifactory, Nexus
+  Bug Tracking & Testing tools: JIRA, JUnit
+  Code Quality control tool: SonarQube, Checkmark
+  Other tools: Kafka, ServiceNow
+  Networking & Security: Load Balancers (AWS ELB/ALB, NGINX, HAProxy),DNS (Route 53, Azure DNS, GCP Cloud DNS)
+  ,VPNs, Firewalls, Security Groups, WAF, IAM, Key Vault, KMS,SSL/TLS Certificates, OAuth2, SAML.
+  Data & Analytics Tools:BigQuery, Looker, Databricks, Snowflake, Redshift,ETL Tools (Airflow, Glue, Dataflow).
+  Machine Learning & AI Platforms:Vertex AI (GCP), SageMaker (AWS), Azure ML,BigQuery ML, AutoML, MLflow
+
+  PROFESSIONAL EXPERIENCE
+
+  UnitedHealth Group: June 2023 - Current (Location: Minnetonka, MN)
+  Site Reliability Engineer
+
+  Managed multi-cloud infrastructure across AWS, GCP, and Azure, including virtual machines (EC2, Compute Engine,
+  Azure VMs), cloud storage (S3, Cloud Storage, Azure Blob), and VPC/Virtual Networks to ensure efficient, scalable, and
+  cost-effective operations.
+  Built and implemented infrastructure automation using Terraform, CloudFormation, and Azure Resource Manager,
+  reducing system setup time by 50% and creating reusable templates for consistent deployments across environments.
+  Implemented Identity and Access Management (IAM) policies on all cloud platforms, establishing role-based access
+  control (RBAC) for 200+ users and ensuring HIPAA and industry compliance.
+  Set up and maintained serverless solutions: AWS Lambda, GCP Cloud Functions, Azure Functions, and
+  App Engine/Elastic Beanstalk, improving application performance and reducing operational overhead.
+  Migrated legacy applications to cloud-native and serverless architectures, achieving 40% faster response times
+  and eliminating server management overhead.
+  Configured load balancing across clouds (AWS ALB/NLB, GCP Load Balancers, Azure Load Balancer/Application
+  Gateway) to ensure high availability, optimized traffic distribution, and peak-load handling for critical healthcare and
+  financial applications.
+  Implemented failover and DNS management using Route 53, Cloud DNS, and Azure DNS to guarantee
+  continuous service during outages and maintain business continuity.
+  Applied cloud security best practices across AWS, GCP, and Azure, including firewall rules, VPC Service Controls, NSGs,
+  and monitoring to safeguard sensitive healthcare and financial data.
+  Used version control tools (Git, GitHub, BitBucket, AWS CodeCommit, Azure Repos) and implemented branching
+  strategies, code reviews, and CI/CD pipelines for multi-cloud environments.
+  Built and optimized CI/CD pipelines using Jenkins, GitHub Actions, AWS CodePipeline, Azure DevOps, and TeamCity
+  for Java, .NET, and Python applications, integrating SonarQube for automated code quality checks.
+  Developed custom scripts and automation using Python, Bash, PowerShell, and Groovy for environment provisioning,
+  compliance enforcement, and operational efficiency.
+  Implemented containerization and orchestration with Docker, Kubernetes, Amazon EKS, GKE, and Azure AKS, using
+  Helm charts and ArgoCD to streamline deployments and scale applications.
+  Set up auto-scaling policies for Kubernetes clusters across clouds to handle varying workloads and optimize cost and
+  performance.
+  Designed and built analytics and data pipelines with BigQuery, Redshift, Snowflake, and Azure Synapse, improving
+  processing times, reporting, and decision-making capabilities.
+  Developed ML and AI pipelines on Vertex AI, AWS SageMaker, and Azure ML to detect anomalies, automate predictions,
+  and improve operational reliability for healthcare and financial services.
+  Implemented monitoring, observability, and logging across all cloud platforms using Prometheus, Grafana, CloudWatch,
+  Azure Monitor, ELK Stack, Splunk, Dynatrace, and AppDynamics.
+  Designed and maintained hybrid and multi-cloud network architecture, including VPNs, Direct Connect,
+  ExpressRoute, Interconnect, and VPC peering, ensuring secure, low-latency connectivity between environments.
+  Implemented infrastructure-as-code best practices to maintain consistency, repeatability, and compliance across
+  development, staging, and production environments.
+  Managed large-scale backend APIs and application performance, implementing caching, optimization, and monitoring to
+  support growing user demand in healthcare and financial services.
+  Oversaw project management and release coordination using JIRA and Agile methodologies to ensure timely delivery of
+  multi-cloud deployments.
+  Conducted cost optimization and resource management across AWS, GCP, and Azure by rightsizing instances,
+  implementing reserved instances, and leveraging autoscaling, reducing overall cloud spend by 25–30%.
+  Established disaster recovery (DR) and business continuity plans using multi-region deployments, automated backups,
+  and failover strategies to achieve 99.9% uptime.
+  Implemented compliance and governance frameworks across clouds, ensuring adherence to HIPAA, SOC2, GDPR,
+  and other regulatory standards.
+  Built self-healing infrastructure with automated remediation scripts, health checks, and alerting mechanisms to minimize
+  downtime.
+  Integrated CI/CD pipelines with automated testing frameworks, including unit, integration, and security testing to
+  enforce high-quality releases.
+  Standardized multi-cloud logging and metrics aggregation to create a unified observability dashboard for improved
+  operational insights.
+  Led cloud migration initiatives for legacy applications, including assessment, re-architecture, and deployment to AWS,
+  Azure, and GCP.
+  Implemented role-based monitoring and alerting strategies to ensure proactive incident management and reduce MTTR
+  (Mean Time to Recovery).
+  Designed multi-cloud security posture management, including IAM reviews, key rotation policies, network segmentation,
+  and incident response playbooks.
+  Mentored and trained teams on cloud best practices, DevOps automation, and multi-cloud operations, increasing
+  team productivity and cloud adoption maturity.
+
+  Environment: AWS (EC2, S3, Lambda, VPC, Route 53, CloudWatch, CloudFormation, CodePipeline, EKS, Redshift,
+  SageMaker), GCP (Compute Engine, Cloud Storage, GKE, BigQuery, Cloud Functions, Cloud DNS, Vertex AI), Azure (VMs, Blob
+  Storage, AKS, Functions, Azure DNS, Synapse, Azure ML), Terraform, Docker, Kubernetes, Helm, Ansible, Puppet, Jenkins,
+  GitHub Actions, Python, Bash, PowerShell, SonarQube, Dynatrace, Prometheus, ELK, Splunk, ServiceNow
+
+  Wells Fargo: August 2020 - May 2023 (Location: San Francisco, CA)
+  Site Reliability Engineer
+  Built and maintained cloud solutions using Google Cloud Platform (GCP) services, including Compute Engine, Cloud
+  Functions, Cloud DNS, Cloud Storage, while implementing SaaS, PaaS, and IaaS deployment models. These solutions
+  supported critical banking operations and improved the efficiency of financial data processing.
+  Transferred existing banking applications to GCP and managed core services including Compute Engine, Cloud
+  Storage, BigQuery, VPC, Stackdriver, Load Balancing, and IAM. This migration enhanced the scalability and security of
+  financial services while ensuring compliance with banking regulations.
+  Set up and managed GCP storage systems, implementing Cloud Storage buckets for object storage and Persistent
+  Disk for block storage to meet various data storage and access requirements. These storage solutions were optimized
+  for handling sensitive financial data and ensuring quick access to customer information.
+  Maintained GCP environments and managed Google Kubernetes Engine (GKE) workloads, ensuring reliable
+  operations and effective scaling, which resulted in a 25% improvement in banking application performance. This
+  enhancement significantly improved customer experience for online banking services.
+  Improved Google Kubernetes Engine (GKE) clusters in GCP by implementing automatic node scaling and resource
+  management, resulting in 20% cost reduction. Worked with development teams to resolve issues and optimize GKE
+  workloads in GCP, maintaining continuous availability of critical financial systems.
+  Set up and managed private VPC networks and firewall rules in GCP to establish secure service connections and
+  separate environments. This implementation ensured the isolation of sensitive financial data and compliance with strict
+  banking security standards.
+  Implemented Vertex AI Pipelines for workflow automation, enhancing repeatability and speeding up deployment of
+  machine learning models managed in Vertex AI. These models were used for fraud detection and risk assessment in
+  banking operations.
+  Managed and analyzed large-scale financial data using GCP's BigQuery and Cloud Storage, improving query efficiency
+  and minimizing storage expenses. This optimization allowed for faster processing of transaction data and improved
+  real-time financial reporting.
+  Created automated systems for data ingestion and transformation workflows, reducing manual data handling time by
+  50% and improving pipeline efficiency. Streamlined data processing by implementing automated quality checks and
+  validation procedures for financial data accuracy.
+  Used VPC Flow Logs and Cloud Monitoring to track and enhance network performance, successfully reducing packet
+  loss and improving system response times for banking transactions. Implemented proactive monitoring alerts to identify
+  and address potential network bottlenecks in the financial system infrastructure.
+  Built and deployed custom LookML models in Looker to enhance query speed and establish standardized metrics,
+  enabling consistent reporting capabilities across different banking departments. Created modular LookML code to
+  improve maintainability and reduce duplicate development efforts in financial reporting.
+  Integrated Looker's embedded analytics capabilities to build interactive dashboards for external stakeholders, ensuring
+  secure data access while meeting compliance requirements for financial reporting. Developed customized visualization
+  templates to meet specific reporting needs across different banking units.
+  Identified and resolved network issues including IP address conflicts, firewall rule misconfigurations, and VPC routing
+  problems to maintain reliable communication between banking services. Established systematic troubleshooting
+  procedures to minimize service disruptions and improve recovery time for critical financial systems.
+  Maintained and resolved critical issues in GKE workloads on GCP through comprehensive monitoring and diagnostics
+  of banking applications. Provided rapid incident response and implemented proactive system checks to enhance
+  operational stability and overall reliability metrics of financial services.
+  Set up and managed GCP security through Cloud Armor implementation, focusing on robust DDoS attack prevention
+  and mitigation for banking infrastructure. Strengthened multi-layer security controls across GCP security infrastructure
+  while establishing automated threat response protocols to protect sensitive financial data.
+  Built and optimized GCP security monitoring systems using Security Command Center for comprehensive threat
+  visibility across banking infrastructure. Configured automated security responses and alert mechanisms throughout
+  GCP security infrastructure, leading to faster detection and response times for potential financial fraud attempts.
+  Connected GCP Load Balancers with Managed Instance Groups to enable intelligent traffic distribution and handling for
+  high-volume banking transactions. Implemented dynamic auto-scaling rules based on real-time transaction patterns and
+  resource utilization metrics to optimize performance and cost efficiency during peak banking hours.
+  Set up and operated GKE clusters on GCP with emphasis on high availability and fault tolerance for critical banking
+  services. Implemented comprehensive stability measures including automated proxy management, failover strategies,
+  and blue-green deployment methods to ensure seamless application updates with minimal impact on customer-facing
+  financial services.
+  Created and refined application failover systems within GKE to handle service transitions during critical incidents and
+  maintenance windows for banking platforms. Established automated health checks and failover triggers that improved
+  system resilience and achieved 99.9% uptime across all banking services.
+  Monitored and improved network performance for GCP VPC, meticulously configuring proxy settings, routing tables,
+  and VPC peering to enhance cross-region communication efficiency for distributed banking operations. Established
+  robust network redundancy to ensure continuous service availability for global financial transactions.
+  Implemented automated DNS record management through Terraform, creating consistent configurations across multiple
+  banking environments and accelerating domain provisioning processes. This automation improved the reliability and
+  speed of updates to banking websites and online services.
+  Conducted comprehensive monitoring of DNS performance and usage, proactively identifying latency bottlenecks and
+  optimizing DNS configurations to achieve faster, more reliable domain lookups for banking applications. This
+  optimization resulted in improved response times for customer-facing web services.
+  Developed operational resilience strategies using Load Balancing within GKE, ensuring optimal traffic distribution and
+  intelligent resource allocation for high-traffic banking applications. This implementation significantly improved the
+  stability of online banking platforms during peak usage periods.
+  Deployed Load Balancers for hybrid cloud infrastructure, effectively routing traffic between on-premise legacy systems
+  and GCP environments to create seamless, integrated network connectivity. This solution enabled a smooth transition
+  of banking services to the cloud while maintaining operations on existing infrastructure.
+  Automated infrastructure deployment using Terraform, developing custom Terraform modules that enable scalable GCP
+  resource management for banking systems. Enforced infrastructure-as-code best practices to minimize operational
+  risks and ensure consistency across development, testing, and production environments for financial applications.
+
+  Environment: GCP, GKE, Azure, Chef, Puppet, Docker, Kubernetes, Isto, Jenkins, PowerShell, Python, Bash, GitHub, CI/CD,
+  App dynamics, Grafana, Prometheus, Dynatrace, ELK, MongoDB, VPC S, DNS, ARO, IAM, ServiceNow.
+
+  Workday: October 2017 - July 2020 (Location: Pleasanton, CA)
+  Cloud DevOps Engineer
+  Implemented and managed Google Cloud Platform (GCP) services using Terraform for infrastructure as code,
+  including Compute Engine, Cloud Storage, and Kubernetes Engine. This infrastructure supported critical HR and
+  finance applications, ensuring scalability and reliability for enterprise clients.
+  Supported infrastructure-as-a-service (IaaS) environments on GCP, managing both Linux and Windows virtual machines
+  to maintain high performance and security. These environments hosted core business applications, enabling seamless
+  integration of HR and financial data across the platform.
+  Established cross-region load balancing configurations to enable automatic traffic routing to healthy regions during service
+  outages. This setup ensured continuous availability of HR and payroll services for global clients across different time
+  zones.
+  Managed Domain Name System (DNS) zones and records using Google Cloud DNS, optimizing fast and secure domain
+  resolution for cloud-based services. This configuration improved access times for client-facing portals and internal tools.
+  Created private DNS zones for internal services, enabling secure and efficient address resolution within virtual private
+  cloud (VPC) networks. This setup enhanced the security of sensitive HR and financial data while maintaining efficient
+  internal communications.
+  Utilized source code management tools including Git for version control and Bitbucket for repository hosting. These
+  practices improved collaboration among development teams working on various modules of the HR and finance platform.
+  Configured Jenkins with Git to automate code checkout using Poll SCM functionality and set up Tomcat application
+  servers for deployment processes. This automation streamlined the release process for regular updates to the HR and
+  finance software suite.
+  Managed multiple Kubernetes Engine (GKE) clusters in Google Cloud Platform (GCP), enabling efficient
+  cross-environment communication. This setup supported the microservices architecture of the HR and finance platform,
+  allowing for independent scaling of different components.
+  Enhanced network configurations for GKE workloads in GCP, resulting in a 20% improvement in latency and
+  cross-service communication effectiveness. These optimizations improved the responsiveness of HR and payroll
+  processing systems during peak usage periods.
+  Diagnosed and resolved complex technical challenges in GKE environments, minimizing system downtime and
+  maintaining high service reliability. This proactive approach ensured consistent availability of critical HR and finance
+  services for enterprise clients.
+
+  Created and implemented a comprehensive CI/CD pipeline within Kubernetes, automating deployment processes and
+  reducing deployment time by 50%. This improvement allowed for more frequent updates to the HR and finance platform
+  without disrupting client operations.
+  Connected Jira and Confluence to establish streamlined communication between project tasks and documentation.
+  This integration improved visibility and coordination across development, QA, and operations teams working on
+  different aspects of the HR and finance software.
+  Developed flexible, modular Terraform modules to consistently deploy infrastructure across multiple GCP environments.
+  This approach standardized the deployment of HR and finance applications across development, staging, and production
+  environments.
+  Conducted a comprehensive migration of applications and infrastructure from on-premises environments to Google Cloud
+  Platform (GCP). This migration improved the scalability and performance of HR and finance services for enterprise
+  clients.
+  Designed and implemented GCP Virtual Private Cloud (VPC) configurations, including VPC Peering and load balancing
+  mechanisms. These configurations ensured secure and reliable network connectivity for client data across the HR and
+  finance platform.
+  Managed and optimized Google Cloud Storage (GCS) Buckets, ensuring robust data availability and performance across
+  multiple geographic regions. This setup supported efficient storage and retrieval of HR documents and financial records
+  for global clients.
+  Implemented and managed Dataproc clusters for real-time data processing, creating integrated data pipelines with
+  Google Cloud Storage and BigQuery. These pipelines improved the speed and accuracy of payroll processing and
+  financial reporting for large-scale organizations.
+  Developed comprehensive experience in release management, incident management, and production troubleshooting.
+  This expertise ensured smooth operations and quick resolution of issues for the HR and finance platform, minimizing
+  disruptions to client business processes.
+  Implemented cloud infrastructure deployment and management using Ansible Tower, Jenkins, and Google Cloud
+  Build. These tools established automated and streamlined deployment processes for the HR and finance software
+  suite, enabling rapid delivery of new features and updates.
+  Environment: GCP, GitHub, Maven, Docker, UI, Jenkins, Java, HTML, Python, Unix, Linux, Terraform, Kubernetes,
+  AppDynamics, Dynatrace, Grafana, Splunk, Apache, Tomcat, Prometheus, Kafka, Blue-green, canary.
+
+
+
+  Allstate: January 2016 - September 2017 (Location: Northbrook, IL)
+  DevOps Engineer
+
+  Designed and managed cloud solutions across AWS and Azure platforms, successfully deploying secure and scalable
+  insurance applications. Utilized critical services including AWS EC2, S3, RDS, Azure Virtual Machines, Blob Storage,
+  and Azure SQL Database to support robust policy management and claims processing systems.
+  Enhanced Software Development Life Cycle (SDLC) by implementing integration with Jenkins, GitHub Actions, and
+  Azure DevOps for CI/CD pipelines. This automation reduced release cycles for insurance product updates by 25%,
+  enabling faster market responses to changing customer needs.
+  Advanced DevOps methodologies through automated infrastructure provisioning and configuration management using
+  Ansible playbooks, integrated with Git version control. Orchestrated deployments via Jenkins to streamline CI/CD
+  workflows, improving deployment efficiency of insurance applications by 30%.
+  Managed software artifact repositories using JFrog/Nexus Artifactory to ensure efficient storage, version control, and
+  distribution across multiple environments. This approach facilitated seamless updates to policy management and
+  claims processing software across development, testing, and production environments.
+  Streamlined administrative tasks with Groovy scripts in AWS, reducing manual efforts in insurance data processing by
+  20%. Generated Agile metrics in JIRA to drive data-driven decisions for team performance and productivity optimization
+  in insurance product development cycles.
+  Administered MySQL and MongoDB databases on AWS RDS and Azure Cosmos DB, maintaining high availability for
+  critical insurance data. Performed crucial performance tuning and implemented automated backup strategies for
+  scalable and secure management of policyholder information and claims data.
+  Implemented robust access management by configuring Identity and Access Management (IAM) roles and policies in
+  AWS and Azure. Deployed SSL certificates for encryption and enforced Role-Based Access Control (RBAC) to ensure
+  fine-grained security controls for sensitive insurance data and applications.
+  Utilized AWS Key Management Service (KMS) and Azure Key Vault for comprehensive key management in insurance
+  data systems. Developed disaster recovery strategies and network security configurations to guarantee system security
+  and regulatory compliance for insurance operations.
+  Created and automated infrastructure management scripts using Shell and Python to efficiently handle resources
+  across AWS and Azure environments. This automation reduced manual intervention in insurance IT operations by 40%,
+  enabling seamless cloud operations for policy and claims management systems.
+  Implemented comprehensive multi-cloud observability and performance monitoring through Datadog and New Relic for
+  insurance applications. Developed custom dashboards to track critical AWS metrics including CPU utilization, memory
+  consumption, and latency for insurance data processing systems.
+  Utilized AWS CloudWatch for real-time monitoring and alerting of insurance application performance. This proactive
+  approach ensured quick issue resolution and optimal system performance for policyholder services and claims
+  processing.
+  Designed and implemented a scalable microservices architecture for the company's core insurance products. This
+  modernization improved system flexibility and allowed for faster deployment of new insurance features and products.
+  Developed a robust disaster recovery plan leveraging AWS and Azure's multi-region capabilities. This strategy ensured
+  business continuity for critical insurance operations in the event of regional outages or disasters.
+  Implemented container orchestration using Kubernetes on AWS EKS and Azure AKS for insurance application
+  deployments. This approach improved resource utilization and enabled more efficient scaling of insurance services
+  during peak claim periods.
+  Designed and deployed a data lake solution using AWS S3 and Azure Data Lake Storage. This implementation
+  enhanced the company's ability to perform advanced analytics on large volumes of insurance data, improving risk
+  assessment and pricing strategies.
+  Environment: Aws, Azure, CI/CD, Git, Jfrog Artifact, JIRA, Ansible playbook, Jenkins pipeline, DevOps methodologies,
+  MySQL, MongoDB, AWS RDS, AWS CloudWatch, IAM, New Relic, Datadog, Shell scripting, Python.
+
+
+  Opel Soft: August 2014 - November 2015 (Location: Bangalore, India)
+  Linux Administrator / System Engineer
+
+  Administered and automated Linux/Unix environments, specifically Red Hat Enterprise Linux (RHEL), using Bash and
+  Python scripts to enhance operational efficiency by 25%. This automation streamlined system management for software
+  development environments, reducing manual intervention in daily IT operations.
+  Managed complex system configurations, including Logical Volume Management (LVM) setups, to optimize storage and
+  backup processes for large-scale software projects. Successfully reduced system downtime by 30% through strategic
+  volume management and efficient data organization, ensuring continuous availability of development and testing
+  environments.
+  Configured and maintained critical network services including DHCP, DNS, and FTP, while implementing robust security
+  protocols such as SSL/TLS and IPSec. These efforts ensured secure and reliable network operations across the software
+  development infrastructure, supporting seamless collaboration among distributed development teams.
+  Implemented high availability solutions using Red Hat Clusters and HAProxy, significantly improving system uptime and
+  minimizing service interruptions by 40%. This setup ensured continuous operational reliability for critical development
+  tools and services, supporting round-the-clock software development activities.
+  Developed automated backup strategies and scheduled cron jobs for comprehensive disaster recovery, maintaining data
+  integrity of source code repositories and development databases. Implemented extensive system hardening techniques
+  that strengthened security infrastructure and reduced system vulnerabilities by 40%, safeguarding intellectual property
+  and sensitive project data.
+  Performed advanced kernel parameter tuning to optimize system performance, increasing reliability and responsiveness
+  in high-demand computing environments. This optimization supported resource-intensive software compilation and testing
+  processes, improving overall development efficiency.
+  Managed user and group permissions with SSH key authentication, implementing fine-grained access controls to secure
+  server environments. This approach protected critical system resources and ensured appropriate access levels for
+  different roles within the software development teams.
+  Executed regular system maintenance by patching and updating Linux servers using RPM, YUM, and APT package
+  management tools, maintaining system stability. This proactive approach reduced potential security vulnerabilities in the
+  development infrastructure, ensuring a secure environment for software creation and testing.
+  Configured Apache and Nginx web servers to ensure scalable, secure, and efficient service delivery for mission-critical
+  applications. This optimization of web infrastructure performance supported the deployment and testing of web-based
+  software projects, enabling seamless integration and user acceptance testing.
+  Integrated Oracle databases with Linux environments, providing comprehensive database administration and
+  performance optimization for software development and testing. Deployed and managed virtual environments using
+  VMware and KVM, improving resource utilization and scalability across multiple development and staging environments,
+  facilitating efficient software testing and deployment processes.
+  Environment: Red Hat Enterprise Linux, Bash, Python, Logical Volume Manager, Red Hat Cluster Servers, Oracle, MySQL,
+  DNS, DHCP, FTP.
+
+  EDUCATION
+
+  Sastra University - Bachelor of Technology- Computer Science | Year : July 2010 - June 2014
+END_SECTION  RAW_EXTRACTION

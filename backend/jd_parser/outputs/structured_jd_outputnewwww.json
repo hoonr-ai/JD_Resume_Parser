@@ -1,0 +1,998 @@
+[
+  {
+    "jd_skill_requirements": {
+      "jd_id": "11042263",
+      "required_skills": [
+        {
+          "skill_id": "1",
+          "canonical_name": "DevOps",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "2",
+          "canonical_name": ".NET",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "3",
+          "canonical_name": "SQL",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "4",
+          "canonical_name": "Azure",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        }
+      ],
+      "optional_skills": null,
+      "category_distribution": null
+    }
+  },
+  {
+    "jd_skill_requirements": {
+      "jd_id": "11042200",
+      "required_skills": [
+        {
+          "skill_id": "java",
+          "canonical_name": "Java",
+          "minimum_years": 10.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "cloud_native_architecture",
+          "canonical_name": "Cloud-Native Application Design and Architecture",
+          "minimum_years": 10.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "microservices",
+          "canonical_name": "Microservices",
+          "minimum_years": 10.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.9
+        },
+        {
+          "skill_id": "aws",
+          "canonical_name": "AWS",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "azure",
+          "canonical_name": "Azure",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "spring",
+          "canonical_name": "Spring",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "rest_api",
+          "canonical_name": "Rest API",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.7
+        },
+        {
+          "skill_id": "api_gateway",
+          "canonical_name": "API Gateway",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "nosql",
+          "canonical_name": "NoSQL",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "jms",
+          "canonical_name": "JMS",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "rabbitmq",
+          "canonical_name": "RabbitMQ",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "sqs",
+          "canonical_name": "SQS",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "amqp",
+          "canonical_name": "AMQP",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "docker",
+          "canonical_name": "Docker",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "big_data",
+          "canonical_name": "Big Data Technologies",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "data_analytics",
+          "canonical_name": "Data Analytics Platforms",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "communication",
+          "canonical_name": "Good Communication and Collaboration Skills",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "leadership",
+          "canonical_name": "Demonstrable Leadership Experience",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": false,
+          "weight": 0.6
+        }
+      ],
+      "optional_skills": null,
+      "category_distribution": null
+    }
+  },
+  {
+    "jd_skill_requirements": {
+      "jd_id": "11042121",
+      "required_skills": [
+        {
+          "skill_id": "1",
+          "canonical_name": "Legal Research",
+          "minimum_years": 0.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.9
+        },
+        {
+          "skill_id": "2",
+          "canonical_name": "Legal Documentation",
+          "minimum_years": 0.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.9
+        },
+        {
+          "skill_id": "3",
+          "canonical_name": "Communication Skills",
+          "minimum_years": 0.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "4",
+          "canonical_name": "Customer Service",
+          "minimum_years": 0.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "5",
+          "canonical_name": "Data Analysis",
+          "minimum_years": 0.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.7
+        },
+        {
+          "skill_id": "6",
+          "canonical_name": "Ticketing System Proficiency",
+          "minimum_years": 0.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "7",
+          "canonical_name": "Quality Control",
+          "minimum_years": 0.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "8",
+          "canonical_name": "Telecom Industry Knowledge",
+          "minimum_years": 0.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        }
+      ],
+      "optional_skills": null,
+      "category_distribution": null
+    }
+  },
+  {
+    "jd_skill_requirements": {
+      "jd_id": "11042045",
+      "required_skills": [
+        {
+          "skill_id": "1",
+          "canonical_name": "PBM (Pharmacy Benefit Management)",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "2",
+          "canonical_name": "Healthcare Experience",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "3",
+          "canonical_name": "Analytical Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.7
+        },
+        {
+          "skill_id": "4",
+          "canonical_name": "Organizational Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.7
+        },
+        {
+          "skill_id": "5",
+          "canonical_name": "Communication Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.7
+        }
+      ],
+      "optional_skills": null,
+      "category_distribution": null
+    }
+  },
+  {
+    "jd_skill_requirements": {
+      "jd_id": "11042029",
+      "required_skills": [
+        {
+          "skill_id": "1",
+          "canonical_name": "IBM WebSphere Portal V8.5",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "2",
+          "canonical_name": "IBM WCM V8.5",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.9
+        },
+        {
+          "skill_id": "3",
+          "canonical_name": "Scripting",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.7
+        },
+        {
+          "skill_id": "4",
+          "canonical_name": "Automation",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "5",
+          "canonical_name": "XML Access",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "6",
+          "canonical_name": "WCM Syndication",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "7",
+          "canonical_name": "Portal Deployment Best Practices",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "8",
+          "canonical_name": "Portlets Installation and Configuration",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "9",
+          "canonical_name": "Agile Work Environment",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "10",
+          "canonical_name": "DevOps Tools (Maven, Jenkins, Nexus, Docker)",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "11",
+          "canonical_name": "IBM WebSphere Portal Security",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "12",
+          "canonical_name": "Single Sign-on",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "13",
+          "canonical_name": "LDAP",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "14",
+          "canonical_name": "Microsoft Active Directory",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "15",
+          "canonical_name": "Communication Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "16",
+          "canonical_name": "Interpersonal Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "17",
+          "canonical_name": "Analytical Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "18",
+          "canonical_name": "Technical Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        }
+      ],
+      "optional_skills": null,
+      "category_distribution": null
+    }
+  },
+  {
+    "jd_skill_requirements": {
+      "jd_id": "11042014",
+      "required_skills": [
+        {
+          "skill_id": "java",
+          "canonical_name": "Java 8",
+          "minimum_years": 8.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "jpa",
+          "canonical_name": "JPA 2.1",
+          "minimum_years": 8.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "spring_core",
+          "canonical_name": "Spring Core",
+          "minimum_years": 8.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "spring_boot",
+          "canonical_name": "Micro-Services using Spring Boot",
+          "minimum_years": 8.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "rest_standards",
+          "canonical_name": "Rest Standards",
+          "minimum_years": 8.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "spring_integration",
+          "canonical_name": "Spring Integration",
+          "minimum_years": 8.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "spring_cloud",
+          "canonical_name": "Spring Cloud",
+          "minimum_years": 8.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "netflix_oss",
+          "canonical_name": "Netflix OSS Stack",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "hibernate",
+          "canonical_name": "Hibernate",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "elastic_search",
+          "canonical_name": "Elastic Search as a transactional system",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "docker",
+          "canonical_name": "Docker Containerization",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "angular",
+          "canonical_name": "Angular 5",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "bootstrap",
+          "canonical_name": "Bootstrap 4",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        }
+      ],
+      "optional_skills": null,
+      "category_distribution": null
+    }
+  },
+  {
+    "jd_skill_requirements": {
+      "jd_id": "11042009",
+      "required_skills": [
+        {
+          "skill_id": "1",
+          "canonical_name": "EDIFECS",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "2",
+          "canonical_name": "Healthcare Experience",
+          "minimum_years": 5.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.9
+        },
+        {
+          "skill_id": "3",
+          "canonical_name": "Analytical Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "4",
+          "canonical_name": "Communication Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "5",
+          "canonical_name": "Organizational Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "6",
+          "canonical_name": "Development Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": false,
+          "weight": 0.6
+        }
+      ],
+      "optional_skills": null,
+      "category_distribution": null
+    }
+  },
+  {
+    "jd_skill_requirements": {
+      "jd_id": "11041972",
+      "required_skills": [
+        {
+          "skill_id": "1",
+          "canonical_name": "Failure Analysis Techniques",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "2",
+          "canonical_name": "Microscopic Analysis Techniques",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "3",
+          "canonical_name": "Yield Analysis",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "4",
+          "canonical_name": "BKM Development",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "5",
+          "canonical_name": "Collaboration Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "6",
+          "canonical_name": "Communication Skills",
+          "minimum_years": 3.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "7",
+          "canonical_name": "FTIR",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "8",
+          "canonical_name": "Raman Spectroscopy",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "9",
+          "canonical_name": "SEM",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "10",
+          "canonical_name": "EDX",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "11",
+          "canonical_name": "AFM",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "12",
+          "canonical_name": "TOF-SIMS",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "13",
+          "canonical_name": "XPS",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "14",
+          "canonical_name": "TEM",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "15",
+          "canonical_name": "GCMS",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "16",
+          "canonical_name": "Optical Inspection",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "17",
+          "canonical_name": "Ion Milling",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "18",
+          "canonical_name": "FIB",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "19",
+          "canonical_name": "X-section",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        }
+      ],
+      "optional_skills": null,
+      "category_distribution": null
+    }
+  },
+  {
+    "jd_skill_requirements": {
+      "jd_id": "11041914",
+      "required_skills": [
+        {
+          "skill_id": "1",
+          "canonical_name": "Laboratory Automation",
+          "minimum_years": 4.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "2",
+          "canonical_name": "Programming Liquid Handlers",
+          "minimum_years": 4.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "3",
+          "canonical_name": "Sample Preparation Techniques",
+          "minimum_years": 4.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "4",
+          "canonical_name": "Troubleshooting Skills",
+          "minimum_years": 4.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.9
+        },
+        {
+          "skill_id": "5",
+          "canonical_name": "Communication Skills",
+          "minimum_years": 4.0,
+          "required_proficiency_level": 4,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "6",
+          "canonical_name": "Agilent Bravo (Vworks)",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "7",
+          "canonical_name": "Hamilton Vantage (Venus on Vantage)",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 3,
+          "mandatory": false,
+          "weight": 0.6
+        },
+        {
+          "skill_id": "8",
+          "canonical_name": "Genera Scheduler",
+          "minimum_years": 2.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.5
+        },
+        {
+          "skill_id": "9",
+          "canonical_name": "Creative Problem-Solving",
+          "minimum_years": 4.0,
+          "required_proficiency_level": 4,
+          "mandatory": false,
+          "weight": 0.7
+        },
+        {
+          "skill_id": "10",
+          "canonical_name": "Organizational Skills",
+          "minimum_years": 4.0,
+          "required_proficiency_level": 4,
+          "mandatory": false,
+          "weight": 0.7
+        }
+      ],
+      "optional_skills": [
+        "Integration of automated liquid handlers with supporting equipment"
+      ],
+      "category_distribution": null
+    }
+  },
+  {
+    "jd_skill_requirements": {
+      "jd_id": "9165998",
+      "required_skills": [
+        {
+          "skill_id": "java",
+          "canonical_name": "Java",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.9
+        },
+        {
+          "skill_id": "jsp",
+          "canonical_name": "JSP",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "j2ee",
+          "canonical_name": "J2EE",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.8
+        },
+        {
+          "skill_id": "jdbc",
+          "canonical_name": "JDBC",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.7
+        },
+        {
+          "skill_id": "ejb",
+          "canonical_name": "EJB",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.7
+        },
+        {
+          "skill_id": "javascript",
+          "canonical_name": "JavaScript",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.7
+        },
+        {
+          "skill_id": "salesforce",
+          "canonical_name": "Salesforce.com Development",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 3,
+          "mandatory": true,
+          "weight": 0.9
+        },
+        {
+          "skill_id": "salesforce_certification",
+          "canonical_name": "Salesforce.com Developer Certification",
+          "minimum_years": 0.0,
+          "required_proficiency_level": 5,
+          "mandatory": true,
+          "weight": 1.0
+        },
+        {
+          "skill_id": "bsa_experience",
+          "canonical_name": "BSA Experience",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "lean_agile",
+          "canonical_name": "Lean/Agile Methodologies",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.4
+        },
+        {
+          "skill_id": "object_modeling",
+          "canonical_name": "Object, Data, and Process Modeling",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.3
+        },
+        {
+          "skill_id": "business_process_design",
+          "canonical_name": "Business Process Design",
+          "minimum_years": 1.0,
+          "required_proficiency_level": 2,
+          "mandatory": false,
+          "weight": 0.3
+        }
+      ],
+      "optional_skills": null,
+      "category_distribution": null
+    }
+  }
+]

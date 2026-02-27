@@ -1,0 +1,199 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  19633121835593_94_1
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  smukho10@asu.edu
+  FULL_NAME  Sugato Mukhopadhyay
+  GITHUB  NULL
+  LINKEDIN  linkedin.com/in/sugato-mukhopadhyay
+  LOCATION  NULL
+  PHONE_E164  +14808537292
+  PHONE_RAW  +1 480-853-7292
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Software Engineer with 3+ years of experience building full-stack web applications using Java, JavaScript, HTML, and CSS.
+  Experienced with cloud platforms (AWS, Azure), Python, Git, Agile development, and relational databases. Currently pursuing
+  a Master s in Software Engineering to deepen technical expertise.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Deep Learning
+  ITEM  Development
+  ITEM  Data Science
+  ITEM  Kubernetes
+  ITEM  blackduck
+  ITEM  Git
+  ITEM  Java
+  ITEM  Protocol
+  ITEM  Html
+  ITEM  Data Processing
+  ITEM  Css
+  ITEM  Access
+  ITEM  Cli
+  ITEM  Concurrent
+  ITEM  Aws
+  ITEM  Mqtt
+  ITEM  Docker
+  ITEM  Design
+  ITEM  Authentication
+  ITEM  Microsoft Azure
+  ITEM  Jest
+  ITEM  Cloud
+  ITEM  Microservices
+  ITEM  Spring
+  ITEM  Requests
+  ITEM  TypeScript
+  ITEM  PyTorch
+  ITEM  Iot
+  ITEM  python-coverage
+  ITEM  Software
+  ITEM  CDC SCOPE
+  ITEM  Nosql
+  ITEM  Python
+  ITEM  Frontend
+  ITEM  Sql
+  ITEM  Javascript
+  ITEM  React
+  ITEM  REST APIs
+  ITEM  Software Engineering
+  ITEM  WEB
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  Honeywell Technology Solutions Limited : Software Developer Aug 2020 – July 2024
+  Executed zero-downtime migration of 100+ production customer accounts to automated access key system in SpringBoot
+  microservices; reduced operational overhead via key renewal automation and maintained full backwards compatibility.
+  Contributed to migration of 11 SpringBoot microservices and 100+ customer accounts to Microsoft Azure in 3 months;
+  resolved platform constraints, ensured zero-downtime cutover with full customer continuity.
+  Developed CLI-based bulk deployment system for 150+ remote IoT devices; reduced software update time from hours to
+  minutes, enabling rapid response to critical security threats.
+  Increased test coverage from 70% to more than 90% across SpringBoot (Mockito) and React (Jest) codebases; improved
+  code reliability by systematically writing unit and integration tests, exceeded team threshold.
+  Contributed to OPCUA protocol integration for industrial IoT devices with backend and frontend development; delivered
+  50% ahead of timeline, handled schema design and device command orchestration.
+  Resolved 100+ threat model issues across 11 microservices (avg. 20-40 per scan cycle) using BlackDuck Hub, Twistlock,
+  Coverity, and SD Elements; prevented vulnerabilities from reaching production.
+
+  Songline Analytics : Data Science Intern May 2019 – July 2019
+  Gathered data from online sources for skin diseases and constructed a labeled dataset after thorough manual cleaning.
+  Applied data processing and oversampling techniques to train a robust model for Diabetic Retinopathy and performed
+  data modifications using OpenCV.
+  Trained models using deep learning in PyTorch with CNN architectures including ResNet, DenseNet, VGG, and Inception.
+  Achieved 96% validation accuracy for skin disease classification and 88.9% accuracy for diabetic retinopathy classification.
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  Elastic Face Recognition System (AWS IaaS: EC2, S3, SQS, SimpleDB, Autoscaling) Python Fall 2025 Coursework Project
+  Built a multi-tier, horizontally scalable system handling 1,000+ concurrent requests with average 110 ms latency.
+  Designed async inference pipelines using SQS + PyTorch to decouple compute-heavy workloads and maintain
+  responsiveness.
+  Implemented autoscaling policies reducing compute cost during low-traffic periods while maintaining SLA during spikes.
+  Built a small admin dashboard to monitor pipeline state, improving visibility and enabling rapid iteration on new
+  features.
+  Edge-Based Face Detection for IoT Devices (AWS IoT Greengrass, MQTT, Lambda, SQS) Fall 2025 Coursework Project
+  Designed an edge/cloud hybrid inference workflow, offloading MTCNN detection to IoT edge nodes for low-latency
+  processing.
+  Built MQTT-based communication flow with secure certificate-based authentication and multi-stage SQS pipelines.
+  Reduced upstream cloud compute load by detecting No-Face frames at the edge.
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  Arizona State University, Tempe, AZ Aug 2024 - May 2026
+  Master of Science in Software Engineering 4.0/4.0
+
+  Indian Institute of Technology, Kharagpur, India June 2016 - May 2020
+  Bachelor of Technology, Chemical Engineering 8.3 /10
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  NULL
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  Sugato Mukhopadhyay
+  +1 480-853-7292 smukho10@asu.edu linkedin.com/in/sugato-mukhopadhyay/
+  SUMMARY
+  Software Engineer with 3+ years of experience building full-stack web applications using Java, JavaScript, HTML, and CSS.
+  Experienced with cloud platforms (AWS, Azure), Python, Git, Agile development, and relational databases. Currently pursuing
+  a Master s in Software Engineering to deepen technical expertise.
+
+  PROFESSIONAL EXPERIENCE
+  Honeywell Technology Solutions Limited : Software Developer Aug 2020 – July 2024
+  Executed zero-downtime migration of 100+ production customer accounts to automated access key system in SpringBoot
+  microservices; reduced operational overhead via key renewal automation and maintained full backwards compatibility.
+  Contributed to migration of 11 SpringBoot microservices and 100+ customer accounts to Microsoft Azure in 3 months;
+  resolved platform constraints, ensured zero-downtime cutover with full customer continuity.
+  Developed CLI-based bulk deployment system for 150+ remote IoT devices; reduced software update time from hours to
+  minutes, enabling rapid response to critical security threats.
+  Increased test coverage from 70% to more than 90% across SpringBoot (Mockito) and React (Jest) codebases; improved
+  code reliability by systematically writing unit and integration tests, exceeded team threshold.
+  Contributed to OPCUA protocol integration for industrial IoT devices with backend and frontend development; delivered
+  50% ahead of timeline, handled schema design and device command orchestration.
+  Resolved 100+ threat model issues across 11 microservices (avg. 20-40 per scan cycle) using BlackDuck Hub, Twistlock,
+  Coverity, and SD Elements; prevented vulnerabilities from reaching production.
+
+  Songline Analytics : Data Science Intern May 2019 – July 2019
+  Gathered data from online sources for skin diseases and constructed a labeled dataset after thorough manual cleaning.
+  Applied data processing and oversampling techniques to train a robust model for Diabetic Retinopathy and performed
+  data modifications using OpenCV.
+  Trained models using deep learning in PyTorch with CNN architectures including ResNet, DenseNet, VGG, and Inception.
+  Achieved 96% validation accuracy for skin disease classification and 88.9% accuracy for diabetic retinopathy classification.
+
+  PROJECTS
+  Elastic Face Recognition System (AWS IaaS: EC2, S3, SQS, SimpleDB, Autoscaling) Python Fall 2025 Coursework Project
+  Built a multi-tier, horizontally scalable system handling 1,000+ concurrent requests with average 110 ms latency.
+  Designed async inference pipelines using SQS + PyTorch to decouple compute-heavy workloads and maintain
+  responsiveness.
+  Implemented autoscaling policies reducing compute cost during low-traffic periods while maintaining SLA during spikes.
+  Built a small admin dashboard to monitor pipeline state, improving visibility and enabling rapid iteration on new
+  features.
+  Edge-Based Face Detection for IoT Devices (AWS IoT Greengrass, MQTT, Lambda, SQS) Fall 2025 Coursework Project
+  Designed an edge/cloud hybrid inference workflow, offloading MTCNN detection to IoT edge nodes for low-latency
+  processing.
+  Built MQTT-based communication flow with secure certificate-based authentication and multi-stage SQS pipelines.
+  Reduced upstream cloud compute load by detecting No-Face frames at the edge.
+
+  EDUCATION
+  Arizona State University, Tempe, AZ Aug 2024 - May 2026
+  Master of Science in Software Engineering 4.0/4.0
+
+  Indian Institute of Technology, Kharagpur, India June 2016 - May 2020
+  Bachelor of Technology, Chemical Engineering 8.3 /10
+
+  TECHNICAL SKILLS
+  Languages: Java, Python, C++, TypeScript, JavaScript, SQL, C
+  Backend & Tools: Spring Boot, Node.js, Express, REST APIs, SQL/NoSQL Databases
+  Cloud & DevOps: AWS (EC2, S3, SQS, Lambda), Azure, Docker, Kubernetes, CI/CD Pipelines
+END_SECTION  RAW_EXTRACTION

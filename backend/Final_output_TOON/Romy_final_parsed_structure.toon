@@ -1,0 +1,188 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  2304513440502_94_14
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  romy.dulay@twc.com
+  FULL_NAME  Romy Dulay
+  GITHUB  NULL
+  LINKEDIN  NULL
+  LOCATION  Panorama City, CA 91402
+  PHONE_E164  +18188938586
+  PHONE_RAW  +1 818 974 0338
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Over 31 years experience as a consulting electrical engineer. Responsible for electrical design
+  and layout of industrial, schools and commercial buildings, entertainment buildings, schools
+  and recreational parks, Health Care Facilities, (i.e. airports, prison jobs and TI offices) power,
+  power distribution system, (NEC/CEC compliance), lighting and lighting controls, (Title-24
+  compliance), fire/life safety, fire protection system (NFPA 72 and NFPA 99 compliance) and low
+  voltage systems, Data Centers with UPS/Inverter, Critical Facilities including specifications,
+  Generator system. Coordination of Mechanical, Electrical and Plumbing System Design.
+  Construction support and coordination, field work/survey and punch list inspection, review
+  contractor shop drawings and respond to RFI supports etc.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Arc
+  ITEM  fire (python package)
+  ITEM  LineageOS
+  ITEM  Cad
+  ITEM  Mobile
+  ITEM  Entertainment
+  ITEM  Computer Graphics
+  ITEM  Design
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  Senior Electrical Design Engineer
+  Shamim Engineering Group, Woodland Hills, California
+  July 2024 to Present
+
+  Senior Electrical Design Engineer
+  Vision Consulting, Agoura Hills, California
+  October 2013 to May 29, 2024
+
+  Senior Electrical Design Engineer
+  Mustang Engineering, Long Beach, California
+  February 2013 to October 2013
+
+  Senior Electrical Design Engineer
+  Parsons Company, Pasadena, California
+  March 2011 to January 2013
+
+  Senior Electrical Design Engineer
+  SY Lee Associates, Glendale, California
+  July 2009 to May 2010
+
+  Senior Electrical Design Engineer
+  Arc Engineering, Sherman Oaks, California
+  May 2007 to April 2009
+
+  Senior Electrical Designer
+  Syska Hennesy, Inc, Santa Monica, CA
+  November 2006 to April 2007
+
+  Electrical Designer/Cad Designer
+  Fields Devereaux Architects & Engineer, Los Angeles, California
+  November 1997 to November 2006
+
+  Electrical Designer/Cad Designer
+  Daniel, Mann, Johnson & Mendenhall (DMJM), Los Angeles, California
+  December 1989 to November 1997
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  EMPTY
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  Bachelor of Science in Electrical Engineering – Saint Louis University, Philippines (1984)
+  AutoCad Training Course – Los Angeles Community College, Los Angeles, California
+  (1993)
+  Autotrol Computer Graphics and Advance Computer Graphics, Kansas City, Missouri,
+  (1991)
+  Intergraph Microstation PC Training – Westech College, Pomona, California (1993)
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  NULL
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  Romualdo Romy Dulay
+  8820 Murietta Ave
+  Panorama City, CA 91402
+  Home: 818 893-8586
+  Mobile: 818 974-0338
+  E-Mail: romy.dulay@twc.com
+
+
+  CAREER OVERIVEW
+  Over 31 years experience as a consulting electrical engineer. Responsible for electrical design
+  and layout of industrial, schools and commercial buildings, entertainment buildings, schools
+  and recreational parks, Health Care Facilities, (i.e. airports, prison jobs and TI offices) power,
+  power distribution system, (NEC/CEC compliance), lighting and lighting controls, (Title-24
+  compliance), fire/life safety, fire protection system (NFPA 72 and NFPA 99 compliance) and low
+  voltage systems, Data Centers with UPS/Inverter, Critical Facilities including specifications,
+  Generator system. Coordination of Mechanical, Electrical and Plumbing System Design.
+  Construction support and coordination, field work/survey and punch list inspection, review
+  contractor shop drawings and respond to RFI supports etc.
+
+  PROFESSIONAL EXPERIENCE
+  Senior Electrical Design Engineer
+  Shamim Engineering Group, Woodland Hills, California
+  July 2024 to Present
+
+
+  Senior Electrical Design Engineer
+  Vision Consulting, Agoura Hills, California
+  October 2013 to May 29, 2024
+
+  Senior Electrical Design Engineer
+  Mustang Engineering, Long Beach, California
+  February 2013 to October 2013
+
+  Senior Electrical Design Engineer
+  Parsons Company, Pasadena, California
+  March 2011 to January 2013
+
+  Senior Electrical Design Engineer
+  SY Lee Associates, Glendale, California
+  July 2009 to May 2010
+
+  Senior Electrical Design Engineer
+  Arc Engineering, Sherman Oaks, California
+  May 2007 to April 2009
+
+  Senior Electrical Designer
+  Syska Hennesy, Inc, Santa Monica, CA
+  November 2006 to April 2007
+
+  Electrical Designer/Cad Designer
+  Fields Devereaux Architects & Engineer, Los Angeles, California
+  November 1997 to November 2006
+
+  Electrical Designer/Cad Designer
+  Daniel, Mann, Johnson & Mendenhall (DMJM), Los Angeles, California
+  December 1989 to November 1997
+
+  EDUCATION/TRAINING
+  Bachelor of Science in Electrical Engineering – Saint Louis University, Philippines (1984)
+  AutoCad Training Course – Los Angeles Community College, Los Angeles, California
+  (1993)
+  Autotrol Computer Graphics and Advance Computer Graphics, Kansas City, Missouri,
+  (1991)
+  Intergraph Microstation PC Training – Westech College, Pomona, California (1993)
+END_SECTION  RAW_EXTRACTION

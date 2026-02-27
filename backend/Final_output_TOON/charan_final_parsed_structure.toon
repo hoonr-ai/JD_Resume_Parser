@@ -1,0 +1,334 @@
+TOON_VERSION  1.0
+
+SECTION  SOURCE
+  GLOBAL_ID  19435293875069_94_1
+END_SECTION  SOURCE
+
+SECTION  CONTACT
+  EMAIL  saicharan170801@gmail.com
+  FULL_NAME  SAI CHARAN BASHABATHINI
+  GITHUB  NULL
+  LINKEDIN  linkedin.com/in/sai-charan-bashabathini
+  LOCATION  Little Rock, Arkansas 72204 US
+  PHONE_E164  +15014486998
+  PHONE_RAW  +15014486998
+END_SECTION  CONTACT
+
+SECTION  WORK_AUTHORIZATION
+  EMPTY
+END_SECTION  WORK_AUTHORIZATION
+
+SECTION  COMPENSATION_PREFERENCES
+  EMPTY
+END_SECTION  COMPENSATION_PREFERENCES
+
+SECTION  ROLE_PREFERENCES
+  EMPTY
+END_SECTION  ROLE_PREFERENCES
+
+SECTION  SUMMARY
+  Over 8+ years of experience as an SAP Basis, ABAP, and S/4HANA Consultant, with hands-on expertise in system installations, upgrades, performance tuning, security, and technical development across diverse industry landscapes.
+  Proven success in SAP S/4HANA greenfield and brownfield implementations and migrations, ensuring minimal downtime, seamless data transitions, and optimal system performance.
+  Deep expertise in SAP Basis administration, covering ECC, BW, CRM, PI/PO, and Fiori components, including kernel upgrades, system refreshes, client copies, and patching activities.
+  Skilled in ABAP development and debugging, including performance tuning with Runtime Analysis, SQL Trace, and handling complex custom enhancements via BADIs and user exits.
+  Hands-on experience with HANA, Oracle, SQL Server, and DB2 database administration, including backup strategies, memory management, indexing, and archiving.
+  Developed and integrated SAP Fiori and SAPUI5 applications with backend ABAP services to deliver modern and user-centric business interfaces.
+  Strong knowledge of SAP Transport Management System (STMS), handling transport routes, request management, and cross-system landscape coordination.
+  Experienced in implementing and managing SAP Security and Authorizations, including RBAC, SUIM audits, Fiori Launchpad roles, and compliance enforcement.
+  Proficient in SAP system hardening and secure communications using SNC, SSL/TLS, and Single Sign-On (SSO) configurations with SAML, Kerberos, and SAP IdM.
+  Led SAP performance tuning initiatives, optimizing HANA queries, background job schedules, memory allocations, and workload distribution for enhanced efficiency.
+  Expertise in SAP PI/PO and CPI (Cloud Platform Integration) for seamless third-party and cross-platform integrations using RFCs, IDocs, REST/SOAP APIs, and SAP BTP.
+  Experienced in executing SAP kernel upgrades, Support Package Stack (SPS) updates, and system maintenance using SUM, SWPM, and Maintenance Planner, ensuring seamless and compliant system lifecycle management.
+  Proficient in automating routine SAP Basis administrative tasks using Shell, PowerShell, and Python scripting, reducing manual effort and enhancing operational efficiency and system reliability.
+  Expertise in administering SAP Solution Manager, configuring EarlyWatch Alerts, and implementing system monitoring for proactive health checks, capacity planning, and incident prevention.
+  Experienced in spool and printing administration, including SPAD configuration, output device setup, and efficient print issue resolution to support consistent enterprise-wide printing services.
+  Proficient in supporting SAP Workflow and BRF+ configurations, facilitating streamlined background processing and flexible business rule execution to meet evolving process automation needs.
+  Experienced in creating and managing technical documentation and executing structured knowledge transfer, delivering comprehensive runbooks, architecture blueprints, and operational guides to ensure knowledge continuity.
+  Expertise in fostering cross-functional collaboration with infrastructure, security, development, and operations teams to deliver stable, secure, and scalable SAP environments aligned with enterprise requirements.
+END_SECTION  SUMMARY
+
+SECTION  SKILLS
+  ITEM  Requests
+  ITEM  Planner
+  ITEM  Utilities
+  ITEM  Shell
+  ITEM  Operating Systems
+  ITEM  Development
+  ITEM  Tls
+  ITEM  Server
+  ITEM  Linux
+  ITEM  Sql
+  ITEM  Access
+  ITEM  Oracle
+  ITEM  Unix
+  ITEM  Authentication
+  ITEM  Ssl
+  ITEM  Crm
+  ITEM  Optimization
+  ITEM  SOAP APIs
+  ITEM  Memory Management
+  ITEM  Collaboration
+  ITEM  Integrity
+  ITEM  Tool
+  ITEM  Web Services
+  ITEM  Enterprise
+  ITEM  Cloud
+  ITEM  Shell Scripting
+  ITEM  Self
+  ITEM  Runtime
+  ITEM  Performance Analysis
+  ITEM  Python
+  ITEM  Windows Server
+  ITEM  Statistics
+  ITEM  SAP HANA
+  ITEM  REST APIs
+  ITEM  Encryption
+  ITEM  Architecture
+  ITEM  Data Processing
+  ITEM  Job Scheduling
+  ITEM  Scheduling
+  ITEM  Windows
+  ITEM  Debugging
+  ITEM  Transformation
+  ITEM  Scripting
+  ITEM  Configuration
+  ITEM  Modeling
+  ITEM  Software
+  ITEM  Frameworks
+  ITEM  Framework
+  ITEM  System Monitoring
+  ITEM  Database
+  ITEM  Api
+  ITEM  Performance
+  ITEM  Testing
+  ITEM  Monitoring
+  ITEM  Design
+END_SECTION  SKILLS
+
+SECTION  EMPLOYMENT_HISTORY
+  Client: Starbucks, Seattle, WA Apr 2024 – Present
+  Role: SAP Basis /ABAP/ S/4HANA Consultant
+  Responsibilities:
+  Installed, configured, and maintained SAP landscapes including SAP ECC, S/4HANA, BW, and CRM, ensuring system stability, high availability, and optimal performance across global enterprise environments with proactive monitoring tools.
+  Executed SAP S/4HANA implementations and migrations (Greenfield, Brownfield, Hybrid), ensuring seamless data transitions and minimal system downtime with thorough planning and execution while coordinating cross-functional teams.
+  Performed homogeneous and heterogeneous system migrations using Software Provisioning Manager (SWPM) and Database Migration Option (DMO) to support complex digital transformation initiatives effectively while ensuring data consistency.
+  Conducted SAP kernel upgrades and patching, applying SAP Notes, regression testing, and ensuring business continuity with minimal disruption to critical operations through meticulous risk assessment.
+  Administered databases (HANA, Oracle, SQL Server, DB2) with a focus on backup strategies, database growth management, indexing, and archiving to maintain system integrity and performance leveraging automation and scripting tools.
+  Implemented SAP system hardening by configuring SNC, SSL/TLS, and applying encryption standards for secure system communications, ensuring compliance with industry security policies and internal audit requirements.
+  Managed SAP Transport Management System (STMS), including transport routes setup, request handling, and environment refreshes across development, quality assurance, and production systems while minimizing change-related disruptions.
+  Led SAP performance tuning initiatives by optimizing HANA queries, memory allocations, background jobs, and overall system workload analysis to significantly improve efficiency resulting in faster processing times.
+  Developed and debugged complex ABAP programs, leveraging tools like Runtime Analysis, SQL Trace, and Debugger Scripting to resolve critical system issues proactively and improve overall system stability.
+  Designed and implemented ABAP reports using SAP Query, Quick Viewer, and Report Painter, offering flexible reporting capabilities tailored to diverse end-user business requirements to support strategic decision-making.
+  Built and integrated Fiori and SAPUI5 applications with backend ABAP services to deliver modern, user-friendly business interfaces and improved user experiences with responsive design principles.
+  Developed ABAP programs for mass data processing, ensuring efficiency with internal tables and optimized loop operations to handle large volumes of data reliably and minimize system resource consumption.
+  Designed and executed ABAP unit tests and implemented BADI enhancements to deliver high-quality, extensible solutions without modifying SAP standard code base for future-proof customizations.
+  Created and maintained comprehensive SAP Basis documentation, including system architecture, configuration guides, troubleshooting manuals, and compliance documentation for effective knowledge sharing and seamless team onboarding.
+  Implemented SAP Security & Authorization models including role-based access (RBAC), Fiori Launchpad authorizations, and SUIM-based audits to ensure system integrity and compliance with corporate security policies.
+  Managed SAP user and role administration using PFCG, regularly auditing roles and authorizations to align with corporate governance policies and security standards to prevent unauthorized access.
+  Applied SAP debugging tools to analyze short dumps, runtime errors, and database inconsistencies to ensure smooth and stable system operation under heavy workloads and optimize troubleshooting processes.
+  Coordinated cross-departmental efforts for SAP landscape optimization, improving collaboration and reducing system downtime through efficient communication protocols.
+  Automated routine SAP Basis tasks using shell scripts and SAP tools to reduce manual effort and improve operational efficiency resulting in faster issue resolution.
+  Conducted regular SAP system health checks, capacity planning, and performance audits to proactively address potential bottlenecks and maintain continuous system availability.
+  Environment: SAP ECC, SAP S/4HANA, SAP BW, SAP CRM, Software Provisioning Manager (SWPM), Database Migration Option (DMO), SAP Kernel, SAP Notes, STMS, SAP HANA, Oracle, SQL Server, DB2, SNC, SSL/TLS, ABAP, Runtime Analysis, SQL Trace, Debugger, SAP Query, Quick Viewer, Report Painter, SAP Fiori, SAPUI5, BADI, SUIM, PFCG, Shell Scripting.
+
+  Client: Zoetis, Parsippany, NJ Oct 2019 – Mar 2024
+  Role: SAP Basis & S/4HANA Consultant
+  Responsibilities:
+  Performed SAP Basis performance tuning by analyzing workload statistics, optimizing memory and buffer settings, and tuning background job processing for improved system stability and efficiency.
+  Handled SAP Basis system refreshes and client copies across development, QA, and production environments, maintaining consistent and accurate test data across landscapes.
+  Administered SAP user roles and profiles in SAP Basis using PFCG, SU01, and SUIM, enforcing secure access control and ensuring full SOX compliance requirements.
+  Installed and supported SAP Basis for SAP S/4HANA Logistics components (MM, SD, PP) at the infrastructure level, including system provisioning, support packages, and timely kernel updates.
+  Configured and supported interfaces at the Basis level using IDocs, RFCs, Web Services, and SAP PI/PO, ensuring smooth integration and reliable message flow.
+  Managed SAP system landscapes including system copies, SID changes, and system renaming for successful S/4HANA deployments and upgrades.
+  Conducted SAP performance analysis using tools like ST05 (SQL Trace), SAT, ST03N, and ATC, identifying and resolving major system bottlenecks quickly.
+  Implemented and supported SAP Cloud Platform Integration (CPI) and SAP API Management, connecting on-premise and cloud systems effectively and securely.
+  Deployed applications and services on SAP Business Technology Platform (BTP), focusing on connectivity, authentication, and comprehensive system administration tasks.
+  Designed and executed backup and disaster recovery strategies using HANA Studio, BRTOOLS, and native DB utilities to ensure continuous business continuity operations.
+  Administered SAP PI/PO systems including SLD configuration, message monitoring, and troubleshooting integration layer communication errors thoroughly and consistently.
+  Managed spool administration using SPAD, configuring output devices, resolving printing issues, and maintaining overall spool consistency across systems.
+  Supported SAP HANA performance tuning by monitoring memory usage, evaluating expensive statements, and optimizing system KPIs for efficiency.
+  Implemented Single Sign-On (SSO) using SAML 2.0, Kerberos, and integrated with SAP Identity Management (IdM) for centralized user authentication processes.
+  Administered SAP HANA and traditional databases (Oracle, SQL Server, DB2) including backup scheduling, data growth monitoring, and thorough system health checks.
+  Performed SAP kernel upgrades, applied Support Package Stacks (SPS), and managed Maintenance Planner and SUM tool operations for complete lifecycle management.
+  Monitored and configured EarlyWatch Alerts, Solution Manager diagnostics, and technical monitoring to ensure proactive system health management protocols.
+  Environment: SAP S/4HANA, SAP ECC, PFCG, SU01, SUIM, ST05, SAT, ST03N, ATC, SAP PI/PO, SAP CPI, SAP BTP, HANA Studio, BRTOOLS, SPAD, SAP Kernel, Support Package Stack (SPS), Maintenance Planner, SUM Tool, Oracle, SQL Server, DB2, SAML 2.0, Kerberos, SAP IdM, EarlyWatch Alerts, SAP Solution Manager.
+
+  Client: Allianz, Mumbai, India Jan 2018 – Aug 2019
+  Role: SAP Basis Consultant
+  Responsibilities:
+  Managed system refreshes, database copies, and client copies to ensure consistent and current test and development systems with minimal project disruption.
+  Automated SAP Basis tasks using PowerShell, Bash, and Python scripts, reducing manual efforts and improving system operation efficiency.
+  Configured and maintained SAP Workflow infrastructure and Business Rules Framework (BRF+), enabling smooth background processing and reliable business logic execution.
+  Administered SAP NetWeaver and SAP Fiori landscapes, including UI5 application configuration and troubleshooting Fiori Launchpad issues for optimal user experience.
+  Performed Enhancement Pack installations, kernel upgrades, and Support Package Stack (SPS) updates, ensuring up-to-date and secure SAP environments.
+  Implemented automation for SAP system operations using RPA tools, shell scripts, and job schedulers, improving process reliability and reducing manual workload.
+  Created technical documentation and provided knowledge transfer for SAP Basis procedures, improving team self-sufficiency and support continuity.
+  Managed SAP HANA database administration tasks including memory tuning, view optimization, and data modeling coordination with development teams.
+  Integrated SAP S/4HANA with third-party and cloud platforms using SAP PI/PO, SAP BTP, and REST/SOAP protocols, ensuring stable and secure data flow.
+  Configured and tuned SAP Instance Profiles to optimize system memory, CPU load, and buffer parameters, enhancing overall system performance.
+  Monitored and maintained SAP Enhancement Frameworks from the technical side, ensuring compatibility during upgrades and smooth system operations.
+  Environment: SAP NetWeaver, SAP Fiori, UI5, SAP Workflow, BRF+, SAP Enhancement Packs, SAP Kernel, SPS Updates, SAP HANA, SAP S/4HANA, SAP PI/PO, SAP BTP, RPA Tools, PowerShell, Bash, Python, REST, SOAP, Job Schedulers.
+
+  Client: Tech Mahindra, Pune, India Jun 2016 – Dec 2017
+  Role: SAP Basis Consultant
+  Responsibilities:
+  Handled SAP Basis administration for ECC and BW systems across development, QA, and production environments.
+  Performed system installations, upgrades, and kernel patches on UNIX and Windows platforms efficiently.
+  Managed client copies, system refreshes, and transport requests using the STMS tool.
+  Monitored system performance using ST02, ST03, SM50, and resolved performance-related issues quickly.
+  Conducted SAP Basis user administration and role management using SU01 and PFCG.
+  Managed database backups, restores, and coordinated system recovery with DBA teams.
+  Maintained RFC connections, background jobs, and spool configurations for stable operations.
+  Supported SAP security, audit checks, and role analysis using SUIM and trace tools.
+  Applied SAP Notes and collaborated with SAP OSS for timely issue resolution.
+  Assisted with early SAP HANA sizing, planning, and pre-migration technical activities under SAP Basis scope.
+  Environment: SAP ECC, SAP BW, STMS, SU01, PFCG, SUIM, UNIX, Windows Server, Oracle, SAP HANA, SAP Kernel Management, RFC, SM37.
+
+  EDUCATION: BTech in Computer Science and Engineering, June 2012 - May 2016 at JNTUH, India
+END_SECTION  EMPLOYMENT_HISTORY
+
+SECTION  PROJECTS
+  EMPTY
+END_SECTION  PROJECTS
+
+SECTION  EDUCATION
+  EMPTY
+END_SECTION  EDUCATION
+
+SECTION  PUBLICATIONS_AND_PATENTS
+  EMPTY
+END_SECTION  PUBLICATIONS_AND_PATENTS
+
+SECTION  AWARDS_AND_LEADERSHIP
+  EMPTY
+END_SECTION  AWARDS_AND_LEADERSHIP
+
+SECTION  SENIORITY_AND_SCOPE
+  SENIORITY_LEVEL  NULL
+END_SECTION  SENIORITY_AND_SCOPE
+
+SECTION  EMPLOYMENT_RECENCY
+  EMPTY
+END_SECTION  EMPLOYMENT_RECENCY
+
+SECTION  STABILITY_AND_TENURE
+  EMPTY
+END_SECTION  STABILITY_AND_TENURE
+
+SECTION  RAW_EXTRACTION
+  SAI CHARAN BASHABATHINI
+  SAP BASIS / ABAP/ S/4 HANA CONSULTANT
+  Email: saicharan1708@outlook.com Phone: 5014486998
+  LinkedIn: linkedin.com/in/sai-charan-bashabathini
+
+  PROFESSIONAL SUMMARY:
+  Over 8+ years of experience as an SAP Basis, ABAP, and S/4HANA Consultant, with hands-on expertise in system installations, upgrades, performance tuning, security, and technical development across diverse industry landscapes.
+  Proven success in SAP S/4HANA greenfield and brownfield implementations and migrations, ensuring minimal downtime, seamless data transitions, and optimal system performance.
+  Deep expertise in SAP Basis administration, covering ECC, BW, CRM, PI/PO, and Fiori components, including kernel upgrades, system refreshes, client copies, and patching activities.
+  Skilled in ABAP development and debugging, including performance tuning with Runtime Analysis, SQL Trace, and handling complex custom enhancements via BADIs and user exits.
+  Hands-on experience with HANA, Oracle, SQL Server, and DB2 database administration, including backup strategies, memory management, indexing, and archiving.
+  Developed and integrated SAP Fiori and SAPUI5 applications with backend ABAP services to deliver modern and user-centric business interfaces.
+  Strong knowledge of SAP Transport Management System (STMS), handling transport routes, request management, and cross-system landscape coordination.
+  Experienced in implementing and managing SAP Security and Authorizations, including RBAC, SUIM audits, Fiori Launchpad roles, and compliance enforcement.
+  Proficient in SAP system hardening and secure communications using SNC, SSL/TLS, and Single Sign-On (SSO) configurations with SAML, Kerberos, and SAP IdM.
+  Led SAP performance tuning initiatives, optimizing HANA queries, background job schedules, memory allocations, and workload distribution for enhanced efficiency.
+  Expertise in SAP PI/PO and CPI (Cloud Platform Integration) for seamless third-party and cross-platform integrations using RFCs, IDocs, REST/SOAP APIs, and SAP BTP.
+  Experienced in executing SAP kernel upgrades, Support Package Stack (SPS) updates, and system maintenance using SUM, SWPM, and Maintenance Planner, ensuring seamless and compliant system lifecycle management.
+  Proficient in automating routine SAP Basis administrative tasks using Shell, PowerShell, and Python scripting, reducing manual effort and enhancing operational efficiency and system reliability.
+  Expertise in administering SAP Solution Manager, configuring EarlyWatch Alerts, and implementing system monitoring for proactive health checks, capacity planning, and incident prevention.
+  Experienced in spool and printing administration, including SPAD configuration, output device setup, and efficient print issue resolution to support consistent enterprise-wide printing services.
+  Proficient in supporting SAP Workflow and BRF+ configurations, facilitating streamlined background processing and flexible business rule execution to meet evolving process automation needs.
+  Experienced in creating and managing technical documentation and executing structured knowledge transfer, delivering comprehensive runbooks, architecture blueprints, and operational guides to ensure knowledge continuity.
+  Expertise in fostering cross-functional collaboration with infrastructure, security, development, and operations teams to deliver stable, secure, and scalable SAP environments aligned with enterprise requirements.
+
+  TECHNICAL SKILLS:
+  SAP Modules & Technologies: SAP Basis (ECC, S/4HANA, BW, CRM, PI/PO, Fiori), SAP ABAP Development, SAP S/4HANA Implementations (Greenfield & Brownfield), Transport Management System (STMS), SAP Security & Authorizations (RBAC, SUIM, PFCG), SAP Fiori & SAPUI5 Integration, SAP Workflow & BRF+
+  Databases & Platforms: SAP HANA, Oracle, SQL Server, DB2 Database Administration, Backup & Recovery, Performance Tuning, Indexing, Archiving, Memory Management
+  System Administration & Tools: SAP Kernel Upgrades, Support Package Stacks (SPS), Software Update Manager (SUM), Maintenance Planner, System Refreshes, Client Copies, Transport Routes Management, System Monitoring & Performance Tuning (ST02, ST03, ST05, SAT, SM50, ATC), SAP PI/PO, SAP CPI, SAP BTP
+  Security & Integration: SNC, SSL/TLS, Single Sign-On (SSO) with SAML, Kerberos, SAP IdM, SAP API Management, RFCs, IDocs, REST/SOAP APIs, Cross-platform & Third-party Integrations
+  Scripting & Automation: Shell Scripting (Bash), PowerShell, Python, RPA Tools, Automation of SAP Basis Tasks, Job Scheduling
+  Operating Systems: Unix/Linux, Windows
+  Development & Debugging Tools: ABAP Debugger, Runtime Analysis, SQL Trace (ST05), Debugger Scripting, SAP Query, Quick Viewer, Report Painter, ABAP Unit Testing, BADIs, User Exits
+
+  PROFESSIONAL EXPERIENCE:
+
+  Client: Starbucks, Seattle, WA Apr 2024 – Present
+  Role: SAP Basis /ABAP/ S/4HANA Consultant
+  Responsibilities:
+  Installed, configured, and maintained SAP landscapes including SAP ECC, S/4HANA, BW, and CRM, ensuring system stability, high availability, and optimal performance across global enterprise environments with proactive monitoring tools.
+  Executed SAP S/4HANA implementations and migrations (Greenfield, Brownfield, Hybrid), ensuring seamless data transitions and minimal system downtime with thorough planning and execution while coordinating cross-functional teams.
+  Performed homogeneous and heterogeneous system migrations using Software Provisioning Manager (SWPM) and Database Migration Option (DMO) to support complex digital transformation initiatives effectively while ensuring data consistency.
+  Conducted SAP kernel upgrades and patching, applying SAP Notes, regression testing, and ensuring business continuity with minimal disruption to critical operations through meticulous risk assessment.
+  Administered databases (HANA, Oracle, SQL Server, DB2) with a focus on backup strategies, database growth management, indexing, and archiving to maintain system integrity and performance leveraging automation and scripting tools.
+  Implemented SAP system hardening by configuring SNC, SSL/TLS, and applying encryption standards for secure system communications, ensuring compliance with industry security policies and internal audit requirements.
+  Managed SAP Transport Management System (STMS), including transport routes setup, request handling, and environment refreshes across development, quality assurance, and production systems while minimizing change-related disruptions.
+  Led SAP performance tuning initiatives by optimizing HANA queries, memory allocations, background jobs, and overall system workload analysis to significantly improve efficiency resulting in faster processing times.
+  Developed and debugged complex ABAP programs, leveraging tools like Runtime Analysis, SQL Trace, and Debugger Scripting to resolve critical system issues proactively and improve overall system stability.
+  Designed and implemented ABAP reports using SAP Query, Quick Viewer, and Report Painter, offering flexible reporting capabilities tailored to diverse end-user business requirements to support strategic decision-making.
+  Built and integrated Fiori and SAPUI5 applications with backend ABAP services to deliver modern, user-friendly business interfaces and improved user experiences with responsive design principles.
+  Developed ABAP programs for mass data processing, ensuring efficiency with internal tables and optimized loop operations to handle large volumes of data reliably and minimize system resource consumption.
+  Designed and executed ABAP unit tests and implemented BADI enhancements to deliver high-quality, extensible solutions without modifying SAP standard code base for future-proof customizations.
+  Created and maintained comprehensive SAP Basis documentation, including system architecture, configuration guides, troubleshooting manuals, and compliance documentation for effective knowledge sharing and seamless team onboarding.
+  Implemented SAP Security & Authorization models including role-based access (RBAC), Fiori Launchpad authorizations, and SUIM-based audits to ensure system integrity and compliance with corporate security policies.
+  Managed SAP user and role administration using PFCG, regularly auditing roles and authorizations to align with corporate governance policies and security standards to prevent unauthorized access.
+  Applied SAP debugging tools to analyze short dumps, runtime errors, and database inconsistencies to ensure smooth and stable system operation under heavy workloads and optimize troubleshooting processes.
+  Coordinated cross-departmental efforts for SAP landscape optimization, improving collaboration and reducing system downtime through efficient communication protocols.
+  Automated routine SAP Basis tasks using shell scripts and SAP tools to reduce manual effort and improve operational efficiency resulting in faster issue resolution.
+  Conducted regular SAP system health checks, capacity planning, and performance audits to proactively address potential bottlenecks and maintain continuous system availability.
+  Environment: SAP ECC, SAP S/4HANA, SAP BW, SAP CRM, Software Provisioning Manager (SWPM), Database Migration Option (DMO), SAP Kernel, SAP Notes, STMS, SAP HANA, Oracle, SQL Server, DB2, SNC, SSL/TLS, ABAP, Runtime Analysis, SQL Trace, Debugger, SAP Query, Quick Viewer, Report Painter, SAP Fiori, SAPUI5, BADI, SUIM, PFCG, Shell Scripting.
+
+  Client: Zoetis, Parsippany, NJ Oct 2019 – Mar 2024
+  Role: SAP Basis & S/4HANA Consultant
+  Responsibilities:
+  Performed SAP Basis performance tuning by analyzing workload statistics, optimizing memory and buffer settings, and tuning background job processing for improved system stability and efficiency.
+  Handled SAP Basis system refreshes and client copies across development, QA, and production environments, maintaining consistent and accurate test data across landscapes.
+  Administered SAP user roles and profiles in SAP Basis using PFCG, SU01, and SUIM, enforcing secure access control and ensuring full SOX compliance requirements.
+  Installed and supported SAP Basis for SAP S/4HANA Logistics components (MM, SD, PP) at the infrastructure level, including system provisioning, support packages, and timely kernel updates.
+  Configured and supported interfaces at the Basis level using IDocs, RFCs, Web Services, and SAP PI/PO, ensuring smooth integration and reliable message flow.
+  Managed SAP system landscapes including system copies, SID changes, and system renaming for successful S/4HANA deployments and upgrades.
+  Conducted SAP performance analysis using tools like ST05 (SQL Trace), SAT, ST03N, and ATC, identifying and resolving major system bottlenecks quickly.
+  Implemented and supported SAP Cloud Platform Integration (CPI) and SAP API Management, connecting on-premise and cloud systems effectively and securely.
+  Deployed applications and services on SAP Business Technology Platform (BTP), focusing on connectivity, authentication, and comprehensive system administration tasks.
+  Designed and executed backup and disaster recovery strategies using HANA Studio, BRTOOLS, and native DB utilities to ensure continuous business continuity operations.
+  Administered SAP PI/PO systems including SLD configuration, message monitoring, and troubleshooting integration layer communication errors thoroughly and consistently.
+  Managed spool administration using SPAD, configuring output devices, resolving printing issues, and maintaining overall spool consistency across systems.
+  Supported SAP HANA performance tuning by monitoring memory usage, evaluating expensive statements, and optimizing system KPIs for efficiency.
+  Implemented Single Sign-On (SSO) using SAML 2.0, Kerberos, and integrated with SAP Identity Management (IdM) for centralized user authentication processes.
+  Administered SAP HANA and traditional databases (Oracle, SQL Server, DB2) including backup scheduling, data growth monitoring, and thorough system health checks.
+  Performed SAP kernel upgrades, applied Support Package Stacks (SPS), and managed Maintenance Planner and SUM tool operations for complete lifecycle management.
+  Monitored and configured EarlyWatch Alerts, Solution Manager diagnostics, and technical monitoring to ensure proactive system health management protocols.
+  Environment: SAP S/4HANA, SAP ECC, PFCG, SU01, SUIM, ST05, SAT, ST03N, ATC, SAP PI/PO, SAP CPI, SAP BTP, HANA Studio, BRTOOLS, SPAD, SAP Kernel, Support Package Stack (SPS), Maintenance Planner, SUM Tool, Oracle, SQL Server, DB2, SAML 2.0, Kerberos, SAP IdM, EarlyWatch Alerts, SAP Solution Manager.
+
+  Client: Allianz, Mumbai, India Jan 2018 – Aug 2019
+  Role: SAP Basis Consultant
+  Responsibilities:
+  Managed system refreshes, database copies, and client copies to ensure consistent and current test and development systems with minimal project disruption.
+  Automated SAP Basis tasks using PowerShell, Bash, and Python scripts, reducing manual efforts and improving system operation efficiency.
+  Configured and maintained SAP Workflow infrastructure and Business Rules Framework (BRF+), enabling smooth background processing and reliable business logic execution.
+  Administered SAP NetWeaver and SAP Fiori landscapes, including UI5 application configuration and troubleshooting Fiori Launchpad issues for optimal user experience.
+  Performed Enhancement Pack installations, kernel upgrades, and Support Package Stack (SPS) updates, ensuring up-to-date and secure SAP environments.
+  Implemented automation for SAP system operations using RPA tools, shell scripts, and job schedulers, improving process reliability and reducing manual workload.
+  Created technical documentation and provided knowledge transfer for SAP Basis procedures, improving team self-sufficiency and support continuity.
+  Managed SAP HANA database administration tasks including memory tuning, view optimization, and data modeling coordination with development teams.
+  Integrated SAP S/4HANA with third-party and cloud platforms using SAP PI/PO, SAP BTP, and REST/SOAP protocols, ensuring stable and secure data flow.
+  Configured and tuned SAP Instance Profiles to optimize system memory, CPU load, and buffer parameters, enhancing overall system performance.
+  Monitored and maintained SAP Enhancement Frameworks from the technical side, ensuring compatibility during upgrades and smooth system operations.
+  Environment: SAP NetWeaver, SAP Fiori, UI5, SAP Workflow, BRF+, SAP Enhancement Packs, SAP Kernel, SPS Updates, SAP HANA, SAP S/4HANA, SAP PI/PO, SAP BTP, RPA Tools, PowerShell, Bash, Python, REST, SOAP, Job Schedulers.
+
+  Client: Tech Mahindra, Pune, India Jun 2016 – Dec 2017
+  Role: SAP Basis Consultant
+  Responsibilities:
+  Handled SAP Basis administration for ECC and BW systems across development, QA, and production environments.
+  Performed system installations, upgrades, and kernel patches on UNIX and Windows platforms efficiently.
+  Managed client copies, system refreshes, and transport requests using the STMS tool.
+  Monitored system performance using ST02, ST03, SM50, and resolved performance-related issues quickly.
+  Conducted SAP Basis user administration and role management using SU01 and PFCG.
+  Managed database backups, restores, and coordinated system recovery with DBA teams.
+  Maintained RFC connections, background jobs, and spool configurations for stable operations.
+  Supported SAP security, audit checks, and role analysis using SUIM and trace tools.
+  Applied SAP Notes and collaborated with SAP OSS for timely issue resolution.
+  Assisted with early SAP HANA sizing, planning, and pre-migration technical activities under SAP Basis scope.
+  Environment: SAP ECC, SAP BW, STMS, SU01, PFCG, SUIM, UNIX, Windows Server, Oracle, SAP HANA, SAP Kernel Management, RFC, SM37.
+
+  EDUCATION: BTech in Computer Science and Engineering, June 2012 - May 2016 at JNTUH, India
+END_SECTION  RAW_EXTRACTION

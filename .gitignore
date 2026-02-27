@@ -1,0 +1,12 @@
+.resparse/
+.gemini/
+.env
+__pycache__/
+*.pyc
+node_modules/
+Final_output_JD_TOON/
+JD/
+input_resumes/
+Processed/
+Failed/
+.DS_Store
