@@ -12,3 +12,6 @@ pytest
 httpx
 flashtext
 openai
+gunicorn
+beautifulsoup4
+bs4
