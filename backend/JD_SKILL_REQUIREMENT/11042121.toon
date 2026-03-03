@@ -1,0 +1,41 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 11042121
+    REQUIRED_SKILLS:
+        - SKILL_ID: legal_analysis
+          CANONICAL_NAME: Legal Analysis
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: communication_skills
+          CANONICAL_NAME: Communication Skills
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: customer_service
+          CANONICAL_NAME: Customer Service
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: True
+          WEIGHT: 6.0
+        - SKILL_ID: research_skills
+          CANONICAL_NAME: Research Skills
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: ticketing_systems
+          CANONICAL_NAME: Ticketing Systems
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: True
+          WEIGHT: 5.0
+    OPTIONAL_SKILLS:
+        - Quality Control
+        - File Maintenance
+        - Legal Correspondence
+    CATEGORY_DISTRIBUTION:
+        Legal: 50
+        Customer Support: 30
+        Research: 20

@@ -1,0 +1,234 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: dheeraj_final_parsed_structure
+    CANDIDATE_NAME: Dheeraj Kumar Golla
+    SKILLS:
+        - CANONICAL_NAME: Oracle Fusion Cloud
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.8000
+        - CANONICAL_NAME: BI Publisher
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000
+        - CANONICAL_NAME: OTBI
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000
+        - CANONICAL_NAME: FBDI
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.6500
+        - CANONICAL_NAME: ADF Desktop Integrator
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000
+        - CANONICAL_NAME: Oracle Integration Cloud (OIC)
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.8000
+        - CANONICAL_NAME: REST APIs
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.6500
+        - CANONICAL_NAME: SQL
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.6500
+        - CANONICAL_NAME: PL/SQL
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000
+        - CANONICAL_NAME: SOAP APIs
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.0000
+        - CANONICAL_NAME: Agile
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000
+        - CANONICAL_NAME: Scrum
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000
+        - CANONICAL_NAME: Unix
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.0000
+        - CANONICAL_NAME: BPM Worklist
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.0000
+        - CANONICAL_NAME: Fast Formulas
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.0000
+        - CANONICAL_NAME: ESS Jobs
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.0000
+        - CANONICAL_NAME: Data Migration
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.6500
+        - CANONICAL_NAME: Data Extraction
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.0000
+        - CANONICAL_NAME: Configuration
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000
+        - CANONICAL_NAME: Monitoring
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.0000
+        - CANONICAL_NAME: Testing
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000
+        - CANONICAL_NAME: Design
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000
+        - CANONICAL_NAME: Collaboration
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2026
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 1.0000
+          COMPOSITE_SCORE: 4.5000

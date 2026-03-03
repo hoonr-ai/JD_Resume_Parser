@@ -1,0 +1,27 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 11042263
+    REQUIRED_SKILLS:
+        - SKILL_ID: devops
+          CANONICAL_NAME: DevOps
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: dot_net
+          CANONICAL_NAME: .NET
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: sql
+          CANONICAL_NAME: SQL
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+    OPTIONAL_SKILLS:
+        - Azure
+    CATEGORY_DISTRIBUTION:
+        DevOps: 40
+        Programming: 30
+        Database: 30

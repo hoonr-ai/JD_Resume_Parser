@@ -1,0 +1,174 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: charan_final_parsed_structure
+    CANDIDATE_NAME: SAI CHARAN BASHABATHINI
+    SKILLS:
+        - CANONICAL_NAME: SAP Basis
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.3851
+        - CANONICAL_NAME: ABAP
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.3851
+        - CANONICAL_NAME: S/4HANA
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.3851
+        - CANONICAL_NAME: SAP Fiori
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840
+        - CANONICAL_NAME: SAP HANA
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.3851
+        - CANONICAL_NAME: Database Administration
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.2846
+        - CANONICAL_NAME: Performance Tuning
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.2846
+        - CANONICAL_NAME: SAP Security
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.2846
+        - CANONICAL_NAME: Shell Scripting
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840
+        - CANONICAL_NAME: Python
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840
+        - CANONICAL_NAME: SQL
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840
+        - CANONICAL_NAME: SAP Transport Management System (STMS)
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840
+        - CANONICAL_NAME: SAP Cloud Platform Integration (CPI)
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840
+        - CANONICAL_NAME: SAP API Management
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840
+        - CANONICAL_NAME: SAP Solution Manager
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840
+        - CANONICAL_NAME: SAP Workflow
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840
+        - CANONICAL_NAME: SAP Business Technology Platform (BTP)
+          YEARS_TOTAL: 8.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 3.1840

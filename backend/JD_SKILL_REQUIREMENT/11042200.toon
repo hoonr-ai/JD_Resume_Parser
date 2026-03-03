@@ -1,0 +1,79 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 11042200
+    REQUIRED_SKILLS:
+        - SKILL_ID: java
+          CANONICAL_NAME: Java
+          MINIMUM_YEARS: 10.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: cloud_native_application_design
+          CANONICAL_NAME: Cloud-Native Application Design and Architecture
+          MINIMUM_YEARS: 10.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: microservices
+          CANONICAL_NAME: Microservices
+          MINIMUM_YEARS: 10.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: aws
+          CANONICAL_NAME: AWS
+          MINIMUM_YEARS: 10.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: azure
+          CANONICAL_NAME: Azure
+          MINIMUM_YEARS: 10.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: api_gateway
+          CANONICAL_NAME: API Gateway
+          MINIMUM_YEARS: 10.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: False
+          WEIGHT: 7.0
+        - SKILL_ID: no_sql
+          CANONICAL_NAME: NoSQL
+          MINIMUM_YEARS: 10.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: False
+          WEIGHT: 6.0
+        - SKILL_ID: data_engineering
+          CANONICAL_NAME: Data Engineering & Analytics
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: docker
+          CANONICAL_NAME: Docker
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 4.0
+        - SKILL_ID: communication
+          CANONICAL_NAME: Communication
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: False
+          WEIGHT: 3.0
+    OPTIONAL_SKILLS:
+        - Hadoop
+        - Apache Spark
+        - Hive/HDFS
+        - NiFi
+        - Machine Learning
+        - Data Analytics platforms
+        - Continuous Integration
+        - Continuous Deployment
+        - Pivotal Analytics
+        - Kognito Analytics
+    CATEGORY_DISTRIBUTION:
+        Cloud Architecture: 40
+        Software Development: 30
+        Data Engineering: 20
+        Communication Skills: 10

@@ -1,0 +1,134 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 13786860
+    REQUIRED_SKILLS:
+        - SKILL_ID: advanced_sql
+          CANONICAL_NAME: Advanced SQL
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: python
+          CANONICAL_NAME: Python
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: spark
+          CANONICAL_NAME: Spark
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: hadoop
+          CANONICAL_NAME: Hadoop
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 6.0
+        - SKILL_ID: aws_emr
+          CANONICAL_NAME: AWS EMR
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 6.0
+        - SKILL_ID: linux_shell
+          CANONICAL_NAME: Linux Shell
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: jira
+          CANONICAL_NAME: JIRA
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: git
+          CANONICAL_NAME: GIT
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: tableau
+          CANONICAL_NAME: Tableau
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 4.0
+        - SKILL_ID: power_bi
+          CANONICAL_NAME: Power BI
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 4.0
+        - SKILL_ID: excel
+          CANONICAL_NAME: Excel
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 4.0
+        - SKILL_ID: informatica
+          CANONICAL_NAME: Informatica
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 4.0
+        - SKILL_ID: netezza
+          CANONICAL_NAME: Netezza
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 4.0
+        - SKILL_ID: web_development
+          CANONICAL_NAME: Web Development
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 3.0
+        - SKILL_ID: javascript
+          CANONICAL_NAME: JavaScript
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 3.0
+        - SKILL_ID: java
+          CANONICAL_NAME: Java
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 3.0
+        - SKILL_ID: golang
+          CANONICAL_NAME: Golang
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 3.0
+        - SKILL_ID: sas
+          CANONICAL_NAME: SAS
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 3.0
+        - SKILL_ID: streaming
+          CANONICAL_NAME: Streaming
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 3.0
+        - SKILL_ID: kubernetes
+          CANONICAL_NAME: Kubernetes
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 3.0
+        - SKILL_ID: cloud_databases
+          CANONICAL_NAME: Cloud Databases
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 3.0
+    OPTIONAL_SKILLS: NONE
+    CATEGORY_DISTRIBUTION:
+        Programming: 50
+        Data Engineering: 30
+        Business Intelligence: 20

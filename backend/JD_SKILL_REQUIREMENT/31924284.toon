@@ -1,0 +1,83 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 31924284
+    REQUIRED_SKILLS:
+        - SKILL_ID: partner_programs_experience
+          CANONICAL_NAME: Partner Programs Experience
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: gtm_operations_experience
+          CANONICAL_NAME: GTM Operations Experience
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: revenue_operations_experience
+          CANONICAL_NAME: Revenue Operations Experience
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: platform_operations_experience
+          CANONICAL_NAME: Platform Operations Experience
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: ecosystem_product_roles_experience
+          CANONICAL_NAME: Ecosystem Product Roles Experience
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: tiered_partner_programs_design
+          CANONICAL_NAME: Tiered Partner Programs Design
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: pricing_models_understanding
+          CANONICAL_NAME: Pricing Models Understanding
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: business_logic_embedding
+          CANONICAL_NAME: Business Logic Embedding
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: b2b_saas_experience
+          CANONICAL_NAME: B2B SaaS Experience
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: prm_tools_experience
+          CANONICAL_NAME: PRM Tools Experience
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: compliance_exposure
+          CANONICAL_NAME: Compliance Exposure
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 6.0
+        - SKILL_ID: global_partner_scaling
+          CANONICAL_NAME: Global Partner Scaling
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+    OPTIONAL_SKILLS:
+        - Analytical Skills
+        - Systems Thinking
+        - Cross-Functional Alignment
+    CATEGORY_DISTRIBUTION:
+        Project Management: 50
+        Operations: 30
+        Compliance: 20

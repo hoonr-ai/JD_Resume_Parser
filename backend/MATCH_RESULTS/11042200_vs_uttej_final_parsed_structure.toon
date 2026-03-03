@@ -1,0 +1,127 @@
+MATCH_RESULT:
+    SCHEMA_VERSION: 1.0
+    OVERALL_MATCH_SCORE: 45.0
+    MATCH_BAND: Poor
+    DECISION_RECOMMENDATION: Reject
+    CONFIDENCE_SCORE: 0.6
+SCORE_BREAKDOWN:
+    SKILL_MATCH_SCORE: 30.0
+    CATEGORY_FIT_SCORE: 40.0
+    SENIORITY_ALIGNMENT_SCORE: 20.0
+    DOMAIN_ALIGNMENT_SCORE: 50.0
+    RECENCY_SCORE: 60.0
+SKILL_MATCH_ANALYSIS:
+    MANDATORY_SKILLS:
+        - SKILL_NAME: Java
+          JD_REQUIRED_YEARS: 10.0
+          CANDIDATE_YEARS: 9.0
+          JD_REQUIRED_PROFICIENCY: 3
+          CANDIDATE_PROFICIENCY: 4
+          MATCH_SCORE: 0.8
+          GAP_FLAG: True
+        - SKILL_NAME: Cloud-Native Application Design and Architecture
+          JD_REQUIRED_YEARS: 10.0
+          CANDIDATE_YEARS: 0.0
+          JD_REQUIRED_PROFICIENCY: 3
+          CANDIDATE_PROFICIENCY: 0
+          MATCH_SCORE: 0.0
+          GAP_FLAG: True
+        - SKILL_NAME: Microservices
+          JD_REQUIRED_YEARS: 10.0
+          CANDIDATE_YEARS: 5.0
+          JD_REQUIRED_PROFICIENCY: 3
+          CANDIDATE_PROFICIENCY: 4
+          MATCH_SCORE: 0.5
+          GAP_FLAG: True
+        - SKILL_NAME: AWS
+          JD_REQUIRED_YEARS: 10.0
+          CANDIDATE_YEARS: 5.0
+          JD_REQUIRED_PROFICIENCY: 3
+          CANDIDATE_PROFICIENCY: 4
+          MATCH_SCORE: 0.5
+          GAP_FLAG: True
+        - SKILL_NAME: Azure
+          JD_REQUIRED_YEARS: 10.0
+          CANDIDATE_YEARS: 0.0
+          JD_REQUIRED_PROFICIENCY: 3
+          CANDIDATE_PROFICIENCY: 0
+          MATCH_SCORE: 0.0
+          GAP_FLAG: True
+    OPTIONAL_SKILLS:
+        - SKILL_NAME: Docker
+          MATCH_SCORE: 0.5
+        - SKILL_NAME: NoSQL
+          MATCH_SCORE: 0.5
+    MISSING_SKILLS:
+        - SKILL_NAME: Cloud-Native Application Design and Architecture
+          IMPORTANCE_WEIGHT: 9.0
+        - SKILL_NAME: Azure
+          IMPORTANCE_WEIGHT: 8.0
+    ADJACENT_SKILLS_DETECTED: NONE
+CATEGORY_FIT:
+    BACKEND_FIT_SCORE: 50.0
+    FRONTEND_FIT_SCORE: 30.0
+    CLOUD_FIT_SCORE: 20.0
+    DATABASE_FIT_SCORE: 40.0
+    DEVOPS_FIT_SCORE: 30.0
+    OVERALL_CATEGORY_ALIGNMENT: 38.0
+SENIORITY_ALIGNMENT:
+    JD_SENIORITY_LEVEL: Senior
+    CANDIDATE_INFERRED_SENIORITY: Mid
+    ALIGNMENT_SCORE: 30.0
+EXPERIENCE_RISK_ANALYSIS:
+    CURRENTLY_EMPLOYED: True
+    RECENCY_SCORE: 60.0
+    AVERAGE_TENURE_MONTHS: 24
+    JOB_HOP_RISK_FLAG: False
+    CAREER_GAP_RISK_FLAG: False
+DOMAIN_ALIGNMENT:
+    JD_REQUIRED_DOMAINS:
+        - Cloud Architecture
+        - Software Development
+        - Data Engineering
+    CANDIDATE_DOMAINS:
+        - Software Development
+    DOMAIN_OVERLAP_SCORE: 33.33
+SKILL_GAP_ANALYSIS:
+    CRITICAL_GAPS:
+        - SKILL_NAME: Cloud-Native Application Design and Architecture
+          GAP_SEVERITY_SCORE: 9.0
+        - SKILL_NAME: Java
+          GAP_SEVERITY_SCORE: 1.0
+        - SKILL_NAME: Azure
+          GAP_SEVERITY_SCORE: 8.0
+    MODERATE_GAPS:
+        - SKILL_NAME: Microservices
+          GAP_SEVERITY_SCORE: 5.0
+        - SKILL_NAME: AWS
+          GAP_SEVERITY_SCORE: 5.0
+    MINOR_GAPS: NONE
+INTERVIEW_FOCUS_RECOMMENDATIONS:
+    - AREA: Cloud-Native Application Design
+      REASON: Candidate lacks experience in cloud-native architecture which is critical for the role.
+      PRIORITY: High
+    - AREA: Java
+      REASON: Candidate is close to the required experience but still falls short.
+      PRIORITY: Medium
+EXPLAINABILITY:
+    TOP_POSITIVE_FACTORS:
+        - Strong proficiency in Java and AWS
+        - Recent experience in relevant technologies
+    TOP_NEGATIVE_FACTORS:
+        - Significant gaps in mandatory skills
+        - Insufficient years of experience in key areas
+    MANDATORY_SKILL_PENALTY_APPLIED: True
+    SCORE_CONTRIBUTION_BREAKDOWN:
+        SKILLS: 30.0
+        SENIORITY: 20.0
+        DOMAIN: 50.0
+        RECENCY: 60.0
+        CATEGORY_ALIGNMENT: 40.0
+        STABILITY: 60.0
+AUDIT_TRAIL:
+    MATCHING_ALGORITHM: hybrid_weighted_semantic_v3
+    EMBEDDING_MODEL_VERSION: domain-tuned-slm-v2
+    SKILL_TAXONOMY_VERSION: internal_taxonomy_v5.1
+    DECAY_LAMBDA: 0.2
+    MANDATORY_THRESHOLD: 0.7

@@ -1,0 +1,55 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 31877645
+    REQUIRED_SKILLS:
+        - SKILL_ID: bilingual_spanish
+          CANONICAL_NAME: Bilingual Spanish
+          MINIMUM_YEARS: 0.5
+          REQUIRED_PROFICIENCY_LEVEL: 4
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: customer_service
+          CANONICAL_NAME: Customer Service
+          MINIMUM_YEARS: 0.5
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: call_center_support
+          CANONICAL_NAME: Call Center Support
+          MINIMUM_YEARS: 0.5
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: inbound_outbound_calls
+          CANONICAL_NAME: Inbound & Outbound Calls
+          MINIMUM_YEARS: 0.5
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: voice_support
+          CANONICAL_NAME: Voice Support
+          MINIMUM_YEARS: 0.5
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: communication_skills
+          CANONICAL_NAME: Communication Skills
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: False
+          WEIGHT: 7.0
+        - SKILL_ID: problem_solving
+          CANONICAL_NAME: Problem Solving
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: False
+          WEIGHT: 7.0
+        - SKILL_ID: empathy
+          CANONICAL_NAME: Empathy
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: False
+          WEIGHT: 7.0
+    OPTIONAL_SKILLS: NONE
+    CATEGORY_DISTRIBUTION:
+        Customer Service: 70
+        Communication: 30

@@ -1,0 +1,56 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 11041914
+    SENIORITY_LEVEL: Senior Engineer
+    REQUIRED_DOMAINS:
+        - Biotechnology
+        - Laboratory Automation
+    REQUIRED_SKILLS:
+        - SKILL_ID: liquid_handling_systems_programming
+          CANONICAL_NAME: Programming Liquid Handling Systems
+          MINIMUM_YEARS: 4.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: sample_preparation_techniques
+          CANONICAL_NAME: Sample Preparation Techniques
+          MINIMUM_YEARS: 4.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: troubleshooting_skills
+          CANONICAL_NAME: Troubleshooting Skills
+          MINIMUM_YEARS: 4.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: communication_skills
+          CANONICAL_NAME: Communication Skills
+          MINIMUM_YEARS: 4.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: programming_agilent_bravo
+          CANONICAL_NAME: Programming Agilent Bravo
+          MINIMUM_YEARS: 4.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: False
+          WEIGHT: 6.0
+        - SKILL_ID: programming_hamilton_vantage
+          CANONICAL_NAME: Programming Hamilton Vantage
+          MINIMUM_YEARS: 4.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: False
+          WEIGHT: 6.0
+        - SKILL_ID: project_management
+          CANONICAL_NAME: Project Management
+          MINIMUM_YEARS: 4.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: False
+          WEIGHT: 5.0
+    OPTIONAL_SKILLS:
+        - Experience with Retisoft’s Genera scheduler
+        - Integration of automated liquid handlers with supporting equipment
+    CATEGORY_DISTRIBUTION:
+        Laboratory Automation: 50
+        Programming: 30
+        Communication: 20

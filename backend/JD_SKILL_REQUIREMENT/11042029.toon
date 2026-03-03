@@ -1,0 +1,54 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 11042029
+    REQUIRED_SKILLS:
+        - SKILL_ID: ibm_websphere_portal
+          CANONICAL_NAME: IBM WebSphere Portal
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: ibm_wcm
+          CANONICAL_NAME: IBM WCM
+          MINIMUM_YEARS: 3.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: scripting_automation
+          CANONICAL_NAME: Scripting and Automation
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 7.0
+        - SKILL_ID: xml_access
+          CANONICAL_NAME: XML Access
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 6.0
+        - SKILL_ID: devops_tools
+          CANONICAL_NAME: DevOps Tools
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 6.0
+        - SKILL_ID: portal_security
+          CANONICAL_NAME: Portal Security
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: agile_environment
+          CANONICAL_NAME: Agile Work Environment
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 4.0
+    OPTIONAL_SKILLS:
+        - Good communication skills
+        - Interpersonal skills
+        - Analytical skills
+        - Technical skills
+    CATEGORY_DISTRIBUTION:
+        Portal Development: 50
+        DevOps: 30
+        Scripting: 20

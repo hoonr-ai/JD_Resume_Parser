@@ -1,0 +1,234 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: ss
+    CANDIDATE_NAME: Sugato Mukhopadhyay
+    SKILLS:
+        - CANONICAL_NAME: Java
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467
+        - CANONICAL_NAME: JavaScript
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467
+        - CANONICAL_NAME: HTML
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2456
+        - CANONICAL_NAME: CSS
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2456
+        - CANONICAL_NAME: AWS
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467
+        - CANONICAL_NAME: Azure
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467
+        - CANONICAL_NAME: Python
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467
+        - CANONICAL_NAME: Git
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2456
+        - CANONICAL_NAME: Agile Development
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2456
+        - CANONICAL_NAME: Relational Databases
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2456
+        - CANONICAL_NAME: Deep Learning
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.1799
+        - CANONICAL_NAME: Kubernetes
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.1799
+        - CANONICAL_NAME: Docker
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.1799
+        - CANONICAL_NAME: Microservices
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467
+        - CANONICAL_NAME: Spring Boot
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467
+        - CANONICAL_NAME: React
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467
+        - CANONICAL_NAME: REST APIs
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467
+        - CANONICAL_NAME: Data Science
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.1799
+        - CANONICAL_NAME: Data Processing
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.1799
+        - CANONICAL_NAME: IoT
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.1799
+        - CANONICAL_NAME: TypeScript
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.1799
+        - CANONICAL_NAME: NoSQL
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.1799
+        - CANONICAL_NAME: Cloud
+          YEARS_TOTAL: 3.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.4467

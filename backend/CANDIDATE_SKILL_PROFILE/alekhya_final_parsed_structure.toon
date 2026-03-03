@@ -1,0 +1,104 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: alekhya_final_parsed_structure
+    CANDIDATE_NAME: Alekhya Didige
+    INFERRED_SENIORITY: Mid-Level
+    CURRENTLY_EMPLOYED: True
+    AVERAGE_TENURE_MONTHS: 30
+    JOB_HOP_RISK_FLAG: False
+    CAREER_GAP_RISK_FLAG: False
+    CANDIDATE_DOMAINS:
+        - HR Technology
+        - Consulting
+        - Payroll
+        - HCM
+    SKILLS:
+        - CANONICAL_NAME: Workday HCM
+          YEARS_TOTAL: 4.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.6142
+        - CANONICAL_NAME: Workday Studio
+          YEARS_TOTAL: 4.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.6142
+        - CANONICAL_NAME: Python
+          YEARS_TOTAL: 4.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2791
+        - CANONICAL_NAME: SQL
+          YEARS_TOTAL: 4.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2791
+        - CANONICAL_NAME: Workday Extend
+          YEARS_TOTAL: 4.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.6142
+        - CANONICAL_NAME: XSLT
+          YEARS_TOTAL: 4.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.5
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2791
+        - CANONICAL_NAME: REST APIs
+          YEARS_TOTAL: 4.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2791
+        - CANONICAL_NAME: BIRT Reports
+          YEARS_TOTAL: 4.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.5
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.2791
+        - CANONICAL_NAME: Agile Methodologies
+          YEARS_TOTAL: 4.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.5
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 2.6142

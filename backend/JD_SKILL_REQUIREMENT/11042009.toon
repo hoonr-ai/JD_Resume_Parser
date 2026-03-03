@@ -1,0 +1,26 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 11042009
+    REQUIRED_SKILLS:
+        - SKILL_ID: edifecs
+          CANONICAL_NAME: EDIFECS
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: healthcare_experience
+          CANONICAL_NAME: Healthcare Experience
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+    OPTIONAL_SKILLS:
+        - analytical skills
+        - planning skills
+        - organizational skills
+        - development skills
+        - written communication skills
+        - oral communication skills
+        - interpersonal skills
+    CATEGORY_DISTRIBUTION:
+        Development: 70
+        Healthcare: 30

@@ -1,0 +1,69 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 11041972
+    REQUIRED_SKILLS:
+        - SKILL_ID: chemistry
+          CANONICAL_NAME: Chemistry
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: material_science
+          CANONICAL_NAME: Material Science
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: failure_analysis_techniques
+          CANONICAL_NAME: Failure Analysis Techniques
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: defect_characterization
+          CANONICAL_NAME: Defect Characterization
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: yield_analysis
+          CANONICAL_NAME: Yield Analysis
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: analytical_techniques
+          CANONICAL_NAME: Analytical Techniques
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: communication_skills
+          CANONICAL_NAME: Communication Skills
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 6.0
+        - SKILL_ID: collaborative_work
+          CANONICAL_NAME: Collaborative Work
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 6.0
+    OPTIONAL_SKILLS:
+        - FTIR
+        - Raman
+        - SEM
+        - EDX
+        - AFM
+        - TOF-SIMS
+        - XPS
+        - TEM
+        - GCMS
+        - Optical Inspection
+        - Ion Milling
+        - FIB
+        - X-section
+    CATEGORY_DISTRIBUTION:
+        Engineering: 50
+        Materials Science: 30
+        Analytical Techniques: 20

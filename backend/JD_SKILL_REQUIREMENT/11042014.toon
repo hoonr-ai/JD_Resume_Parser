@@ -1,0 +1,56 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 11042014
+    REQUIRED_SKILLS:
+        - SKILL_ID: java_8
+          CANONICAL_NAME: Java 8
+          MINIMUM_YEARS: 8.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: jpa_2_1
+          CANONICAL_NAME: JPA 2.1
+          MINIMUM_YEARS: 8.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: spring_core
+          CANONICAL_NAME: Spring Core
+          MINIMUM_YEARS: 8.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: micro_services_spring_boot
+          CANONICAL_NAME: Micro-Services using Spring Boot
+          MINIMUM_YEARS: 8.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: rest_standards
+          CANONICAL_NAME: Rest Standards
+          MINIMUM_YEARS: 8.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: spring_integration
+          CANONICAL_NAME: Spring Integration
+          MINIMUM_YEARS: 8.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: spring_cloud
+          CANONICAL_NAME: Spring Cloud
+          MINIMUM_YEARS: 8.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+    OPTIONAL_SKILLS:
+        - Netflix OSS Stack
+        - Hibernate
+        - Elastic Search as a transactional system
+        - In Memory Data Grid/NoSQL usage
+        - Docker Containerization
+        - Angular 5
+        - Bootstrap 4
+    CATEGORY_DISTRIBUTION:
+        Programming: 70
+        Database: 30

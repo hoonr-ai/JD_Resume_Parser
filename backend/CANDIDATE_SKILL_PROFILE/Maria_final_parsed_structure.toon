@@ -1,0 +1,94 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: Maria_final_parsed_structure
+    CANDIDATE_NAME: Maria Devitt
+    SKILLS:
+        - CANONICAL_NAME: Jira
+          YEARS_TOTAL: 1.50
+          YEARS_RECENT_3: 1.50
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.3995
+        - CANONICAL_NAME: ADaM
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.0032
+        - CANONICAL_NAME: SOPs
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 1.50
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.9894
+        - CANONICAL_NAME: CDISC
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.0032
+        - CANONICAL_NAME: SAS
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 1.50
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.0718
+        - CANONICAL_NAME: TFLs
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.0032
+        - CANONICAL_NAME: Data Analysis
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 1.50
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.0718
+        - CANONICAL_NAME: R
+          YEARS_TOTAL: 2.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.3171
+        - CANONICAL_NAME: Data Science
+          YEARS_TOTAL: 2.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.3171

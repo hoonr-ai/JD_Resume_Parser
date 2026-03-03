@@ -1,0 +1,114 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 31617741
+    REQUIRED_SKILLS:
+        - SKILL_ID: java_full_stack_development
+          CANONICAL_NAME: Java Full Stack Development
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: spring_boot
+          CANONICAL_NAME: Spring Boot
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: restful_apis
+          CANONICAL_NAME: RESTful APIs
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: microservices
+          CANONICAL_NAME: Microservices
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: orm_frameworks
+          CANONICAL_NAME: ORM Frameworks (Hibernate/JPA)
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: telecom_domain
+          CANONICAL_NAME: Telecom Domain
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 7.0
+        - SKILL_ID: javascript
+          CANONICAL_NAME: JavaScript
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 6.0
+        - SKILL_ID: typescript
+          CANONICAL_NAME: TypeScript
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 6.0
+        - SKILL_ID: angular_or_react
+          CANONICAL_NAME: Angular or React
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 6.0
+        - SKILL_ID: cmmc_compliance
+          CANONICAL_NAME: CMMC Compliance
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: secure_software_development
+          CANONICAL_NAME: Secure Software Development Lifecycle (SSDLC)
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: authentication_authorization_mechanisms
+          CANONICAL_NAME: Authentication/Authorization Mechanisms (OAuth2, SAML, JWT)
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: containerization
+          CANONICAL_NAME: Containerization (Docker, Kubernetes)
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: cloud_platforms
+          CANONICAL_NAME: Cloud Platforms (AWS, Azure, GCP)
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: network_security
+          CANONICAL_NAME: Network Security
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: telecom_billing_systems
+          CANONICAL_NAME: Telecom Billing Systems
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: agile_scrum
+          CANONICAL_NAME: Agile/Scrum
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+    OPTIONAL_SKILLS:
+        - CMMC-related certifications or training
+        - Exposure to SIEM tools
+        - Vulnerability scanners
+        - Secure DevOps practices
+    CATEGORY_DISTRIBUTION:
+        Programming: 60
+        Telecom: 30
+        Security: 10

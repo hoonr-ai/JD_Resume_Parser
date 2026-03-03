@@ -1,0 +1,104 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: Romy_final_parsed_structure
+    CANDIDATE_NAME: Romy Dulay
+    SKILLS:
+        - CANONICAL_NAME: Electrical Engineering
+          YEARS_TOTAL: 31.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.7367
+        - CANONICAL_NAME: Electrical Design
+          YEARS_TOTAL: 31.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.7367
+        - CANONICAL_NAME: Power Distribution
+          YEARS_TOTAL: 31.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.7367
+        - CANONICAL_NAME: Lighting Controls
+          YEARS_TOTAL: 31.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.7367
+        - CANONICAL_NAME: Fire Protection Systems
+          YEARS_TOTAL: 31.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.7367
+        - CANONICAL_NAME: Low Voltage Systems
+          YEARS_TOTAL: 31.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.7367
+        - CANONICAL_NAME: Data Centers
+          YEARS_TOTAL: 31.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.7367
+        - CANONICAL_NAME: AutoCAD
+          YEARS_TOTAL: 30.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.3680
+        - CANONICAL_NAME: Computer Graphics
+          YEARS_TOTAL: 30.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.0329
+        - CANONICAL_NAME: CAD Design
+          YEARS_TOTAL: 31.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2024
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 4.0
+          RECENCY_WEIGHT: 0.6703
+          COMPOSITE_SCORE: 6.5356

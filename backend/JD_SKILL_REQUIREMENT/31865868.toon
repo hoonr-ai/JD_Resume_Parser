@@ -1,0 +1,45 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 31865868
+    REQUIRED_SKILLS:
+        - SKILL_ID: inpatient_case_management
+          CANONICAL_NAME: Inpatient Case Management
+          MINIMUM_YEARS: 2.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: utilization_management
+          CANONICAL_NAME: Utilization Management
+          MINIMUM_YEARS: 2.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: acute_hospital_care_coordination
+          CANONICAL_NAME: Acute Hospital Care Coordination
+          MINIMUM_YEARS: 2.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: discharge_planning
+          CANONICAL_NAME: Discharge Planning
+          MINIMUM_YEARS: 2.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: regulatory_compliance
+          CANONICAL_NAME: Regulatory Compliance
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: healthcare_benefits_interpretation
+          CANONICAL_NAME: Healthcare Benefits Interpretation
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+    OPTIONAL_SKILLS:
+        - BLS Certification
+        - Active California RN License
+    CATEGORY_DISTRIBUTION:
+        Healthcare Management: 60
+        Regulatory Compliance: 40

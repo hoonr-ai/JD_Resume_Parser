@@ -1,0 +1,14 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: shruthi_final_parsed_structure
+    CANDIDATE_NAME: Sruthi Chamakura
+    SKILLS:
+        - CANONICAL_NAME: Java
+          YEARS_TOTAL: 7.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.2776

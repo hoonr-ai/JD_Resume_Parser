@@ -1,0 +1,68 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 28083791
+    REQUIRED_SKILLS:
+        - SKILL_ID: react_js
+          CANONICAL_NAME: React.js
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: microservices_architecture
+          CANONICAL_NAME: Microservices Architecture
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: node_js
+          CANONICAL_NAME: Node.js
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: python
+          CANONICAL_NAME: Python
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: ci_cd_pipelines
+          CANONICAL_NAME: CI/CD Pipelines
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 7.0
+        - SKILL_ID: javascript
+          CANONICAL_NAME: JavaScript
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: restful_api
+          CANONICAL_NAME: RESTful API
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 6.0
+        - SKILL_ID: git
+          CANONICAL_NAME: Git
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: html_css
+          CANONICAL_NAME: HTML5 and CSS3
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+    OPTIONAL_SKILLS:
+        - Express.js
+        - Flask
+        - MobX
+        - Flux
+        - modern front-end build pipelines and tools
+        - cross-browser compatibility
+    CATEGORY_DISTRIBUTION:
+        Frontend Development: 40
+        Backend Development: 40
+        DevOps: 20

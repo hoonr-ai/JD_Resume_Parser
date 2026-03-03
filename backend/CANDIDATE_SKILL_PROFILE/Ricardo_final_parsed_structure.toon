@@ -1,0 +1,234 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: Ricardo_final_parsed_structure
+    CANDIDATE_NAME: RICARDO PEREZ DIONISIO
+    SKILLS:
+        - CANONICAL_NAME: Excel
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.8385
+        - CANONICAL_NAME: Adobe InDesign
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.0032
+        - CANONICAL_NAME: Animation
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 2.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 2.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 0.8232
+        - CANONICAL_NAME: Multitasking
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.1129
+        - CANONICAL_NAME: Canva
+          YEARS_TOTAL: 2.00
+          YEARS_RECENT_3: 2.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.2897
+        - CANONICAL_NAME: Data Entry
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.9483
+        - CANONICAL_NAME: Adobe Premiere Pro
+          YEARS_TOTAL: 2.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 2.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 2.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 0.9604
+        - CANONICAL_NAME: Outlook
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.9483
+        - CANONICAL_NAME: Teller Express
+          YEARS_TOTAL: 2.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 2.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.0427
+        - CANONICAL_NAME: Adobe Creative Suite
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.1129
+        - CANONICAL_NAME: Microsoft 365
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.9483
+        - CANONICAL_NAME: PowerPoint
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.9483
+        - CANONICAL_NAME: Figma
+          YEARS_TOTAL: 2.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 2.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 2.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 0.9604
+        - CANONICAL_NAME: Word
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.9483
+        - CANONICAL_NAME: UX/UI Design
+          YEARS_TOTAL: 2.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 2.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.0427
+        - CANONICAL_NAME: Supervisor
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.0032
+        - CANONICAL_NAME: Adobe Photoshop
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.1129
+        - CANONICAL_NAME: Scheduling
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.9483
+        - CANONICAL_NAME: Software
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 1.8385
+        - CANONICAL_NAME: Graphic Design
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.1129
+        - CANONICAL_NAME: Microsoft SharePoint
+          YEARS_TOTAL: 2.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 2.0
+          FREQUENCY_SCORE: 3.0
+          IMPACT_WEIGHT: 2.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 0.9604
+        - CANONICAL_NAME: Testing
+          YEARS_TOTAL: 1.00
+          YEARS_RECENT_3: 1.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 2.0
+          FREQUENCY_SCORE: 2.0
+          IMPACT_WEIGHT: 2.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 0.8232
+        - CANONICAL_NAME: Design
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.1129

@@ -1,0 +1,204 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: yashwanth_final_parsed_structure
+    CANDIDATE_NAME: Yaswanth P
+    SKILLS:
+        - CANONICAL_NAME: Site Reliability Engineering
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: DevOps
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Cloud Engineering
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Linux Administration
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: AWS
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Azure
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Google Cloud Platform
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: CI/CD
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Containerization
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Configuration Management
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Terraform
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Kubernetes
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Docker
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Python
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Monitoring
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Machine Learning
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Data Analysis
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Version Control
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Networking
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459
+        - CANONICAL_NAME: Security
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 5.0
+          SENIORITY_WEIGHT: 5.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 3.0459

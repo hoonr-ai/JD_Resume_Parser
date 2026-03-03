@@ -1,0 +1,27 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 11042045
+    REQUIRED_SKILLS:
+        - SKILL_ID: pbm
+          CANONICAL_NAME: PBM
+          MINIMUM_YEARS: 3.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 5.0
+        - SKILL_ID: healthcare_experience
+          CANONICAL_NAME: Healthcare Experience
+          MINIMUM_YEARS: 5.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 5.0
+    OPTIONAL_SKILLS:
+        - analytical skills
+        - planning skills
+        - organizational skills
+        - time management skills
+        - facilitation skills
+        - written communication skills
+        - oral communication skills
+        - interpersonal skills
+    CATEGORY_DISTRIBUTION:
+        Healthcare: 60
+        Analytical Skills: 40

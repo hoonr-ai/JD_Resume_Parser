@@ -1,0 +1,154 @@
+CANDIDATE_SKILL_PROFILE
+    CANDIDATE_ID: Cindy_final_parsed_structure
+    CANDIDATE_NAME: Cindy Levy
+    SKILLS:
+        - CANONICAL_NAME: Data Entry
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 2.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.3873
+        - CANONICAL_NAME: Accounts Payable
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 2.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.5520
+        - CANONICAL_NAME: Medical Transcription
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2020
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 2.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.3012
+          COMPOSITE_SCORE: 0.7831
+        - CANONICAL_NAME: Anatomy
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2020
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 2.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.3012
+          COMPOSITE_SCORE: 0.7831
+        - CANONICAL_NAME: Excel
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.7989
+        - CANONICAL_NAME: Physiology
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2020
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 2.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.3012
+          COMPOSITE_SCORE: 0.7831
+        - CANONICAL_NAME: PowerPoint
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.6343
+        - CANONICAL_NAME: Accounts Receivable
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 2.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.5520
+        - CANONICAL_NAME: Microsoft Office
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.7989
+        - CANONICAL_NAME: Word
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 5.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.6343
+        - CANONICAL_NAME: Access
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2020
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 2.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.3012
+          COMPOSITE_SCORE: 0.7831
+        - CANONICAL_NAME: Outlook
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 3.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 4.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.6343
+        - CANONICAL_NAME: HIPAA
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2020
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 2.0
+          IMPACT_WEIGHT: 4.0
+          SENIORITY_WEIGHT: 3.0
+          RECENCY_WEIGHT: 0.3012
+          COMPOSITE_SCORE: 0.8735
+        - CANONICAL_NAME: Medical Terminology
+          YEARS_TOTAL: 5.00
+          YEARS_RECENT_3: 0.00
+          LAST_USED: 2020
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 2.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.3012
+          COMPOSITE_SCORE: 0.7831
+        - CANONICAL_NAME: Ten Key
+          YEARS_TOTAL: 10.00
+          YEARS_RECENT_3: 2.00
+          LAST_USED: 2023
+          PROFICIENCY_SCORE: 3.0
+          FREQUENCY_SCORE: 4.0
+          IMPACT_WEIGHT: 3.0
+          SENIORITY_WEIGHT: 2.0
+          RECENCY_WEIGHT: 0.5488
+          COMPOSITE_SCORE: 2.3873

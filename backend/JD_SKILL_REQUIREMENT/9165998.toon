@@ -1,0 +1,48 @@
+JD_SKILL_REQUIREMENT
+    JD_ID: 9165998
+    REQUIRED_SKILLS:
+        - SKILL_ID: salesforce_development
+          CANONICAL_NAME: Salesforce.com Development
+          MINIMUM_YEARS: 1.0
+          REQUIRED_PROFICIENCY_LEVEL: 3
+          MANDATORY: True
+          WEIGHT: 10.0
+        - SKILL_ID: salesforce_certification
+          CANONICAL_NAME: Salesforce.com Developer Certification
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 4
+          MANDATORY: True
+          WEIGHT: 9.0
+        - SKILL_ID: financial_services_experience
+          CANONICAL_NAME: Financial Services Experience
+          MINIMUM_YEARS: 1.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: True
+          WEIGHT: 8.0
+        - SKILL_ID: data_systems_analysis
+          CANONICAL_NAME: Data and Systems Analysis
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 5.0
+        - SKILL_ID: object_data_process_modeling
+          CANONICAL_NAME: Object, Data, and Process Modeling
+          MINIMUM_YEARS: 1.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 4.0
+        - SKILL_ID: lean_agile_methodologies
+          CANONICAL_NAME: Lean/Agile Methodologies
+          MINIMUM_YEARS: 0.0
+          REQUIRED_PROFICIENCY_LEVEL: 2
+          MANDATORY: False
+          WEIGHT: 3.0
+    OPTIONAL_SKILLS:
+        - General knowledge of pertinent technologies
+        - Basic skills in business process design
+        - Clear concise communication
+        - Exposure to working with third parties and suppliers
+    CATEGORY_DISTRIBUTION:
+        Software Development: 50
+        Financial Services: 30
+        Project Management: 20
