@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JD & Resume Parser</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/style.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨</text></svg>"
+    />
+  </head>
+  <body>
+    <div class="app-container">
+      <header>
+        <div class="header-left">
+          <div class="logo">
+            <span class="logo-icon">✨</span>
+            <h1>Parser Platform</h1>
+          </div>
+          <p class="subtitle">Intelligent Extraction & Transformation</p>
+        </div>
+        <div class="header-right">
+          <a href="/docs" target="_blank" class="text-link"
+            >View Swagger Docs ↗</a
+          >
+        </div>
+      </header>
+
+      <main>
+        <div class="tabs">
+          <button class="tab-btn active" data-tab="resume-json">
+            Resume to JSON
+          </button>
+          <button class="tab-btn" data-tab="resume-toon">Resume to TOON</button>
+          <button class="tab-btn" data-tab="jd-toon">JD to TOON</button>
+        </div>
+
+        <div class="tab-content active" id="resume-json">
+          <div class="input-section">
+            <label for="resume-json-input">Paste Resume Plaintext</label>
+            <textarea
+              id="resume-json-input"
+              placeholder="Enter full resume text here..."
+            ></textarea>
+            <button class="primary-btn" onclick="parseResumeToJson()">
+              <span>Parse to JSON</span>
+              <div class="loader hidden"></div>
+            </button>
+          </div>
+          <div class="output-section">
+            <label>Output JSON</label>
+            <div class="code-container">
+              <pre><code id="resume-json-output">Results will appear here...</code></pre>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-content" id="resume-toon">
+          <div class="input-section">
+            <label for="resume-toon-input">Paste Resume Plaintext</label>
+            <textarea
+              id="resume-toon-input"
+              placeholder="Enter full resume text here..."
+            ></textarea>
+            <button class="primary-btn" onclick="parseResumeToToon()">
+              <span>Parse to TOON</span>
+              <div class="loader hidden"></div>
+            </button>
+          </div>
+          <div class="output-section">
+            <label>Output TOON</label>
+            <div class="code-container">
+              <pre><code id="resume-toon-output">Results will appear here...</code></pre>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-content" id="jd-toon">
+          <div class="input-section">
+            <label for="jd-toon-input">Paste Job Description JSON Array</label>
+            <textarea
+              id="jd-toon-input"
+              placeholder='[
+  {
+    "job_id": "123",
+    "title": "Software Engineer",
+    "description": "..."
+  }
+]'
+            ></textarea>
+            <button class="primary-btn" onclick="parseJdToToon()">
+              <span>Parse JD to TOON</span>
+              <div class="loader hidden"></div>
+            </button>
+          </div>
+          <div class="output-section">
+            <label>Output TOON</label>
+            <div class="code-container">
+              <pre><code id="jd-toon-output">Results will appear here...</code></pre>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

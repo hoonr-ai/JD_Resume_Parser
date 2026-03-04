@@ -10,3 +10,6 @@ input_resumes/
 Processed/
 Failed/
 .DS_Store
+.venv/
+backend/webapp_logs/
+backend/webapp_logs.zip
